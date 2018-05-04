@@ -1,0 +1,32 @@
+{
+    "meta_info": [
+        "com.alipay.android.phone.falcon.bean.FalconMetaInfo",
+        "com.alipay.mobile.security.bio.bean.FaceMetaInfo"
+    ],
+    "local_services": [
+        {
+            "interface":"com.alipay.mobile.security.bio.service.local.dynamicrelease.DynamicReleaseService",
+            "essential":false,
+            "class":"com.alipay.mobile.security.bio.service.local.runtime.AlipayDynamicReleaseService",
+            "lazy":true
+        },
+        {
+            "interface":"com.alipay.mobile.security.bio.service.local.monitorlog.MonitorLogService",
+            "essential":true,
+            "class":"com.alipay.android.phone.mobilecommon.logger.AlipayMonitorLogService",
+            "lazy":true
+        },
+        {
+            "interface":"com.alipay.mobile.security.bio.service.local.rpc.BioRPCService",
+            "essential":true,
+            "class":"com.alipay.android.phone.mobilecommon.rpc.AlipayRpcService",
+            "lazy":true
+        },
+        {
+            "interface":"com.alipay.mobile.security.bio.service.local.apsecurity.ApSecurityService",
+            "essential":false,
+            "class":"com.alipay.android.phone.mobilecommon.apsecurity.AlipaySecurityService",
+            "lazy":false
+        }
+    ]
+}

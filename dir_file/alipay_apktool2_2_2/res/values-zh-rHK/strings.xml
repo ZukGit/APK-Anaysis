@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="local_push_alertbody_1">小夥伴們都在賺“大”錢，還不壹起來？</string>
+    <string name="local_push_alertbody_2">[有人@妳]妳又有1個朋友用我打折了哦~</string>
+    <string name="local_push_alertbody_3">[有人@妳]妳的生活管家在這裏，等妳哦！</string>
+    <string name="local_push_title_1">開啟便捷生活</string>
+    <string name="local_push_title_2">有人@妳</string>
+    <string name="local_push_title_3">有人@妳</string>
+    <string name="name">支付寶</string>
+    <string name="share_more">更多</string>
+    <string name="share_to_alipay">分享到支付寶</string>
+    <string name="share_to_contact">發送給朋友</string>
+    <string name="share_to_contact_timeline">分享到生活圈</string>
+    <string name="share_to_dingding">分享到釘釘</string>
+    <string name="share_to_laiwang">分享到來往</string>
+    <string name="share_to_laiwang_timeline">分享到來往動態</string>
+    <string name="share_to_linkcopy">複制鏈接</string>
+    <string name="share_to_mylife">朋友動態</string>
+    <string name="share_to_qq">分享到QQ</string>
+    <string name="share_to_qzone">分享到QQ空間</string>
+    <string name="share_to_sms">分享到短信</string>
+    <string name="share_to_weibo">分享到微博</string>
+    <string name="share_to_weixin">分享到微信</string>
+    <string name="share_to_weixin_timeline">分享到微信朋友圈</string>
+</resources>

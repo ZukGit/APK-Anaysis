@@ -1,0 +1,22 @@
+[
+	{
+        "name": "GroupChat",
+        "className": "com.alipay.mobile.launcher.GroupChatMenuItem"
+    },
+	{
+        "name": "AddFriend",
+        "className": "com.alipay.mobile.launcher.AddFriendMenuItem"
+    },
+    {
+        "name": "Scan",
+        "className": "com.alipay.mobile.launcher.ScanMenuItem"
+    },
+    {
+        "name": "Payee",
+        "className": "com.alipay.mobile.payee.app.LauncherQrCodeItem"
+    },
+    {
+        "name": "voiceAssistant",
+        "className": "com.alipay.android.phone.home.widget.IntelligentMenuItem"
+    }
+]

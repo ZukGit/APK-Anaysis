@@ -1,0 +1,20 @@
+{
+    "framework_version": "3.7.0",
+    "configs": [
+        {
+            "config_file_name":"zoloz_biometric.json",
+            "bundle_name":"android-phone-securitycommon-biometric",
+            "dynamic":false
+        },
+        {
+            "config_file_name":"zoloz_eyemetric.json",
+            "bundle_name":"android-phone-securitycommon-eyemetric",
+            "dynamic":true
+        },
+        {
+            "config_file_name":"zoloz_auto.json",
+            "bundle_name":"android-auto-scanface",
+            "dev":true
+        }
+    ]
+}

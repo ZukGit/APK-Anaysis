@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_top_detail">View Details</string>
+    <string name="i_know">Got it</string>
+    <string name="local_push_alertbody_1">Friends are making a lot of money, do not come together?</string>
+    <string name="local_push_alertbody_2">[Someone @ you] your friend got a discount here~</string>
+    <string name="local_push_alertbody_3">[Someone @you] your life butler waiting for you here ~</string>
+    <string name="local_push_title_1">Open a convenient life</string>
+    <string name="local_push_title_2">Someone @you</string>
+    <string name="local_push_title_3">Someone @you</string>
+    <string name="name">Alipay</string>
+    <string name="refresh_every_minute">Auto-update per min for facetoface transaction</string>
+    <string name="risk_hint_text">The Barcode or QR code should only be used for face to face transaction. Do not leak it to third party in case of any financial loss. A separate unit for requesting money is available.</string>
+    <string name="share_more">more</string>
+    <string name="share_to_alipay">Share on Alipay</string>
+    <string name="share_to_contact">Send to friends</string>
+    <string name="share_to_contact_timeline">Share on your social network</string>
+    <string name="share_to_dingding">Share on DingTalk</string>
+    <string name="share_to_laiwang">Share on Laiwang</string>
+    <string name="share_to_laiwang_timeline">Share on Laiwang Moments</string>
+    <string name="share_to_linkcopy">Copy URL</string>
+    <string name="share_to_mylife">Moments</string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_qzone">Share on Qzone</string>
+    <string name="share_to_sms">Share on SMS</string>
+    <string name="share_to_weibo">Share on Weibo</string>
+    <string name="share_to_weixin">Share on WeChat</string>
+    <string name="share_to_weixin_timeline">Share on WeChat Moments</string>
+    <string name="show_barcode_num">Click to enlarge the bar code number</string>
+</resources>

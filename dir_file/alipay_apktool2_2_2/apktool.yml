@@ -1,0 +1,40 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: alipay.apk
+compressionType: false
+doNotCompress:
+- zip
+- assets/face_model
+- bin
+- txt
+- webp
+- dat
+- assets/errorpage/networkerror
+- assets/errorpage/nonetwork
+- assets/material/icons/PqBpO4iuQ4COrd3VxC0iyQAAACMAAQED
+- assets/material/icons/aSY2fkC7TvensH-UqsYG1QAAACMAAQED
+- assets/material/icons/cEslNfG0SlCygvuDYFoagwAAACMAAQED
+- assets/material/icons/ijDrs3cOTHytkgyqv5iFzwAAACMAAQED
+- assets/material/icons/kpp7pwK4RZyb1mu-4oPfVwAAACMAAQED
+- assets/material/icons/sAB01UqKQTaBN2qoiN6IdgAAACMAAQED
+- assets/material/icons/zKhxd1xkTeugIznul3xdPwAAACMAAQED
+- assets/material/icons/zS4MjRGcRv2DYW1s5vsFfwAAACMAAQED
+- assets/nebulaPreset/20000196
+- assets/nebulaPreset/66666692
+- so
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.2
+versionInfo:
+  versionCode: '127'
+  versionName: 10.1.22.835

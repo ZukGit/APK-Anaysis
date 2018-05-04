@@ -1,0 +1,4001 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: assets/bad_light.gif
+SHA1-Digest: awn7ZhjnDTk3Sco1q6wbw0Ex6Gw=
+
+Name: assets/common-new.css
+SHA1-Digest: rPiKDS5LqGbPfWfcDYeDtCv/woM=
+
+Name: res/drawable/round_corner_background.xml
+SHA1-Digest: A5jzUtFTndQeXYfgeuTwkypp6Gs=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2ohome.so
+SHA1-Digest: g2JC9ZC7ZNinEv6v+b1GUuW4s3I=
+
+Name: assets/KOUBEI@home_headline_unfollow_title@1
+SHA1-Digest: NpiAQijZugYsbE9MF6CXqiG/d3A=
+
+Name: assets/KOUBEI@mistpage_detail_choose_pay@1
+SHA1-Digest: uMg/3AofItzc4Mt4KnynR5fHTeY=
+
+Name: assets/bank_mark/icon/TCCB.png
+SHA1-Digest: k1TJJcJD3Srl++xhTF3jYYkIB94=
+
+Name: res/drawable-xxhdpi-v4/msg_redpoint.webp
+SHA1-Digest: dJrep9Do3tUsejFe0Lo4AlbRjlI=
+
+Name: assets/OVERSEAS@intl_home_navi
+SHA1-Digest: aB3HsUCQPtMa4fPaXCdYyay8Htk=
+
+Name: res/drawable/download_icon.png
+SHA1-Digest: 11T/DU5bmMIdvw+8cdHYb/Ew3bs=
+
+Name: assets/OVERSEAS@intl_biz_district_promotion
+SHA1-Digest: 7zWhy7Vra5bq38iHL9EnlzCaYyA=
+
+Name: assets/tts/amr/tts_7.amr
+SHA1-Digest: Io/7+cK63S8gX0SuE2DfqHbT87M=
+
+Name: assets/emotions/emotion_small_63.webp
+SHA1-Digest: 8rqvsYP4aEoY14NI3zm/r8E+Xfg=
+
+Name: assets/BANK_TZCB.png
+SHA1-Digest: NqmvkNqIiWeXHFWbYnbE9M7hFdE=
+
+Name: assets/BANK_CITIC.png
+SHA1-Digest: 4wUnA/bHiE10d5JtDM0hQyyt0Kc=
+
+Name: assets/emotions/emotion_small_29.webp
+SHA1-Digest: FfMSMqUmhFNxXSntmnCqa41UX6Y=
+
+Name: assets/emotions/emotion_small_80.webp
+SHA1-Digest: XPqrfEIfCbBz1+QJKnR5ihjjAJA=
+
+Name: assets/bank_mark/icon/BOQH.png
+SHA1-Digest: 3ocFUKMbtyaZaxcN/S2C18lu7A4=
+
+Name: lib/armeabi/libalipaywear.so
+SHA1-Digest: v2Qspe6yQKv93puY2ZgyDOwBPIs=
+
+Name: assets/WealthCalc@financialTool_loan
+SHA1-Digest: Lfv2JAEb8jCIGwI7sYWksPDhsds=
+
+Name: res/drawable/title_progree_bar.xml
+SHA1-Digest: zAtxxVIFNpnEqw8P+DYTHr/EWRg=
+
+Name: res/drawable/tab_icon_code.xml
+SHA1-Digest: rvZjLwW79/8tCY9oiC3jDQIrxus=
+
+Name: assets/OVERSEAS@intl_home_featured_district_item
+SHA1-Digest: kwYtzVw0EwHPXCommmejqzh8Pa0=
+
+Name: assets/WALLET-SEARCH@MerchantService
+SHA1-Digest: KTMdnjsoP2HQ50yO6P1k63x0FsM=
+
+Name: assets/WealthCalc@financialTool_despoist_rate
+SHA1-Digest: cnUmmNrT+cckReY80sppQFgXVmM=
+
+Name: assets/KOUBEI@order_detail_reserve@6
+SHA1-Digest: z0ypUd3M3vKOlkBWk58YHUr7r5w=
+
+Name: assets/WALLET-SEARCH@financial_report
+SHA1-Digest: GMiuQLgi8uvmAWW5lLQmuoYH6jM=
+
+Name: assets/dot_activated.json
+SHA1-Digest: 1kh6tkDYbaFe15y4iSgcSGlEou8=
+
+Name: res/anim/fading_out.xml
+SHA1-Digest: DOCOEbUFu9YxNX0+9TN4Hl6rzEY=
+
+Name: res/drawable/stripes.png
+SHA1-Digest: AMwtHYS57ZzmA4K8ocma0S5djzY=
+
+Name: lib/armeabi/libInNativeProcess.so
+SHA1-Digest: LCneMU9N5hWaPIjQy26COmpqX+Q=
+
+Name: lib/armeabi/libopenssl.so
+SHA1-Digest: nGA/oYgt9SNe6uXkGlh54EX/4H0=
+
+Name: lib/armeabi/libandroid-phone-wallet-qengine.so
+SHA1-Digest: izWlYj9KOToMOlf8dIi+j32Ki+k=
+
+Name: lib/armeabi/libandroid-phone-wallet-voiceassistant.so
+SHA1-Digest: GXtUGws7rZR9lWS6YYrqzt9utLQ=
+
+Name: assets/emotions/emotion_small_79.webp
+SHA1-Digest: bTdm3kkB69kPscpOcDLVcs7fEyA=
+
+Name: assets/BANK_TLBANK.png
+SHA1-Digest: QDu51O+FLuTshemTiuVcv68uTNI=
+
+Name: assets/KOUBEI@detail_nearby_recommend_1@32
+SHA1-Digest: lG6CpZiwJSdnh1kJk48HrfWfnfs=
+
+Name: assets/floor_loading_finish.json
+SHA1-Digest: xljZ/4CpZkj+2G45lfnR/CaVOPw=
+
+Name: assets/bank_mark/icon/JSBANK.png
+SHA1-Digest: /Cw8ScNO33nAF7hW6BypbEoCurk=
+
+Name: assets/QUICKPAY@cashier-card-no-flex
+SHA1-Digest: jKhcuP7aXXiSR/9/1IEM/Ef1Pfk=
+
+Name: lib/armeabi/libtnet-3.1.14.so
+SHA1-Digest: 6f+UJT817lUnKbuEXmcAVit2MtA=
+
+Name: res/raw/hongbao_gx.mp3
+SHA1-Digest: zDxGKW+VwTRmRHWWV0f8vb4hWbY=
+
+Name: assets/BANK_SHBANK.png
+SHA1-Digest: H5RLaHhA/9ZBO7nOlk2PuVzPTtc=
+
+Name: assets/WealthCalc@financialTool_home
+SHA1-Digest: eYYQoLMNvXm9Y3yucJk1xrWlNog=
+
+Name: res/anim/fading_in.xml
+SHA1-Digest: nkSs44NdmDjTMGKjOVhfKT5w6Pw=
+
+Name: res/drawable-xxhdpi-v4/notify_transfer.png
+SHA1-Digest: VnxUAsUbhHxN3q1rHRWjuYQKjIk=
+
+Name: assets/BANK_HKB.png
+SHA1-Digest: KsgfOeBAslUEUOdDhSanToXMuPY=
+
+Name: assets/emotions/emotion_small_46.webp
+SHA1-Digest: 1bey0G/ya4g4HRKPcxE/P3/wsH8=
+
+Name: lib/armeabi/libandroid-phone-wallet-emotionsearch.so
+SHA1-Digest: CDHWGrHm+mZxsLvsQT1AjwnxIQQ=
+
+Name: lib/armeabi/libdexpatch.so
+SHA1-Digest: xLbP31u0y2KPcGU34lAHkiPwneA=
+
+Name: assets/default/default.ttf
+SHA1-Digest: hy/CqSh1dnwMxgRB6jMjDq1xTyI=
+
+Name: lib/armeabi/liblinearallocpatch.so
+SHA1-Digest: HNxUafecOmzOSotkUhT+7UT1gI0=
+
+Name: res/drawable-xxhdpi-v4/share_alipay.png
+SHA1-Digest: Nq0UgR8+LIstx+PbX+Mcyl1yXhI=
+
+Name: assets/networkNoteAndroid.html
+SHA1-Digest: h5C3/m23aQSCZ7+s1LBBzbF2JiE=
+
+Name: lib/armeabi/libandroid-phone-wallet-cardbiz.so
+SHA1-Digest: qwx8v0Be4xQ9YLPYerfK3cDABp8=
+
+Name: assets/KOUBEI@detail_fast_group_voucher@20
+SHA1-Digest: oNPv5swD3cyFKQWRHVbs1EJiRtE=
+
+Name: assets/emotions/emotion_small_118.webp
+SHA1-Digest: BvpjPslR6E+LZZy6wp+1xVY/0Wk=
+
+Name: assets/KOUBEI@detail_comment_ask@108
+SHA1-Digest: PuldgUkWkhA5uur5Ymqab1+IF5Y=
+
+Name: assets/nebulapresetinfo/nebulapreset.ser
+SHA1-Digest: oyEuXYritDqP7tpN6Vj9LG6u0Nw=
+
+Name: assets/QUICKPAY@afterpay-recommend-flex
+SHA1-Digest: rB+nacX6y3fVMCO08/HuifDIjM0=
+
+Name: res/layout/pomenu_item.xml
+SHA1-Digest: G4NBKZh/htxJftPRO/pQNAUFF7I=
+
+Name: assets/tts/tts_cash.mp3
+SHA1-Digest: wrIvhhRMyFTxJ4Qiu3xXyKlXl4k=
+
+Name: res/drawable-xxhdpi-v4/refreshed_icon.webp
+SHA1-Digest: 4oJlFSpE/aEmaVUl8Sijmg9M5A8=
+
+Name: lib/armeabi/libandroid-phone-businesscommon-language.so
+SHA1-Digest: 8JCBQjdAkXvnRBnXX+BFca+txPo=
+
+Name: lib/armeabi/libiomx.19.so
+SHA1-Digest: sv1RlZDU/anDzcQOY4xznd00ks8=
+
+Name: assets/emotions/emotion_small_22.webp
+SHA1-Digest: l/StOxCTQB9wYnYKSRxHCTrw9rs=
+
+Name: assets/msg_center.webp
+SHA1-Digest: MSIjZGJ1sz7GVMR8aMFcWMjmZIU=
+
+Name: assets/OVERSEAS@intl_home_exchange_rate_tool
+SHA1-Digest: Lq7O0/69HAxr1AgSVL9tT2bd0do=
+
+Name: assets/MOBILEIC@riskRemind
+SHA1-Digest: 735Uv6UwZadWzP581RLO+QEA1U8=
+
+Name: assets/KOUBEI@order_detail_button_info@11
+SHA1-Digest: gYHfITWjIT6AKIxweyDEOMKabEM=
+
+Name: assets/KOUBEI@search_list_brand@3
+SHA1-Digest: 8lYiqr7vx4SGaFl/F+RL2EAuUPQ=
+
+Name: assets/KOUBEI@home_headline_follow_title@1
+SHA1-Digest: iSAMtv5yt11/TIGs/t55QF66BCQ=
+
+Name: assets/emotions/emotion_small_102.webp
+SHA1-Digest: 1dXFZFn32aJ7haliGnhvrrLR11U=
+
+Name: assets/KOUBEI@benefit_received_more@4
+SHA1-Digest: H59VbRmbMm4L4jZai2K+i9/98pY=
+
+Name: res/anim/homefeeds_toast_enter.xml
+SHA1-Digest: cK0xRC9MywmnqrAQj4bWs5FZSQ4=
+
+Name: assets/BANK_PSBC.png
+SHA1-Digest: 96NudEFwydIJuXLsvvLFC9ZhVfY=
+
+Name: lib/armeabi/libmobileapi-mobilediscovery.so
+SHA1-Digest: OxKPOb/BkQsiDD9yDzqH3WeI6qk=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-share.so
+SHA1-Digest: KpgLQV8cx/1TbHTcuev5Kciyh3g=
+
+Name: assets/MOBILEIC@setpwd
+SHA1-Digest: ApZ3BKFLttbH4WMYvG3wlu2ItLU=
+
+Name: assets/OVERSEAS@intl_home_featured_content
+SHA1-Digest: 3+9keZodCZko2nhX8MvxJelvNlQ=
+
+Name: assets/material/icons/kpp7pwK4RZyb1mu-4oPfVwAAACMAAQED
+SHA1-Digest: TEfopIAmhpn7xSgqljDGqSh5mdA=
+
+Name: res/drawable/tab_icon_sound.xml
+SHA1-Digest: vKS2FjhglsjCQZkjtQqQm/ohmRc=
+
+Name: assets/tts/amr/tts_voucher.amr
+SHA1-Digest: TchsuOnhDMmvEtBdDD/5gG1FV/I=
+
+Name: res/drawable-xxhdpi-v4/shock_point_small.png
+SHA1-Digest: 1wZYxuT51bIPOTCEUIhWqZkRAVo=
+
+Name: assets/KOUBEI@comment_blank@2
+SHA1-Digest: SVjEHHsIooLtq61vKjthComHtEQ=
+
+Name: assets/KOUBEI@detail_other_shops_1@12
+SHA1-Digest: 5VHmVy3PRpgX7ex9BR7k2OVhTPw=
+
+Name: assets/QUICKPAY@deduct-pre-confirm-flex
+SHA1-Digest: oYljRITjxyZ8I4aecc54XLFb6iI=
+
+Name: assets/emotions/emotion_small_71.webp
+SHA1-Digest: ZUSSUwvdR3NMyfXcWJnDIwxmSbE=
+
+Name: assets/security/safe.png
+SHA1-Digest: XKBdsqnsbz7/9yEsRKynTYFjYrg=
+
+Name: lib/armeabi/libandroid-phone-wallet-gesturebiz.so
+SHA1-Digest: Iw10ah7OyrNviufVFOEGOw9AtEw=
+
+Name: assets/KOUBEI@home_headline_question@5
+SHA1-Digest: QTMTBmgNV+L8R6bgE5LWp/Q836M=
+
+Name: assets/bank_mark/icon/JJBANK.png
+SHA1-Digest: rmbmBkzYqN9MzbEHwGV3zhW+pGM=
+
+Name: assets/emotions/emotion_small_72.webp
+SHA1-Digest: uHAiQzVlYqNyFSW4ip0dK1u+Uec=
+
+Name: res/layout/osp_tab_icon.xml
+SHA1-Digest: RHuxoS07LIoM1o34yhOdElYjjO4=
+
+Name: lib/armeabi/libmobileapi-publicexprod.so
+SHA1-Digest: 4cOVOoDPmSxTLvrZ15zU+y8zVyo=
+
+Name: assets/BANK_SCBBANK.png
+SHA1-Digest: 5QDLF+rukoISHRP0nocn70DELzA=
+
+Name: assets/KOUBEI@detail_fast_flash_voucher@23
+SHA1-Digest: gJTihEqiJRZ2R6sacLAFEqHvXqA=
+
+Name: assets/WALLET-SEARCH@VoiceImage
+SHA1-Digest: TYP+/D7eseg1waUvW4BRFMi3m2s=
+
+Name: assets/tts/tts_coupon.mp3
+SHA1-Digest: G8fu5jzJzyCQI1CfIOzZsM5A7U0=
+
+Name: res/drawable-xxhdpi-v4/share_sina.png
+SHA1-Digest: dBCjQt8szBHa6AuVmeItGU8VFM4=
+
+Name: assets/QUICKPAY@cashier-error-follow-action-flex
+SHA1-Digest: as+Diyl939OEQonC7iMq7U3bgIk=
+
+Name: lib/armeabi/libandroid-phone-wallet-redenvelope.so
+SHA1-Digest: UI4fjnjmT6sSDvTAPr7c5ohDoPE=
+
+Name: res/drawable-xxxhdpi-v4/appicon_push.png
+SHA1-Digest: y4Bygrq8E5Y3HjZZeqJpmzj2kzQ=
+
+Name: assets/shaders/sprite.vert
+SHA1-Digest: nZaZDojqR7glD3qH51f1Q9vh6ec=
+
+Name: assets/emotions/emotion_small_87.webp
+SHA1-Digest: hypTl3dJaH5HnBgBj61RqK0kVHA=
+
+Name: assets/OVERSEAS@intl_search_menu_list
+SHA1-Digest: kaWbe1riHYSi4dUwHtmBX1/8V8s=
+
+Name: assets/emotions/emotion_small_05.webp
+SHA1-Digest: P1mm1Nl9Yq27nXOBA5kD5Fi0M0E=
+
+Name: assets/KOUBEI@search_list_onebox_activity@2
+SHA1-Digest: 4IPKbPc/MfSL564HHtKJHpX9zyk=
+
+Name: assets/tts/amr/tts_8.amr
+SHA1-Digest: 5jvrK37+cWlrI1Nr+QA4y+GufWY=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-huaweipush.so
+SHA1-Digest: cNkucBH4/8huDQT126w57LDQ7rE=
+
+Name: assets/tts/tts_5.mp3
+SHA1-Digest: rKHzltsqcSXak+CXf3HtNhP8kms=
+
+Name: assets/KOUBEI@lc_search_tip@0
+SHA1-Digest: 3jk5RE06Zhi1WZ1jx8DcZXPf1mU=
+
+Name: assets/emotions/emotion_small_38.webp
+SHA1-Digest: y1be+dQ+oZwCRY6KnaG9FmpAaJk=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-falconarkit.so
+SHA1-Digest: hdVwVxajYqpVVWHVkgvoZs19Cwg=
+
+Name: lib/armeabi/libandroid-phone-mobilesdk-permission.so
+SHA1-Digest: x8hoajWGGW5hkF99ahxSVV36xD4=
+
+Name: assets/KOUBEI@detail_craftsman@9
+SHA1-Digest: lFK05zh+VpVXtNcEyyrZic7S81Y=
+
+Name: assets/KOUBEI@home_may_like@7
+SHA1-Digest: O8VKRrzEdRMTPl+EPPY0KKzi5Do=
+
+Name: assets/emotions/emotion_small_04.webp
+SHA1-Digest: rUWPlTYJUDsVxK4VqPsZDA3sIu8=
+
+Name: res/raw/diaoluo_xiao.mp3
+SHA1-Digest: J2ekUEyZr1Oh95zPGMJNswD01D0=
+
+Name: assets/OVERSEAS@intl_home_scroll_promotion_recommend
+SHA1-Digest: e39f5/JCceYAOD1Iz8uE44t9f9s=
+
+Name: assets/tts/tts_6.mp3
+SHA1-Digest: CeEAqibgz2nE45AuJF6pSMmrPH0=
+
+Name: assets/WALLET-SEARCH@publiclifeFuzzy
+SHA1-Digest: Up0nUYPB6X6CIx3Q062TBqGjHFM=
+
+Name: assets/shaders/font.frag
+SHA1-Digest: uX2ybFQtKrgOXbI8dDUGDLrPmUo=
+
+Name: assets/KOUBEI@home_may_like_tab@6
+SHA1-Digest: GieSQrlY2uj1xfB/ay8gbOXqOQQ=
+
+Name: assets/emotions/emotion_small_13.webp
+SHA1-Digest: BCOoV2I08jAXgNiNkGwq0ehqqr4=
+
+Name: assets/KOUBEI@detail_nr_dish_cart@22
+SHA1-Digest: tankCvo70ffunL+x+H760JWbb0U=
+
+Name: lib/armeabi/libmn.so
+SHA1-Digest: /1GQ6bc0Go0J4BZ0PILnBAQL0MY=
+
+Name: assets/QUICKPAY@afterpay-finger-flex.html
+SHA1-Digest: x7HcfSD9i4f53M4VonBhOPYu/u8=
+
+Name: assets/KOUBEI@detail_starbucks_gift@6
+SHA1-Digest: ib/D2AT8Kpl510+z6nddmcuvcFw=
+
+Name: assets/amc.css
+SHA1-Digest: bg8S9l0nM13PMLzxaxCWOFp1yp4=
+
+Name: lib/armeabi/libandroid-phone-wallet-goldword.so
+SHA1-Digest: OQJQ2PP0fxzNsufum4pnbrXK7Fg=
+
+Name: assets/KOUBEI@detail_fast_trend_activity@4
+SHA1-Digest: iVZM784kHKU8Hpf7K+RjmstYHu4=
+
+Name: lib/armeabi/libandroid-phone-wallet-fund.so
+SHA1-Digest: wPItj7DpByUvQKjMEkhbhugAuK4=
+
+Name: assets/emotions/emotion_small_109.webp
+SHA1-Digest: K6oaUMDxBlh3JK8T6oIUnK+dsfE=
+
+Name: assets/QUICKPAY@cashier-common-wait-flex
+SHA1-Digest: lSIPGE5Ese+SNx3wwTLwITIZaxM=
+
+Name: lib/armeabi/libandroid-phone-wallet-wealthcalc.so
+SHA1-Digest: T+G2EblDJyGwvf2PSCuMuCQWsas=
+
+Name: lib/armeabi/libpre_install.so
+SHA1-Digest: 7mOjDpMx4NGugnRGNsaom25JPpA=
+
+Name: res/anim/dialog_enter.xml
+SHA1-Digest: HEQcW5JTS/nyHdQESbcSNqnWs3Q=
+
+Name: lib/armeabi/libandroid-phone-wallet-nebula.so
+SHA1-Digest: E9ylUsWk/Cab3/CYGui/sGuQxNE=
+
+Name: assets/QUICKPAY@cashier-setspwd-flex
+SHA1-Digest: iCIc/SULtwBHjbjOACKCsIyEkEM=
+
+Name: assets/bank_mark/icon/SCBANK.png
+SHA1-Digest: FwSjq7bR5TGjmScGlEiDZSlTjCg=
+
+Name: assets/channel.config
+SHA1-Digest: rYxTJuJfgEMeSSWiGD+Ucb06CmQ=
+
+Name: assets/tts/amr/tts_thousand.amr
+SHA1-Digest: sJXKv6EeaZPZugWX2lacMqeIt9Y=
+
+Name: lib/armeabi/libandroid-phone-wallet-cashierh5container.so
+SHA1-Digest: Hc0E5YPQ16d3moP11DFzE9Xlemk=
+
+Name: assets/KOUBEI@home_may_like_movie@7
+SHA1-Digest: hta32k4beuPH9nJcGFQQSEAUnYg=
+
+Name: assets/KOUBEI@detail_portfolio@10
+SHA1-Digest: HVy+SZup6FBTtvq2GC0fd+OZXYo=
+
+Name: res/drawable-xxhdpi-v4/push_chat_default.png
+SHA1-Digest: 4DY7pehy0r6OL/AaByL57aGqiFs=
+
+Name: lib/armeabi/libandroid-phone-wallet-sharetoken.so
+SHA1-Digest: mEyNZLrBi4hRpsqDrfCOwcVQolU=
+
+Name: assets/nebulaPreset/20000196
+SHA1-Digest: zhk1g8VLZhEGdwaZSnxD4DgjNNc=
+
+Name: res/drawable/popmenu_list_devider.xml
+SHA1-Digest: fYfNf/3MnvZcjr1iWyIm4I49oVE=
+
+Name: assets/KOUBEI@detail_reservation@7
+SHA1-Digest: 9XgjBrtKQyMzP82FTyLmaSNbd58=
+
+Name: assets/MOBILEIC@secret-question
+SHA1-Digest: zaahMYox6Zp+kF3tHyLjEI7/YWc=
+
+Name: assets/KOUBEI@favorite_goods_list_item@14
+SHA1-Digest: Ms0pQjREDDq+xG3QG79X5gQQD2Y=
+
+Name: assets/QUICKPAY@cashier-paycode-result-flex
+SHA1-Digest: wmMB6npyVsJkRyyC75q++JZBBJs=
+
+Name: res/anim/push_up_in_short.xml
+SHA1-Digest: Wdg7OcRR/HUUcOTkT3DNghhJh5k=
+
+Name: assets/QUICKPAY@frontpay-channel-logo-flex.html
+SHA1-Digest: HoQIsFaL5GGlFXbX2hbLuwY+k20=
+
+Name: assets/material/icons/aSY2fkC7TvensH-UqsYG1QAAACMAAQED
+SHA1-Digest: zSnwtmadKrablSlNk81P1feVwyM=
+
+Name: assets/bank_mark/icon/HKB.png
+SHA1-Digest: akk0FDe05MUW8LQ62BHihpPI4GA=
+
+Name: res/anim/lite_fading_in.xml
+SHA1-Digest: DQYjwZVz/Ib7+VXRDHjqcVXshvA=
+
+Name: res/drawable/popmenu_item_mid_bg.xml
+SHA1-Digest: 1t1BEMhgAcP90fnB16WGqFmp8N4=
+
+Name: assets/emotions/emotion_small_96.webp
+SHA1-Digest: 07ku02ndN4qwgtpYysU3IiTwfDg=
+
+Name: assets/fonts/iconfont_stock.ttf
+SHA1-Digest: 6zwHQwCif6mEeAIs3f/X3MChRFc=
+
+Name: assets/KOUBEI@detail_collecting_point_1@7
+SHA1-Digest: XAK8UgKNMrBHPFiCND6fhTaaxFg=
+
+Name: assets/cdp/cdp_banner_close_btn.webp
+SHA1-Digest: B4v7kv6td5KnzVXcY9Aa7giOymE=
+
+Name: assets/QUICKPAY@cashier-account-flex
+SHA1-Digest: SjQVxBHUxsVuvSiP0QyzDvpSXww=
+
+Name: assets/KOUBEI@popeye_atmosphere@10
+SHA1-Digest: R0j8aTEoC2SS2j2ea2PMDLkfFes=
+
+Name: res/drawable/title_bar_back_btn_white_selector.xml
+SHA1-Digest: H2U0M/GI+70dBycxisEbAv8hRFE=
+
+Name: assets/bank_mark/icon/CCB.png
+SHA1-Digest: 1bygO59swEGAL9k1g3kQZJTowyo=
+
+Name: assets/KOUBEI@home_travel_header_930@2
+SHA1-Digest: 8K5H0JtIu9sFWYYRGDfZDudmqYs=
+
+Name: res/anim/enhance_login_anim1.xml
+SHA1-Digest: oboSuymO7IOmyjT19CjAua0l9DI=
+
+Name: assets/WALLET-BILL@BLDetailRefundUp
+SHA1-Digest: NKVyjCWfrLDEjBnh3MJtikPxohY=
+
+Name: assets/sync_bizs
+SHA1-Digest: b6UfMnjTFH7Ay7QvVNSueApBcGc=
+
+Name: lib/armeabi/libandroid-phone-businesscommon-commonbiz.so
+SHA1-Digest: bKce5GE9aZ9310/jtCKJ0FDYD4w=
+
+Name: assets/KOUBEI@detail_first_coupon_1@31
+SHA1-Digest: c6/3A0G/DSvwDYXxzRP6VUz4u7Y=
+
+Name: lib/armeabi/libandroid-phone-wallet-badgesdk.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: assets/bank_mark/icon/default.png
+SHA1-Digest: QXccZ/4aCsvPn8/WIlVavidYBE8=
+
+Name: assets/OVERSEAS@intl_home_composite_ad
+SHA1-Digest: pHbN8smSYkJD8NXIxqNcIJmGoc0=
+
+Name: assets/emotions/emotion_small_47.webp
+SHA1-Digest: C6EPjgCl13cV88gdeWumrNerxNA=
+
+Name: assets/KOUBEI@detail_received_benefit@8
+SHA1-Digest: Xv64xHU2nCRAvbEzqGd7xC/MnJo=
+
+Name: assets/BANK_AP_DF.png
+SHA1-Digest: bhm7R/MD1qquxmU9AP/gAhyB4e8=
+
+Name: assets/KOUBEI@search_list_mall@11
+SHA1-Digest: /Mi9UIvIirl9JC5yIkd5buA9uGg=
+
+Name: assets/QUICKPAY@cashier-card-validate-flex
+SHA1-Digest: oQ0/wTqD66n4ZLdBCJt6ZwApgkk=
+
+Name: assets/material/icons/zS4MjRGcRv2DYW1s5vsFfwAAACMAAQED
+SHA1-Digest: FKItpDS2Ul+pwI65uN8YELaOCb4=
+
+Name: lib/armeabi/libandroid-phone-wallet-profileapp.so
+SHA1-Digest: G8E3tDoLjghi/RwkDR4/4q9n0pY=
+
+Name: assets/emotions/emotion_small_78.webp
+SHA1-Digest: t+m9VxAdLUO39eOBA77VHJzdcBg=
+
+Name: assets/QUICKPAY@cashier-pre-confirm-flex
+SHA1-Digest: m4C3AuvyVjAdSH5ZdiyE4HaESYI=
+
+Name: assets/emotions/emotion_small_95.webp
+SHA1-Digest: 8wDW4ZuE1zx/XKXwn28t5fC+AFQ=
+
+Name: res/layout/alipay_left_light_emui.xml
+SHA1-Digest: jPcn9fWf0hWslNKFF6dcdtnQG1M=
+
+Name: assets/KOUBEI@detail_shop_info_marriage@18
+SHA1-Digest: E70GlnWC+O5sgm6CMOByGtOJYto=
+
+Name: assets/emotions/emotion_small_117.webp
+SHA1-Digest: LQYb17QvCiRErXy0CX9TIbso/WQ=
+
+Name: assets/KOUBEI@comment_tab@5
+SHA1-Digest: cgeWp05aGhsaeJmRVg5ZMAcY8MU=
+
+Name: assets/cardbin
+SHA1-Digest: cyrM1Nrlg4GZAKPtxRQGReIdTQw=
+
+Name: assets/emotions/emotion_small_81.webp
+SHA1-Digest: pQ3KTZMxIFcbiMgXeduc6zeekL8=
+
+Name: assets/KOUBEI@popeye_mall@6
+SHA1-Digest: rTgp98RPra6HEmUDhpXSy4Xd4qE=
+
+Name: assets/bank_mark/icon/CEB.png
+SHA1-Digest: +zS6P/UrWbR/kMS9GCnR4n27WEE=
+
+Name: lib/armeabi/libandroid-phone-wallet-arplatform.so
+SHA1-Digest: jV8kGN3zVhraT1wO7629vLKRA2A=
+
+Name: assets/bank_mark/icon/CITIC.png
+SHA1-Digest: +riyvcspimDc3cpEuG0JflVHonc=
+
+Name: assets/bank_mark/icon/SRBANK.png
+SHA1-Digest: cyyxnHkQOSm8lnQ3liNyb2q0f0A=
+
+Name: assets/emotions/emotion_small_120.webp
+SHA1-Digest: Vagst2pLX4t4bwsEX83D4HngQe8=
+
+Name: assets/BANK_CQRC.png
+SHA1-Digest: HK+1Vf0WVqd7H5KHXTmbWriFLnE=
+
+Name: lib/armeabi/libAPSE_1.4.6.so
+SHA1-Digest: SXEN63xlKb5oXRkPBBIJsbLImII=
+
+Name: assets/bank_mark/icon/NXBANK.png
+SHA1-Digest: h3N0qWtYiamz1uI8o98lOCwATnw=
+
+Name: assets/KOUBEI@detail_nr_dish_item@18
+SHA1-Digest: wz4QQrFnmWUQ/7VVO2cwKWWAey8=
+
+Name: assets/KOUBEI@home_pop_eye_new@23
+SHA1-Digest: jgf7h7Hy6Dl5o7VizO5Jvf/+J1U=
+
+Name: res/drawable-xxhdpi-v4/share_weixin.png
+SHA1-Digest: U3jI6+MZId6J6gTqY0zoxpbjS3c=
+
+Name: assets/KOUBEI@detail_fast_dm@23
+SHA1-Digest: 2wusJO2YIpUoBvuk0s2QcCF+7Y0=
+
+Name: assets/KOUBEI@detail_marketing_quan@58
+SHA1-Digest: nelY8h1m9FH05wvNWMIsa4gxNjY=
+
+Name: assets/bank_mark/icon/BOHAIB.png
+SHA1-Digest: I/VjQP4OImjD7Defkp+cw3ytKk4=
+
+Name: assets/KOUBEI@home_headline_video@5
+SHA1-Digest: FGrHyDnGjDWI+NWMMa81hkTQZ3k=
+
+Name: assets/tts/amr/tts_cash.amr
+SHA1-Digest: CYA4+YvczNIwgNZRhP1Wn7bta7M=
+
+Name: assets/QUICKPAY@recommend-setspwd-flex
+SHA1-Digest: B1L0WI0OHcRnAMBFsfTn4wRbnn0=
+
+Name: assets/KOUBEI@order_detail_item_info@11
+SHA1-Digest: ccyHhPrXl20fvQiB5w4knRZSLZQ=
+
+Name: lib/armeabi/libpushtrackerso.so
+SHA1-Digest: QP8dwRFRgIJ7QiBHvX4d41cdFLM=
+
+Name: assets/KOUBEI@search_list_scenic@5
+SHA1-Digest: Lgl1NE0rpFDIj9aum7IIPoiFtlI=
+
+Name: assets/OVERSEAS@intl_common_location
+SHA1-Digest: 2udgk+qZrMzy9uH3qr8dfvCnd08=
+
+Name: assets/BANK_GDB.png
+SHA1-Digest: ihCu7MpQZraAZrpOEL7blt27AvU=
+
+Name: assets/idcardmodel.bin
+SHA1-Digest: y6VDH6UApgfYHN3fBmXiZdJtKKU=
+
+Name: assets/tts/tts_7.mp3
+SHA1-Digest: OOyHkEvUsTVbziJcIPy3Ek4nX6U=
+
+Name: assets/tts/tts_success.mp3
+SHA1-Digest: J7/y0PtuW2kYeNA5z7MHozuQgVs=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-ui.so
+SHA1-Digest: DTwnNQjQoamwIfjGgAizcREl+ps=
+
+Name: assets/mic.css
+SHA1-Digest: mXOtbRjowsaLHivYZ5xpsrSfiMA=
+
+Name: assets/tts/amr/tts_success.amr
+SHA1-Digest: uzZgIrBSPzfUBlhMiZ0IAkSlSjc=
+
+Name: assets/KOUBEI@home_nearby_poplist@8
+SHA1-Digest: kFa0rOXqIexETXiSYrwgHzBjOYc=
+
+Name: res/drawable-xxhdpi-v4/share_more.png
+SHA1-Digest: Ebz1I0LnhcCPhiqpo3QhkUE84GM=
+
+Name: lib/armeabi/liblivenessdetection_v2.4.6.so
+SHA1-Digest: 41gQF0lQLKKPTmvLpxH6dT5RWYg=
+
+Name: lib/armeabi/libmpaas_crypto.so
+SHA1-Digest: mDDmvqpq78mp0J4Ge7ogA3e+Ixw=
+
+Name: res/layout/barcodepay_fragment.xml
+SHA1-Digest: Jl33CEmohVxQNY2JfRBYTMjoAcc=
+
+Name: assets/WALLET-BILL@BLPaymentHelper
+SHA1-Digest: Wrv8uyF+nlliMFwnlnvWil6SaHw=
+
+Name: assets/apps_preinstall_config/home_display_apps_info.json
+SHA1-Digest: 33N+zo5n2j1tDGI8uPABOH8AYcE=
+
+Name: assets/WALLET-BILL@BLDetailCommonSingle
+SHA1-Digest: So0znxYwR82mg+JwZJqnBd4zSW0=
+
+Name: assets/WALLET-BILL@BLDetailCommonWithDialog
+SHA1-Digest: YaWafnCZsierhykEfQtZjngWiv0=
+
+Name: assets/BANK_GZB.png
+SHA1-Digest: XwED2bMDh0aXorbWz9Osv6auntM=
+
+Name: assets/multimediaCacheCleanConfig.config
+SHA1-Digest: 3BtIIGJEx3tjakHvHf8K1lzoCsU=
+
+Name: assets/shaders/skinning.vert
+SHA1-Digest: sgC6Nde+8/vGeOSHb5ewmTvJBzI=
+
+Name: res/layout/alipay_left_light_miui_bigicon.xml
+SHA1-Digest: GBX9AO2e6Op8tPTr7h0alAN+m70=
+
+Name: assets/goldword.ttf
+SHA1-Digest: h9VpDj1GlKexqIG5UG67ysWKLlI=
+
+Name: res/drawable/sso_shape_circle_head_in.xml
+SHA1-Digest: YW2q8aOfjazr8tzGmhMfp2Msrlw=
+
+Name: res/drawable/download_progress_horizontal.xml
+SHA1-Digest: IhhpWlGFnyMU9vs5A5oDse1pKVQ=
+
+Name: assets/USE_MRECHAREGE.png
+SHA1-Digest: eaQOaptoo04MCJUgg38DFJ+rBo8=
+
+Name: lib/armeabi/libservicedexloader.so
+SHA1-Digest: 6mv5jkROeD7/F+8LONtnGPMoyi8=
+
+Name: assets/KOUBEI@rank_empty@3
+SHA1-Digest: xyDjUPJhBlUKzIi7Un7q61s+iws=
+
+Name: lib/armeabi/libandroid-phone-securitycommon-taobaobind.so
+SHA1-Digest: URQIQNdR4f4YLxdSGXIfHSvIb70=
+
+Name: assets/emotions/emotion_small_12.webp
+SHA1-Digest: xV6LO3mkC8pscHI4763GwT2+KsQ=
+
+Name: assets/KOUBEI@detail_comment@27
+SHA1-Digest: CRwKZo0GJMYpcUcy7Wf6XeyCO6I=
+
+Name: assets/BANK_AP_YEB.png
+SHA1-Digest: VLxObNwRB4x9olnZvJOhJ3y7/Ks=
+
+Name: assets/KOUBEI@search_list_category_1@8
+SHA1-Digest: Y3Uo6p0Edqq4+RjJUa7uBQrcFvc=
+
+Name: assets/QUICKPAY@bizapp-collect-money
+SHA1-Digest: 2/YKuPR8d1ma8SuteON4dEuUoDM=
+
+Name: res/layout/welcome_loading_progress.xml
+SHA1-Digest: eC80hrLIlHwBo1e1SHlHQQqBQt0=
+
+Name: assets/emotions/emotion_small_88.webp
+SHA1-Digest: MKj/tvH0BcugjHkI+RtVbQCzxrY=
+
+Name: assets/BANK_QLBANK.png
+SHA1-Digest: B5O9Msd7gmeFqJatsGKeVTX5XtM=
+
+Name: assets/bank_mark/icon/EGBANK.png
+SHA1-Digest: r2CBDTNriLmNFSdPGd3CuZ8n5RQ=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-falconocridcardauth.so
+SHA1-Digest: Ig3f/O1P7dXH3PdUmzAqA1K4VK4=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-badge.so
+SHA1-Digest: IUi7nc5hQ9HfFEJRNex8YPdQvr0=
+
+Name: res/xml/authenticator.xml
+SHA1-Digest: hMHLuDgWzSv/hNRrFt1m1+Svjjc=
+
+Name: res/xml/nfc_tech_filter.xml
+SHA1-Digest: UmdMK1ryre4YKMQqdk8ASuwDRVo=
+
+Name: assets/KOUBEI@detail_open_1@9
+SHA1-Digest: jZ+c/qTwGMZTNGDlvSCfJiqmL5U=
+
+Name: assets/BANK_NBBANK.png
+SHA1-Digest: TomfhAH/Nayx58PCMgXlCDIOClw=
+
+Name: assets/emotions/emotion_small_110.webp
+SHA1-Digest: DlJwd3YuG/jUcbLEOsy2UXHkKuU=
+
+Name: assets/emotions/emotion_small_55.webp
+SHA1-Digest: OWt2YjQMdeNqj+UNAR/6PwkargI=
+
+Name: assets/bank_mark/icon/H3CB.png
+SHA1-Digest: DGgF96kf4uorR5mfmKiT8c2jK9g=
+
+Name: res/drawable-hdpi-v4/appicon.png
+SHA1-Digest: BPi1DgfO/GVrtLWw7a33pU/vPQc=
+
+Name: assets/KOUBEI@lc_theme_detail_item@27
+SHA1-Digest: KZjrVELHS5GjcBICkj4XCqSt//k=
+
+Name: assets/emotions/emotion_small_37.webp
+SHA1-Digest: tbLQBj0uaZPM5Drg2dGFHw6CZSw=
+
+Name: res/drawable-xhdpi-v4/appicon_push.png
+SHA1-Digest: yHoYOD8Q9TIKDHK/7b/ZsD3uQIc=
+
+Name: assets/shaders/font.vert
+SHA1-Digest: Al+4+Gv1rTtOIQOmQMcqGEBo1jo=
+
+Name: assets/bundles.pb
+SHA1-Digest: V5zz7PNIbOy2UktCIzlQbEtp1lQ=
+
+Name: assets/tts/amr/tts_6.amr
+SHA1-Digest: RfOUZpcIllPQp9XDM5pyGAVVlXw=
+
+Name: res/drawable-xxhdpi-v4/share_copy.png
+SHA1-Digest: 3AcuWCU/d9giAf7RCu354wQQjEc=
+
+Name: assets/WALLET-BILL@BLDetailCommonMultiWithLink
+SHA1-Digest: wtymAd3j5wpWBYyr0OFN9oRRi/M=
+
+Name: lib/armeabi/libdexpatch_x86.so
+SHA1-Digest: 984X7KEubV1E3eOxv2fMU71/Kc8=
+
+Name: assets/KOUBEI@benefit_received_voucher@9
+SHA1-Digest: tFmUwBDiliVvngMAw1/XIXciwLY=
+
+Name: assets/bank_mark/icon/CZBANK.png
+SHA1-Digest: ffQsqrzu0tyql79JgpzapeIEHGI=
+
+Name: assets/KOUBEI@lc_question_detail_item@25
+SHA1-Digest: Sls/eRj3Bsfb72dvInoinCBp/0o=
+
+Name: assets/emotions/emotion_small_125.webp
+SHA1-Digest: vOQST8y76gCameI920iPeYFWbGk=
+
+Name: assets/ant_listening.gif
+SHA1-Digest: /lqUh9vpd6Abto711aX0qVuW0lo=
+
+Name: assets/BANK_SCB.png
+SHA1-Digest: FwSjq7bR5TGjmScGlEiDZSlTjCg=
+
+Name: assets/errorpage/nonetwork
+SHA1-Digest: Us7U0ZWDaXTBw0y+1GBbhpJ3npI=
+
+Name: res/drawable/white_corner_bg.xml
+SHA1-Digest: 5/ROhlgqWRPK71teOjyL0uqDPyk=
+
+Name: assets/KOUBEI@home_headline_square@8
+SHA1-Digest: kJJUlqiB/J/fXTw0A4Jzwpcis8Q=
+
+Name: res/anim/enhance_login_anim2.xml
+SHA1-Digest: CPuI8Wz95ZTCs9RFz9oH90Q+Q10=
+
+Name: assets/KOUBEI@detail_tab_goods_item@18
+SHA1-Digest: lUiVPxCUaO+qxFNT2s1RShfFfDc=
+
+Name: assets/KOUBEI@home_travel_answer@2
+SHA1-Digest: tlK6IsThZsjXzLaFb8Nb8+rPsVQ=
+
+Name: assets/QUICKPAY@cashier-pay-failure-retrieval-flex
+SHA1-Digest: GKOsxSaAhqb2Oc1GhySHizjQ9YU=
+
+Name: assets/emotions/emotion_small_73.webp
+SHA1-Digest: bfhqCiALjp++tIez4pnV/RQfdIo=
+
+Name: assets/emotions/emotion_small_40.webp
+SHA1-Digest: 1FWGSxDv8bKya07OrBcOw8cezoA=
+
+Name: assets/mic.i18n.zh_HK
+SHA1-Digest: d7UUWGDzHRNo1cZqL44r9tW3vKU=
+
+Name: assets/BANK_CDCB.png
+SHA1-Digest: sw5rzwGMvBl5R2xYrGfcOfRBA4E=
+
+Name: res/layout/download_progress.xml
+SHA1-Digest: Dykr2epvklGFTFKegXNBy5gE8Ag=
+
+Name: assets/amc-h5.js
+SHA1-Digest: lr9aNx7ggc3EMRgf/fZUxNbdz7Y=
+
+Name: res/raw/silent.mp3
+SHA1-Digest: Lz0VR8x/Zj6avFC4yOdkdtfIDkw=
+
+Name: assets/KOUBEI@search_list_content@7
+SHA1-Digest: s6ghf3JjlooE99+880UTdEvY3Zs=
+
+Name: lib/armeabi/libpbo_jni.so
+SHA1-Digest: DeH8wJeX4pBlLN/EBIS9m5tm4AU=
+
+Name: assets/verisign.cer
+SHA1-Digest: /tkMzD2t5DcEEHz19euP7w+unGY=
+
+Name: assets/QUICKPAY@cashier-safeprotect-pwd
+SHA1-Digest: tOsO3RYc0qq9NRpDMvjHND/UqfM=
+
+Name: lib/armeabi/libpatcher.so
+SHA1-Digest: OwdKqFJtvRhwMbDiSf3OEtiTokI=
+
+Name: res/drawable-xxhdpi-v4/member_golden.png
+SHA1-Digest: pW0r4HesJSPAQx5ww7lgdTd9AVY=
+
+Name: assets/BANK_BOSZ.png
+SHA1-Digest: IeLatgHfdnm8lrZtKx88mhyWbDc=
+
+Name: lib/armeabi/libandroid-phone-wallet-portfolio.so
+SHA1-Digest: PXP3Iz9XJA1fwa4Jx/+fVXT2+gE=
+
+Name: assets/h5iconfont/h5titlebar.ttf
+SHA1-Digest: aDWtFUEJnFc3aoea0WlYDIArQ+w=
+
+Name: assets/mic.js
+SHA1-Digest: YDRLqZKDS0ZH09iqR6MA4abcx5U=
+
+Name: assets/shaders/sprite.frag
+SHA1-Digest: zyrfvrzniVCnfUJAhDI6o2V0TAo=
+
+Name: lib/armeabi/libAwtEncoder.so
+SHA1-Digest: NQDHjSwDAAopotQv2CMMA/4UaQE=
+
+Name: assets/tts/tts_8.mp3
+SHA1-Digest: jcfd2kCgKRX0TIbgBdX8Ktxnupo=
+
+Name: lib/armeabi/libmnet-ssl.so
+SHA1-Digest: azymksHFa09xg/di28WaDC6YGzs=
+
+Name: assets/chatbg/chat_bg_default.png
+SHA1-Digest: 3//gjRY2mr4daNg1YCpoYvDqPTs=
+
+Name: assets/emotions/emotion_small_30.webp
+SHA1-Digest: dlgMbNHK7dJaxrc9vsVb0lDjt2g=
+
+Name: lib/armeabi/libandroid-phone-businesscommon-healthcommon.so
+SHA1-Digest: OnXYbmR0t4HPPSTVqawBR/KbznE=
+
+Name: assets/KOUBEI@detail_goods_list@58
+SHA1-Digest: DlbfFuqWPNqeAElP1qZCizvfvBM=
+
+Name: assets/KOUBEI@home_headline_topic@8
+SHA1-Digest: TvTT01jkYvDnbhCZRYwZ0chnz9o=
+
+Name: assets/KOUBEI@lc_search_question_item@6
+SHA1-Digest: AgPIb357E0rzhT39aiVQqn9R5z8=
+
+Name: lib/armeabi/libBifrost.so
+SHA1-Digest: 4g4poUEd9Sjj62KKBt6fcvRIw9M=
+
+Name: assets/trafficMonitor.config
+SHA1-Digest: t9v9ANLJjW0O7MJVFxVpwjrqiH8=
+
+Name: assets/bank_mark/icon/HSBANK.png
+SHA1-Digest: J19FffaCKpvr350n0SjnC2xK9bM=
+
+Name: assets/WALLET-SEARCH@Article
+SHA1-Digest: rjk+jvdqsARAf65AxKDvlWSFtXc=
+
+Name: assets/emotions/emotion_small_45.webp
+SHA1-Digest: nq/XBsDSAPCLaeG1wqZwpH/wQJQ=
+
+Name: assets/KOUBEI@used_result_page@16
+SHA1-Digest: ZaF1pxbxiXs+QCvZ/Q93Zu08C8I=
+
+Name: assets/QUICKPAY@frontpay-channel-logo-flex
+SHA1-Digest: iraRyKOt7Xjfr98B0QN+qTbbShg=
+
+Name: assets/tts/amr/tts_5.amr
+SHA1-Digest: l62xlnGrAgFerGOe8uK+XpDUFpA=
+
+Name: assets/KOUBEI@lc_follow_pic@5
+SHA1-Digest: FZ51S7Q59fFsux3grRiW3DdcUcQ=
+
+Name: assets/lazy_bundles_preinstall.cfg
+SHA1-Digest: 0557xUSqQsMaW65bQDWwu/myafg=
+
+Name: assets/tts/amr/tts_ten.amr
+SHA1-Digest: E/bjRz1G8EDYGy6feUN4kim9Dlo=
+
+Name: assets/amc.i18n.zh_TW
+SHA1-Digest: BPMoDlmZBXWHTm9Y9GJZk+4JxsI=
+
+Name: assets/bank_mark/icon/NJCB.png
+SHA1-Digest: M7V7VrbZfHL+FH9wiUhf3Ipj3S0=
+
+Name: assets/emotions/emotion_small_20.webp
+SHA1-Digest: QqNdSLOAZOj3QjdWx18iDk1aN3Q=
+
+Name: lib/armeabi/libmerged-bundles-res-57.so
+SHA1-Digest: 6Fv4+hoVdtBuLupgeVb+bHM3hy0=
+
+Name: assets/QUICKPAY@cashier-new-wk-card-flex
+SHA1-Digest: nbmBcgZDO3kcqz6JWX4nHfg95Ek=
+
+Name: res/drawable-xxhdpi-v4/title_progree_bar_bg.webp
+SHA1-Digest: PzdTV0v5d6d42uUMnMh+vowHeUc=
+
+Name: res/drawable-xxhdpi-v4/appicon_push.png
+SHA1-Digest: tWUlIj+UTIOKgZDV9wOOAVXRnyI=
+
+Name: assets/QUICKPAY@open-auth-webbank-flex
+SHA1-Digest: rSp4lAodY+Mqg7bf2NHzGmthRnk=
+
+Name: assets/bank_mark/icon/JSRCU.png
+SHA1-Digest: 2iNPZl7FEBDw0yrYLMrbYWkKH0I=
+
+Name: lib/armeabi/libandroid-phone-wallet-accountauth.so
+SHA1-Digest: wW1V1YBlSMUAadIc/5lv8vpWSVg=
+
+Name: lib/armeabi/libantpng.so
+SHA1-Digest: F4JbiXShpjQ3LwkvAf3LgcXAxTA=
+
+Name: lib/armeabi/libandfix_x86.so
+SHA1-Digest: IC16CQVTYopqQEkFPsCnQDLlN3E=
+
+Name: assets/KOUBEI@home_may_like_content_kb@10
+SHA1-Digest: dEy2TGTwasSHhwsZa0V1pfLypUg=
+
+Name: assets/emotions/emotion_small_77.webp
+SHA1-Digest: WKGBoR60I/JwMAQAkIc66mv3xSo=
+
+Name: assets/metainfos.cfg
+SHA1-Digest: CL8Ik8OUjFrqvrsfcZWOBVgsrBc=
+
+Name: lib/armeabi/libmobileapi-barcodeprod.so
+SHA1-Digest: Xptorq0DJWjXVvCOak4TtMuksbY=
+
+Name: lib/armeabi/libmobileapi-promocore.so
+SHA1-Digest: xDTUkQQMdG/wIgWZagoa50s9nMU=
+
+Name: assets/emotions/emotion_small_15.webp
+SHA1-Digest: asDAqP/qPb25dps1BGCqMe8ZcL4=
+
+Name: lib/armeabi/libandroid-phone-wallet-payanotherapp.so
+SHA1-Digest: 41QnNZyrO781PlWgIBImya/trJA=
+
+Name: assets/tts/tts_2.mp3
+SHA1-Digest: LLOo2OqgRul/5WSE+x4PFvx6QAc=
+
+Name: assets/ant_no_result.gif
+SHA1-Digest: KG4cNl14YOtVxWq3tcTfWlbBkY4=
+
+Name: assets/lazy_bundles_plain.cfg
+SHA1-Digest: VRRuARGv36ptDbM/ReG6Q2qwt7A=
+
+Name: res/drawable-hdpi-v4/download_cancel_press.png
+SHA1-Digest: igoFlQZu+uv4ZrMTwkxQ4R81sS4=
+
+Name: res/drawable/tab_icon_scan.xml
+SHA1-Digest: XXIibMoNEg+4fsc1cjVaJ3R3phQ=
+
+Name: assets/bank_mark/icon/NCCB.png
+SHA1-Digest: u4iC3bvgcxeG6ejbPy3ZHy1p/cM=
+
+Name: assets/BANK_CMB.png
+SHA1-Digest: 6kToaWag71FufRkEiwWEmctgbDY=
+
+Name: assets/BANK_TCCB.png
+SHA1-Digest: 2kTJBpvMhFJ/cqBo5U+LtzlW+DU=
+
+Name: assets/BANK_CRCBANK.png
+SHA1-Digest: Bijm0ai92kHhEDaY7Cp2VLItMUI=
+
+Name: lib/armeabi/libmultimedia-xmedia.so
+SHA1-Digest: Sp2Dt1I4oAUV5wdqzdT6NldqtVU=
+
+Name: assets/KOUBEI@goods_detail_cuisine@8
+SHA1-Digest: 2Chhtt+A6ddG+JQQxEguHEhAt04=
+
+Name: assets/emotions/emotion_small_94.webp
+SHA1-Digest: Hz1xOHPk42j1r+FsGgQT5A7yeas=
+
+Name: lib/armeabi/libandroid-phone-secauthenticator-iotauth.so
+SHA1-Digest: 0n751w1c4Ai0hHiKBka2Mxf+F0w=
+
+Name: assets/WALLET-SEARCH@SearchBanner1
+SHA1-Digest: tzqgt7ySkPVAUYRLRuvx2c3Y7VU=
+
+Name: lib/armeabi/libandroid-phone-securitycommon-aliuser.so
+SHA1-Digest: A6GFnKacsPYEoBIOzt7393Ssyjc=
+
+Name: assets/QUICKPAY@fingerprint-open-auth-flex
+SHA1-Digest: YPYKyuLwQalLSmBBttMrS0PPJmw=
+
+Name: lib/armeabi/libandroid-phone-mobilesdk-liteprocess.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: assets/QUICKPAY@cashier-safeprotect
+SHA1-Digest: 0lTxb317ul6U6RVjY91BEvuLUuc=
+
+Name: lib/armeabi/libiomx.24.so
+SHA1-Digest: gpXrTYhzsu5ks4kxQ4/x6cjFFCE=
+
+Name: lib/armeabi/libandroid-phone-wallet-alipassapp.so
+SHA1-Digest: 73Gg0qPYKDfi+laB6wslKidUDOQ=
+
+Name: res/drawable/dialog_btn_press_radius_shape.xml
+SHA1-Digest: fl84+3FplUWy0Smek6tQ2xPXcX8=
+
+Name: lib/armeabi/libandroid-phone-wallet-favorite.so
+SHA1-Digest: ZMWgtb0NriwidBtt7eAv8boSdLA=
+
+Name: lib/armeabi/libmobileapi-ccrprod.so
+SHA1-Digest: ecCK9vzGgLqU8jyHJMJmSH1qdtQ=
+
+Name: assets/KOUBEI@home_may_like_goods_kb@25
+SHA1-Digest: +GWEzt8YwccpYOerM/lFupq2bLI=
+
+Name: assets/emotions/emotion_small_27.webp
+SHA1-Digest: XLBL2e+r0rAj5pm1O7Ut7+Iw8xI=
+
+Name: lib/armeabi/libijkffmpeg.so
+SHA1-Digest: bezzFkT9Ejs33nrL24dhiZrUjhw=
+
+Name: res/drawable/app_launch_from_short_bg.xml
+SHA1-Digest: drI3MyT+bElP+rEQDknFZKI6VIA=
+
+Name: assets/KOUBEI@detail_nr_shop_info_popeye@17
+SHA1-Digest: aH1Q+xK/SpxGdbfvjyJCkhjadqw=
+
+Name: assets/OVERSEAS@intl_home_featured_district
+SHA1-Digest: BRqvoAZIjT4Urs9anQIHFEWU8i4=
+
+Name: lib/armeabi/libandroid-phone-wallet-emotionmaker.so
+SHA1-Digest: 8so4MIC4T70QB/67hFder3K5DbY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: y3UYddXtbST85DAe0iR1Q+nZ6ec=
+
+Name: assets/bank_mark/icon/BJRCB.png
+SHA1-Digest: yFSR6yVn6Fk6R+caadiPK9dPQjw=
+
+Name: assets/KOUBEI@home_top_banner@22
+SHA1-Digest: AlhiMuRXqRkDkp1hje3j8n7M0Zs=
+
+Name: assets/material/icons/sAB01UqKQTaBN2qoiN6IdgAAACMAAQED
+SHA1-Digest: mLRl5lybIS9pN9BkZ5AbTr3UiHw=
+
+Name: assets/BANK_HRBANK.png
+SHA1-Digest: l3FUYRviW+GCdNdRWMhE3Bv9Vqo=
+
+Name: assets/bank_mark/icon/SHRCB.png
+SHA1-Digest: ISX3gbvjfJ0hK8EXNOj4ztmGrjI=
+
+Name: assets/emotions/emotion_small_112.webp
+SHA1-Digest: +ZKy4sKun1HteQeeR50vdt7EfGY=
+
+Name: lib/armeabi/libalipaydecode100122.so
+SHA1-Digest: hQS2Mt4oCxrMLuVbU0+yJJy9spg=
+
+Name: res/anim/h5_slide_out_right.xml
+SHA1-Digest: iSVZm+qIqlFtyTlZLA1iFBlcTPM=
+
+Name: assets/KOUBEI@detail_service_1@11
+SHA1-Digest: 2qE9/YrRhSka0X818acrUOYCoYU=
+
+Name: assets/emotions/emotion_small_44.webp
+SHA1-Digest: 1TwrkbWaXnsW4oUEt7nGZFSlZSo=
+
+Name: assets/KOUBEI@goods_list_item@57
+SHA1-Digest: iO1tK1w9Vbmy8wKQVF68kCFRSTA=
+
+Name: assets/OVERSEAS@intl_shop_detail_featured_content_item
+SHA1-Digest: zTiJzbpZ1aWQAJyzmenHuFMKoMo=
+
+Name: assets/SendingData.wav
+SHA1-Digest: EDG9kc0Ly/J9iooyYxc2zfHxJb0=
+
+Name: lib/armeabi/libmerged-bundles-res-58.so
+SHA1-Digest: 8WT8hY2j3m7jAgeCYNBTNPY5U9Q=
+
+Name: assets/KOUBEI@search_list_onebox_location@5
+SHA1-Digest: eNeeJgGqAocS+8T+DsPQDI8ZC8U=
+
+Name: res/drawable-xxhdpi-v4/shock_point_large.9.png
+SHA1-Digest: tdMZppSjIURKzZnhSQHpu15JN90=
+
+Name: assets/KOUBEI@collect_article_list_item@5
+SHA1-Digest: CKC7qaF77HSyoa7AQXkOZxjwWMw=
+
+Name: res/drawable/sso_shape_circle_head_out.xml
+SHA1-Digest: N1D/i5av+OnTLdgkcAmDBW+Z7JM=
+
+Name: assets/KOUBEI@detail_wait_comment@5
+SHA1-Digest: Ve3u+7go/gBDzCztqhPnCLs4qZ4=
+
+Name: assets/bank_mark/icon/ICBC.png
+SHA1-Digest: XF7bwfUZaUMs9pg3aFgI9LsC5XM=
+
+Name: res/xml/account_preferences.xml
+SHA1-Digest: iIReQKsvkT7CgCKbgTB21O1VRMc=
+
+Name: assets/amc-h5-polyfill.css
+SHA1-Digest: 2OpOA61xuTR8fM3XyRVpIEi3vK8=
+
+Name: assets/OVERSEAS@intl_shop_detail_comment_item
+SHA1-Digest: v8pjGY0bkXqpb0GWnVxNQXYAQ/k=
+
+Name: res/drawable/share_item_normal.xml
+SHA1-Digest: O7Jo7JNrXKxP9H7N7ulo2HmraEU=
+
+Name: assets/tts/amr/tts_reward.amr
+SHA1-Digest: rQQUri6JGyadK6+nn/x52ckTTNY=
+
+Name: assets/bank_mark/icon/SDB.png
+SHA1-Digest: qG0IATRq63iBxwuZiwJ/uyop8dI=
+
+Name: assets/QUICKPAY@cashier-credit-sign-flex
+SHA1-Digest: s2aEsxdu5v2DXiNVaEI6L2COWuM=
+
+Name: assets/KOUBEI@home_mrp_one_col_feed@9
+SHA1-Digest: LQxygbK6BMuxCTkf9e0XG+c2XYk=
+
+Name: assets/SE.bin
+SHA1-Digest: 7b9XgMpQfKVu9cf7os5xSiu2NA4=
+
+Name: assets/face_login_by_nod.mp3
+SHA1-Digest: jRnCcDqzxZPfgsicK7/vH2a4qQ0=
+
+Name: assets/WALLET-SEARCH@O2OInternational
+SHA1-Digest: 4006tv/k/R5Y7vXtJUiod3WykjU=
+
+Name: res/drawable/sso_button_bg_normal.xml
+SHA1-Digest: rNZjSp+B4mbCOybNGPtoA3g9kIY=
+
+Name: lib/armeabi/libhuawei-c.so
+SHA1-Digest: keHOucuwUvIMflUrHy3sI++LYcQ=
+
+Name: lib/armeabi/libtcpinfo.so
+SHA1-Digest: u9gF8RsG7zbCdeGAE8hHrrGgtjQ=
+
+Name: assets/KOUBEI@popeye_familiar_shop@22
+SHA1-Digest: zHtUL/NzaM8tb0RXby/u545xp2Y=
+
+Name: assets/USE_WIRE.png
+SHA1-Digest: YI+CYYrr9D18abZg5dx5kt0Phu0=
+
+Name: assets/bill/trade_detail_styles.json
+SHA1-Digest: 6X9ag3Ci7YaLMlawTJhZyPedOlQ=
+
+Name: assets/html/nav/facewelcome.html
+SHA1-Digest: o1nmvcCBA2RgKMdgFRbg+kJQuHI=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-securityguard.so
+SHA1-Digest: X4WtUDihzk4douXZRqcHGAMAI7c=
+
+Name: res/xml/syncadapter.xml
+SHA1-Digest: LfMFeGTB4JQXSGoiPbnNak/JR+w=
+
+Name: assets/bank_mark/icon/COMM.png
+SHA1-Digest: hByjMoVq5iDd/dX7VZG2JnzLNhs=
+
+Name: assets/tts/tts_1.mp3
+SHA1-Digest: zy57nsnDEtzDgIqp7gvMJuO6giY=
+
+Name: lib/armeabi/libandroid-phone-wallet-safepaybase.so
+SHA1-Digest: zLGhC959p2nEjdYVLVkimhqjH/Q=
+
+Name: lib/armeabi/libandroid-phone-wallet-stockcommon.so
+SHA1-Digest: GFuyUyX9wcKFqHtIBbdZJVyqFb4=
+
+Name: assets/KOUBEI@goods_detail_comment@6
+SHA1-Digest: fHoqTvuxM6S0mWEB4JwKxFk50XY=
+
+Name: assets/QUICKPAY@cashier-peerpay-flex
+SHA1-Digest: x4X64HRrXOLsjsPikRsDGBF/EBs=
+
+Name: assets/emotions/emotion_small_24.webp
+SHA1-Digest: SAvCwAmu9TYOXX8Ahatkbrn3VBI=
+
+Name: lib/armeabi/libFalconIdcardCheck-v7a.so
+SHA1-Digest: Agtp31+XNDxAWLfhF8RSB2lZL+4=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: PdnfAxrHQ1VYnmVNnwbQ/xZH9fk=
+
+Name: lib/armeabi/libandroid-phone-wallet-mobilechargeapp.so
+SHA1-Digest: S3fCljr9fm5Q9RawE6uNvOEjaAE=
+
+Name: lib/armeabi/libsgmain.so
+SHA1-Digest: YHi4jHpjJqKK4VIbVeDgw4zR0Lg=
+
+Name: assets/KOUBEI@dish_recommend_normal@15
+SHA1-Digest: 29AIxlx6ffe12aQl8MJopgK2phA=
+
+Name: lib/armeabi/libpushinitzip.so
+SHA1-Digest: 3dug38+yHuXb+b/pqiF54brGyG0=
+
+Name: res/drawable-xxhdpi-v4/zhi.webp
+SHA1-Digest: nvsBQYNlVmxweLvot6nrN57+WbE=
+
+Name: assets/emotions/emotion_small_41.webp
+SHA1-Digest: Zs5Lo4y4ifGB5Y5387BsBSntbjE=
+
+Name: assets/WALLET-SEARCH@Daowei
+SHA1-Digest: t5mmGUv2Wuw5ix9M3YJWW2aD2r8=
+
+Name: assets/WALLET-BILL@BLDetailTotal
+SHA1-Digest: /ZuO/T+X3I59R4KFdEkTwF0rLq4=
+
+Name: res/drawable/border_btn_bg.xml
+SHA1-Digest: blvPOO1/5r+zikjRtCgft0Zc2PI=
+
+Name: assets/KOUBEI@home_may_like_detail@12
+SHA1-Digest: RsMws+zSETduK/ig7ETgsBbxcb4=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2o.so
+SHA1-Digest: pbqC5sy7lc+vK2MbJAj+uFYX5WY=
+
+Name: res/drawable-xxhdpi-v4/share_chats.png
+SHA1-Digest: c6xrr3XV0vzX/z4mQpsYkjuIyUg=
+
+Name: assets/camera.gif
+SHA1-Digest: A0mSD6br11LTV/dP06eHmCQjMKA=
+
+Name: lib/armeabi/libandroid-phone-wallet-billdetail.so
+SHA1-Digest: NeQyzHImGBLEWyLLY+/d0Fa8d6w=
+
+Name: lib/armeabi/libandroid-phone-wallet-nebulabiz.so
+SHA1-Digest: P9Klf5RuEFErElzZXVYNdDIC720=
+
+Name: assets/KOUBEI@detail_marketing_zhe@59
+SHA1-Digest: +CUBrfw7CUyJSHyGd35G5glZiEs=
+
+Name: res/drawable-hdpi-v4/security_login_logo_a.png
+SHA1-Digest: n7Ob9spgCug4Fj9xgkQCLRBJIsc=
+
+Name: lib/armeabi/libandroid-phone-wallet-wealthhome.so
+SHA1-Digest: KebsUk91q1fZ5z+PwojDAmoLLos=
+
+Name: assets/OVERSEAS@intl_home_tab_merchant_list
+SHA1-Digest: 5TKpuq++PKMZEO/21lSuLALO1Ac=
+
+Name: assets/KOUBEI@order_detail_pay_info@11
+SHA1-Digest: fve3R7Tw+XKT2Zn58NcJXI4PJh0=
+
+Name: assets/OVERSEAS@intl_promotions_list
+SHA1-Digest: w8oSrx4ODKlE1vlhYFJ3Hnqf+yU=
+
+Name: assets/dot_appear.json
+SHA1-Digest: b5m/xams4Vk1J/puUrKDp3dMaZo=
+
+Name: res/drawable-xxhdpi-v4/left_pic.webp
+SHA1-Digest: 4MrjbHe2AvpyAf0p9dVSlIq3HPk=
+
+Name: assets/BANK_NYBANK.png
+SHA1-Digest: qc4Za+r0d6azREF7nGJKsDQr4tM=
+
+Name: lib/armeabi/libijkplayer.so
+SHA1-Digest: zQ38ANHpU67ZndikUBYqN5zVUac=
+
+Name: assets/cacheCleanConfig.config
+SHA1-Digest: bJ+99Lc1NektILd6Oah+LkstOrQ=
+
+Name: res/drawable/sso_shape_button_normal_dw.xml
+SHA1-Digest: LS1o7L+y5eoqiqEi86wNeRNGxT8=
+
+Name: assets/emotions/emotion_small_68.webp
+SHA1-Digest: Sb9+NG7F8yrH0k8RYQpx6/Ak/h4=
+
+Name: assets/timonapi.js
+SHA1-Digest: TL2amlRvmpcBnTeqhfRBn0m1l50=
+
+Name: lib/armeabi/libandroid-phone-wallet-creditcard.so
+SHA1-Digest: Oriv2+ge+nXWRhr9F8RFaSHbu+k=
+
+Name: assets/fonts/FjallaOneRegular.ttf
+SHA1-Digest: S7wxSYdB2zIN0trzu5Jaq5tnUFM=
+
+Name: res/drawable/sso_button_text_normal.xml
+SHA1-Digest: OVJRPFN24sncnwDk8fTBgnoeMio=
+
+Name: res/drawable-xxhdpi-v4/myqrcode.png
+SHA1-Digest: u9Ofb0MWIdHQebyxw0sDlmZBymo=
+
+Name: assets/amc-h5-polyfill.js
+SHA1-Digest: BVG352E+Bi1A564TCZAf9a9ajyk=
+
+Name: assets/emotions/emotion_small_70.webp
+SHA1-Digest: 8As/YonToXTJvgvxTYnZbStgP1o=
+
+Name: assets/emotions/emotion_small_57.webp
+SHA1-Digest: 7eerDpjIia1MLothZcIvV4SYBxE=
+
+Name: assets/lottie/antui_refresh.json
+SHA1-Digest: IYaHzJUFZM3IjbELeuoGB/WHALQ=
+
+Name: assets/bank_mark/icon/BSB.png
+SHA1-Digest: xMLJ44ZLSRQCgCCKCOyTLkjIMSM=
+
+Name: assets/bank_mark/icon/DLB.png
+SHA1-Digest: KhSZLb0q9OhyvvXMEzzsPI3hRrU=
+
+Name: lib/armeabi/libandroid-phone-wallet-chatapp.so
+SHA1-Digest: nYgvvh+BUmCJHGwkuDsXfnG4+IM=
+
+Name: assets/USE_GAS.png
+SHA1-Digest: vnDSwnlgP1wi6tBsNWljICVUJj4=
+
+Name: assets/WALLET-SEARCH@CityService
+SHA1-Digest: 1yWfFxxG1PnbqijzESibfL1ybRU=
+
+Name: res/anim/buttom_out.xml
+SHA1-Digest: NkIrNWTsMTZnEY9h4dUcIeiKQvI=
+
+Name: assets/bank_mark/icon/JXBANK.png
+SHA1-Digest: M2tExaC8r7v0A9ZbHYMWApIEa44=
+
+Name: lib/armeabi/libFalconFaceDynamic.so
+SHA1-Digest: P6X5ucIYaenvqj1J1GOBzQ+ft3c=
+
+Name: lib/armeabi/libAWT_Generator.so
+SHA1-Digest: HAlksG+QoU5m7b5LCayrZ/f9kkc=
+
+Name: assets/OVERSEAS@intl_home_featured_content_item
+SHA1-Digest: WRYi1y/eWKfMdCjjegxjfLzTsu4=
+
+Name: lib/armeabi/libandroid-phone-wallet-group.so
+SHA1-Digest: 0uXutnrEtVg4wZ/Lrqf7yrC4Vro=
+
+Name: assets/BANK_AP_QMF.png
+SHA1-Digest: UPxXfCrAZ9qEV0UIfh/L4bZ0fV8=
+
+Name: assets/BANK_BOQH.png
+SHA1-Digest: u+QR43hLxMrTLaGDqkN4aQu9y5w=
+
+Name: assets/tts/tts_thousand.mp3
+SHA1-Digest: Ti8SFNu7bNXedmrGQeq9MRDjkSU=
+
+Name: assets/bank_mark/icon/TZCB.png
+SHA1-Digest: wIyKjZm9fKzoPDczy2lE6Ih9ZM8=
+
+Name: assets/KOUBEI@order_detail_status@8
+SHA1-Digest: 2iR6m6bPPyQT97NbAatu0ha8It8=
+
+Name: lib/armeabi/libandroid-phone-wallet-buscode.so
+SHA1-Digest: m6GSMah4mGQFusinaTVnJbIJsLc=
+
+Name: assets/KOUBEI@home_travel_guide@7
+SHA1-Digest: uIZ1jw1I89YOOlMPaE+anK3/nEw=
+
+Name: assets/emotions/emotion_small_103.webp
+SHA1-Digest: aV+nlQrn2l2FFK4OWtMGobP6oEk=
+
+Name: assets/emotions/emotion_small_48.webp
+SHA1-Digest: v6jx2KJ9m8P0vGr5nxZwWLcLKFk=
+
+Name: res/drawable-xxhdpi-v4/popmenu_shadow_bg_left.9.png
+SHA1-Digest: a927PXaSt2heFri3UAp8tuNZlwc=
+
+Name: res/drawable/alipay_autotest.png
+SHA1-Digest: RkWOZMuEAePWG2McGdc25u4cfas=
+
+Name: assets/KOUBEI@home_service_card@7
+SHA1-Digest: uy0wYgO2jWVeygIcuYcVoIGaDKM=
+
+Name: lib/armeabi/libFalconSmartRecog.so
+SHA1-Digest: Mbw79IAPNVOOApAQrWK6ydzvQgw=
+
+Name: assets/location_public_key.der
+SHA1-Digest: D586soxf3hMy1EqlCHX4BJDII1Y=
+
+Name: assets/QUICKPAY@open-pwd-check-flex
+SHA1-Digest: u0Yt5re3OYH03rm1GyrdGSWQJ5g=
+
+Name: assets/QUICKPAY@cashier-safeprotect-flex
+SHA1-Digest: HnEVrrJ0E8C0rP9aOdu5/uzEC7w=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-falconlooks.so
+SHA1-Digest: kqWmsnCm4bvYi7x+ZeivkkOg24A=
+
+Name: lib/armeabi/libandroid-phone-wallet-emotion.so
+SHA1-Digest: OsLXuNRJ0vd9AyM9IsXHI31P6ok=
+
+Name: assets/QUICKPAY@waika-validate-flex
+SHA1-Digest: RIfAd/X9Py4c1m47MIh70UGYNt8=
+
+Name: assets/emotions/emotion_small_61.webp
+SHA1-Digest: ATNU5Bt4e2kZK39npg2WYNwLrEY=
+
+Name: assets/bank_mark/icon/BOYK.png
+SHA1-Digest: LG+b0DLmBEnDsn/G8Clvck2iqWw=
+
+Name: assets/bank_mark/icon/CMB.png
+SHA1-Digest: lW+VwpKNwLEPeDRHvqSSQNsp+7g=
+
+Name: assets/BANK_NCB.png
+SHA1-Digest: art0x2WJz0AoSc4PtkoJnWyEv+4=
+
+Name: assets/QUICKPAY@afterpay-finger-flex
+SHA1-Digest: Xo+gjaxm13lPQ3Pk+wZiZHvXDBE=
+
+Name: assets/KOUBEI@goods_detail_infobox@84
+SHA1-Digest: 3s1oAz+MHh+Um7eiI/t0sZQSluM=
+
+Name: assets/common.js
+SHA1-Digest: X26QiNzlNvxtd7e5LPjlDZrn4WI=
+
+Name: assets/QUICKPAY@cashier-wkcard-billaddr-flex
+SHA1-Digest: Ps00N2Btp+kMED80UGmEuY20knc=
+
+Name: assets/KOUBEI@goods_detail_pay_info@51
+SHA1-Digest: PusX9A3GL2PFpmrfLqBBt+I2+uk=
+
+Name: assets/emotions/emotion_small_90.webp
+SHA1-Digest: mxPwjpd744naqxlIo7XtrQoC+s8=
+
+Name: assets/KOUBEI@home_headline_seller_words@18
+SHA1-Digest: pjVX/3I38h0MsHsPkqXXq9l2WLE=
+
+Name: assets/emotions/emotion_small_113.webp
+SHA1-Digest: YNEUXfrBJvDKDdLUeu8fuXY2eMo=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-nineoldandroids.so
+SHA1-Digest: z/xt7Q0fZrJjNbFd7KXGaxLGTMA=
+
+Name: assets/OVERSEAS@intl_home_shop_recommend_item
+SHA1-Digest: 9iUj0aO+qu5Jzcrh4lNRpJ1X5TA=
+
+Name: assets/emotions/emotion_small_119.webp
+SHA1-Digest: oHObAYAku8NZQS0Dpe7mXA9peQw=
+
+Name: res/drawable-xxhdpi-v4/title_float_press_down.9.png
+SHA1-Digest: zmIJZ6JpGgvpBUb1jBUeW4TziHQ=
+
+Name: lib/armeabi/libmnet-tcp.so
+SHA1-Digest: p8FnyxJUDO8W/s+jU9KgSArVVJQ=
+
+Name: assets/KOUBEI@home_headline@17
+SHA1-Digest: UruNSDdhqJaGXvwMGJip2rng9+8=
+
+Name: res/drawable-mdpi-v4/appicon.png
+SHA1-Digest: 8cJleBZkW5BbXK1/CWlp+FTkog4=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-falcon.so
+SHA1-Digest: VIeEsgRWuzeof5UdoaWQyLuUuS4=
+
+Name: assets/category.json
+SHA1-Digest: 6ak/b2JZ2B9WMpStYjsP3Cg/Ngw=
+
+Name: assets/template_version.list
+SHA1-Digest: Wv0ZNblJywBfxkDHfTUPv9PeKJI=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2opopeye.so
+SHA1-Digest: fSb+1L1tHWFRTfdW1ryEMb2lUv0=
+
+Name: assets/WealthCalc@financialTool_loan_detail_cell
+SHA1-Digest: 8nF8Z+YnCiEcgPQF5IsH+oyzSNc=
+
+Name: res/drawable/yw_1222.jpg
+SHA1-Digest: cfYwUnIlmV6/Yy/JrOMb8WyVOJo=
+
+Name: lib/armeabi/libcocklogic.so
+SHA1-Digest: bQ6DpYiJyv3kGceaJNk2Q0Nxdbc=
+
+Name: res/drawable/barcode_bak_botton.xml
+SHA1-Digest: ig27tXNjuzT1YcS9lUzVZOmJutA=
+
+Name: assets/KOUBEI@product_order_list_item@33
+SHA1-Digest: 4f8YPDldyW+ZyckzveCiPgRiDZE=
+
+Name: assets/OVERSEAS@intl_home_scroll_ad
+SHA1-Digest: h1rlKK6nSMqi4B0869AnPBVDmm4=
+
+Name: assets/QUICKPAY@cashier-activity-flex
+SHA1-Digest: dz2u8jgapboj7web2ONfUMdicX8=
+
+Name: assets/QUICKPAY@select-country-and-area-enhance-flex
+SHA1-Digest: FZAbZogi+Y+CnPL+CHv+IB8CkhI=
+
+Name: assets/KOUBEI@detail_nr_recommend_reason@2
+SHA1-Digest: hIGogdHg3yGWMpoRT66nI7DYReQ=
+
+Name: assets/emotions/emotion_small_64.webp
+SHA1-Digest: AWre5sm1d/6PMPVG7Z4vPfpLFC4=
+
+Name: assets/notification_config.json
+SHA1-Digest: n3DkcQhUEoMjrJR2EV/cFNwHzj0=
+
+Name: res/drawable-ldpi-v4/appicon.png
+SHA1-Digest: 8cJleBZkW5BbXK1/CWlp+FTkog4=
+
+Name: assets/BANK_WZCB.png
+SHA1-Digest: YG/Vi/y1hbu6T7mhHDN8yMoGPXY=
+
+Name: assets/BANK_CCB.png
+SHA1-Digest: 8DKHieTM9mRijoO6L6LPhEZETtk=
+
+Name: assets/QUICKPAY@deposit-index-flex
+SHA1-Digest: KHE/TKy5trAoGhqtSVDZZYlcQ3U=
+
+Name: res/drawable-hdpi-v4/scan_pressed.png
+SHA1-Digest: lVgGVfd/qZkhzm642nYqLBxV038=
+
+Name: assets/QUICKPAY@cashier-sms-flex
+SHA1-Digest: Qzl5KcengBdkVISYNXdS+nSos4k=
+
+Name: assets/emotions/emotion_small_14.webp
+SHA1-Digest: AinribdIIKkTEb/nBFXEuid5kxw=
+
+Name: assets/KOUBEI@detail_service_card@16
+SHA1-Digest: sFz8gdjrnK/2mQNj8+zGbu5F3Q8=
+
+Name: assets/tts/amr/tts_9.amr
+SHA1-Digest: tJaLtHYKeYthWOZoRUdA4Dxo1N0=
+
+Name: lib/armeabi/libhoks.so
+SHA1-Digest: V0VFx1CVWTUi36RjPbHKFJ7Rbgk=
+
+Name: assets/tts/tts_4.mp3
+SHA1-Digest: sHwue+7dCK5aIlEI8rJ4XfxDbcg=
+
+Name: assets/USE_TRANSFER.png
+SHA1-Digest: rFteFUxpM8UayURb5a/EidQ6vyA=
+
+Name: assets/USE_CARDTRANSFER.png
+SHA1-Digest: NiOZ3+iYmh4MmLvmDnP9d8G/6vo=
+
+Name: assets/KOUBEI@detail_article_list@12
+SHA1-Digest: NEvvrBlFf5JTt9OKF5WDqjGut8Q=
+
+Name: assets/KOUBEI@home_headline_seller_public@8
+SHA1-Digest: Skuz86TiRidxsCOecq+5RUGSq+M=
+
+Name: assets/bank_mark/icon/WZCB.png
+SHA1-Digest: Jsa/2X5DkhFX8uJHzP16b1P71Ig=
+
+Name: assets/KOUBEI@my_invited_ques_item@9
+SHA1-Digest: yfe4vmt+1XCL7tUSASgoVxRV/fM=
+
+Name: assets/OVERSEAS@intl_home_tab_featured_merchant
+SHA1-Digest: 3UYWKijMOu3ttCf0i4gcQClbqdc=
+
+Name: lib/armeabi/libandroid-phone-wallet-tally.so
+SHA1-Digest: XpeQFusb5RQYBun1eyE7JxRFAzk=
+
+Name: assets/KOUBEI@home_travel_mall@10
+SHA1-Digest: UVNxIF53E3A/xWnlLXEsKsbHjjU=
+
+Name: assets/KOUBEI@home_travel_headline@12
+SHA1-Digest: B+jpO8j9NG2hEfA7P0HQlr7y4xw=
+
+Name: lib/armeabi/libijksdl.so
+SHA1-Digest: n0KQCfaDhy1VG/WO1LEfeFuX5g8=
+
+Name: lib/armeabi/libsgnocaptcha.so
+SHA1-Digest: tgRn/zb1BVrFmcsoEoKvftlToxY=
+
+Name: assets/MOBILEIC@kba
+SHA1-Digest: 1yi/1EL0vCm3LHtaddqd+zhmNLk=
+
+Name: assets/mic.i18n.zh_TW
+SHA1-Digest: BpCqrL0TPosXzr7UPLuOzsGuDvw=
+
+Name: assets/msg_bill.webp
+SHA1-Digest: ExSILhZPqzDh7l9Dd51lTsDf2W0=
+
+Name: assets/KOUBEI@home_headline_shop@33
+SHA1-Digest: rdgDrAHd7IZPhIkgbkvtue+i4I8=
+
+Name: assets/OVERSEAS@intl_common_scroll_recommend_v2
+SHA1-Digest: yKCsvDiOTJ6ZRoR77d7XsNwi4K8=
+
+Name: assets/faceModel3D.dat
+SHA1-Digest: k7ZOdlYTLEvU/gUMCmYZZq93cEg=
+
+Name: lib/armeabi/libandroid-phone-wallet-nebulauc.so
+SHA1-Digest: Pxvgul1UrPzOy2Jfwt/QhVOM/es=
+
+Name: res/drawable-xxhdpi-v4/notify_payment.png
+SHA1-Digest: fWcLFa2xKbrrdnU3m4+QkHLFu2M=
+
+Name: lib/armeabi/libcom-koubei-android-abintellegince-abroutersdk.so
+SHA1-Digest: iemtT40rgmJ5agqf+VDoLxn5HO8=
+
+Name: assets/KOUBEI@home_headline_pic@23
+SHA1-Digest: DV0IiRDQVft/55fIaccgNYzVvYY=
+
+Name: res/drawable-xxxhdpi-v4/appicon.png
+SHA1-Digest: 36kGMg6zwXzpYuVVjz+l+ooxUQI=
+
+Name: assets/KOUBEI@search_list_tag@8
+SHA1-Digest: 0kh2DfSMaaK5XBuR+eYFwnnEYik=
+
+Name: assets/QUICKPAY@cashier-login-new-flex
+SHA1-Digest: sNoJx/6bpaEQ5iGEiNwW2Il7mOw=
+
+Name: assets/tts/tts_mobiledata.mp3
+SHA1-Digest: kz3Xj+Imb2A2yGP4HW+0RHPgQw0=
+
+Name: assets/emotions/emotion_small_21.webp
+SHA1-Digest: EPmSSYK2X9pjnDL7XxbpA4WiGJg=
+
+Name: assets/emotions/emotion_small_18.webp
+SHA1-Digest: zsbqPzJ/R+ATEIhkty61RmLdJKY=
+
+Name: res/drawable-xxhdpi-v4/notify_payment_light.png
+SHA1-Digest: vjqx5TMEC7wIaijNVus04f+gCuQ=
+
+Name: assets/QUICKPAY@frontpay-limit-query-flex.html
+SHA1-Digest: UUSGxeGtQ8eP3Z341x4bSnkvUSQ=
+
+Name: assets/KOUBEI@detail_member_guide_1@8
+SHA1-Digest: eJsQpIGMu+eYUL0oo+7vj9M+bus=
+
+Name: assets/emotions/emotion_small_97.webp
+SHA1-Digest: 5o0vBr1OScNllxkecLVyQ2r6s+Q=
+
+Name: assets/QUICKPAY@cashier-phone-login-flex
+SHA1-Digest: XrOM5VoFl0RTkjJbkYszVIzboSY=
+
+Name: assets/KOUBEI@home_travel_header@8
+SHA1-Digest: bL7eDpHGzU7MzviGkdGjMGEWwIo=
+
+Name: assets/face_model
+SHA1-Digest: s8YVMdOnhdivFAIYMElA5bJINNM=
+
+Name: lib/armeabi/libandroid-phone-wallet-movieticket.so
+SHA1-Digest: 1/0SJlCejL/InIX6p5A4w4luedk=
+
+Name: assets/tts/tts_reward.mp3
+SHA1-Digest: Sz5cJGld6eyCnhBdRgfok2W8Kdo=
+
+Name: assets/tts/tts_yuan.mp3
+SHA1-Digest: PwZO4t5zyKv9gYFvUtbfLPkaSw4=
+
+Name: res/anim/h5_slide_in_right.xml
+SHA1-Digest: d3npfUfiKm9GT+9ug3yo9iq4Nsw=
+
+Name: assets/KOUBEI@goods_detail_cdp@4
+SHA1-Digest: iSd59rUF6AYr/W8qFwD7XlQVsWY=
+
+Name: assets/BANK_SPABANK.png
+SHA1-Digest: fABXWnNkHWlFdeB/+CH+kySlpAI=
+
+Name: lib/armeabi/libijkengine-gif.so
+SHA1-Digest: mWavo023GX/czaIBeG35bWy2DZA=
+
+Name: assets/BANK_JSBANK.png
+SHA1-Digest: gubcq29NpJQmvHRRqeHf4fOwkKA=
+
+Name: assets/OVERSEAS@intl_shop_detail_header
+SHA1-Digest: y1SPHjiiCk9334TGn9uVr1Z957M=
+
+Name: lib/armeabi/libcrashsdk.so
+SHA1-Digest: l1jC4kgECKfG37QDarItqfr58Uw=
+
+Name: assets/emotions/emotion_small_28.webp
+SHA1-Digest: P0cGRODIgz0lSSJaGI4KspPgt6Y=
+
+Name: assets/emotions/emotion_small_31.webp
+SHA1-Digest: K9V6F1uORCcCoICuekzgTFMWDFs=
+
+Name: res/layout/alipay_left_light_miui.xml
+SHA1-Digest: mVhcpCipFT1bboGo7oUMBs0mijA=
+
+Name: lib/armeabi/libiomx.22.so
+SHA1-Digest: XRTGoq5YmJalcmLeEmmYhUyQU1o=
+
+Name: assets/amc.i18n.zh_HK
+SHA1-Digest: mzt9JCV2sEp9M09qojc4oPWlnts=
+
+Name: assets/KOUBEI@home_may_like_cinema@6
+SHA1-Digest: fTjJnthwlE/btGzxdOsXhMdk1cI=
+
+Name: res/drawable-xxhdpi-v4/start_client_logo.png
+SHA1-Digest: dgDVQl7ZndyAZQ/m68N/sa+saWo=
+
+Name: assets/KOUBEI@detail_nr_service_card@4
+SHA1-Digest: WpAenTjSSwLJJxt9UycN9NihULQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-ppchat.so
+SHA1-Digest: Z0sZg1PoZHrBL3R0R6m0+tDYTAk=
+
+Name: assets/KOUBEI@rank_dish_banner@3
+SHA1-Digest: dvHQ4qx/1JfEvwOeUa19c8XMRyw=
+
+Name: lib/armeabi/libandroid-phone-wallet-mob.so
+SHA1-Digest: T1/ayUp88Dq5a3y4Jsev04Kai3w=
+
+Name: lib/armeabi/libandroid-phone-wallet-legotoolkit.so
+SHA1-Digest: Y+3jlsasjo1CVpzLWghuRBeYa7w=
+
+Name: lib/armeabi/libmobile-stocktrade.so
+SHA1-Digest: ZT8/9V8aBmaRbapFQb/bbFthMp8=
+
+Name: res/drawable-xxhdpi-v4/notify_yuebao_light.png
+SHA1-Digest: 3IAC66k4tl4LFYZzTdk8qkaw570=
+
+Name: lib/armeabi/libandroid-phone-wallet-payee.so
+SHA1-Digest: 5oxRF15YcUBYNVGIEl/NWeeuDYc=
+
+Name: lib/armeabi/libnetdetect.so
+SHA1-Digest: NSU6PZNyxKFyQMg635eKz7zI8ls=
+
+Name: assets/BANK_ICBC.png
+SHA1-Digest: DD1aeEUamJQcqB4XSzazB8D5NLo=
+
+Name: res/layout/alipay_center_normal.xml
+SHA1-Digest: YpGbE1WprIn8RcehTnj4oX+2a8U=
+
+Name: res/drawable-xxhdpi-v4/bank_default.webp
+SHA1-Digest: FqgAUt004zwQBJuPYvsenDjVqmo=
+
+Name: res/anim/h5_slide_in_left.xml
+SHA1-Digest: I2n5R8s7+uSowxN7XHka/TYCqn8=
+
+Name: res/drawable-hdpi-v4/appicon_push.png
+SHA1-Digest: wfBJ8/G7NSYuNZ3Fkkajy6foeew=
+
+Name: assets/emotions/emotion_small_106.webp
+SHA1-Digest: kd35vP1k3SD2StD103l/Vw+b3iY=
+
+Name: assets/tts/tts_3.mp3
+SHA1-Digest: 1aAEZUa2DaPBqmzofEx4KPc+/c0=
+
+Name: assets/bank_mark/icon/CIB.png
+SHA1-Digest: 3BTn6u7Iv8noeFC81IujC19ebH8=
+
+Name: assets/KOUBEI@home_guess_you_like@10
+SHA1-Digest: 3BE3N0fZlUtXjtYSNaRIEtxTfzs=
+
+Name: assets/WALLET-FWC@MBDefaultMultiLine
+SHA1-Digest: av6zDSFCrzfjkwXAzDjmpJvQQKc=
+
+Name: assets/emotions/emotion_small_11.webp
+SHA1-Digest: SPzSnWXav6R2cjYsTdd2+GWBaaA=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-amap3dmap.so
+SHA1-Digest: uiWU838snstzDXjjusbQi4CEOKs=
+
+Name: res/drawable-hdpi-v4/sound_pressed.png
+SHA1-Digest: t5xhw+BbWn4XfsDvyvTAmwfr9iY=
+
+Name: assets/WALLET-SEARCH@publiclifeService
+SHA1-Digest: Bc9Dn9K4jMik4jdY+fhkanPIl40=
+
+Name: assets/QUICKPAY@afterpay-upgradespwd-flex
+SHA1-Digest: hhP2n3V5NzEEY5y3LysTK/D4v/g=
+
+Name: lib/armeabi/libcom-koubei-android-dynamic-mistcore.so
+SHA1-Digest: huAPgDNNXkMxiYUXiqIa0wqg7Zk=
+
+Name: res/drawable/shortcut_channel_promo_bg.xml
+SHA1-Digest: EH+AlN6USf+Z5ApowD+c83esD8w=
+
+Name: assets/MOBILEIC@sms
+SHA1-Digest: 32NUxts7YFf3mfegxf8aSYkL758=
+
+Name: assets/emotions/emotion_small_84.webp
+SHA1-Digest: 2tdkQ23IyUeerSXrVfASp1MdOmg=
+
+Name: assets/bank_mark/icon/JRCB.png
+SHA1-Digest: cjgbEulfAv2nlbcVuQXSuBFFFnA=
+
+Name: res/drawable-hdpi-v4/code_pressed.png
+SHA1-Digest: uV4fmcYS6AOKQMnT3l4zyc9MicM=
+
+Name: assets/ccr/local_card_bin.json
+SHA1-Digest: tIORCAQIiC7hWjFTvznMu/lUEp0=
+
+Name: assets/shaders/skinning-none.vert
+SHA1-Digest: w0MO0B96cUuDZCTFg0GekBRot1g=
+
+Name: assets/KOUBEI@category_food_activity_entry@3
+SHA1-Digest: 4hcCfff6WlojAfeyN9ocgI5ToFY=
+
+Name: assets/bank_mark/icon/GZB.png
+SHA1-Digest: qpe5E/Xlnvlj8X9Vel8ovOjrXGg=
+
+Name: assets/KOUBEI@detail_recommend_goods_concise@7
+SHA1-Digest: 15m15f7Zml8nrIvnvSiRHp8tF+8=
+
+Name: assets/emotions/emotion_small_08.webp
+SHA1-Digest: 9vIFdp5MYrI5UluBLyx2IicjFWk=
+
+Name: assets/bank_mark/icon/CDRCB.png
+SHA1-Digest: XjeVDRFG4Mmz4GXn9derXGRnOac=
+
+Name: res/anim/h5_slide_out_left.xml
+SHA1-Digest: WB5ADpUKmWs1Dc8c+SBgX0CRjHA=
+
+Name: assets/0.zip
+SHA1-Digest: ArGRLSis8N5ZjBSRxET3mQGoqm0=
+
+Name: lib/armeabi/libidcardtextcut_v3.0.6.so
+SHA1-Digest: 8sPH/XTuiTdukFF0ftu1AFN6BvI=
+
+Name: assets/KOUBEI@lc_follow_shop@5
+SHA1-Digest: BmrAtqWmakMdC0e15Bgl3La02Lk=
+
+Name: assets/background-complet.png
+SHA1-Digest: oV5/qQu/EJLmASrvqgOyUCjI9C4=
+
+Name: assets/bank_mark/icon/QLBANK.png
+SHA1-Digest: 2vPtP3jlEDwzLj9UbK7uk7WBCFs=
+
+Name: assets/emotions/emotion_small_54.webp
+SHA1-Digest: X+TrZujAiUhaGRUWgvpJnMnh3Tk=
+
+Name: assets/bill/trade_detail_layout.json
+SHA1-Digest: 28ynsQxYLA8fb6ot1xOOicIuMzQ=
+
+Name: assets/bank_mark/icon/BJBANK.png
+SHA1-Digest: qn8fjcAAVropRdQUuDHtBSGq998=
+
+Name: assets/emotions/emotion_small_74.webp
+SHA1-Digest: QGZkJXGShxlMzr+/N0LzsoT9PcE=
+
+Name: res/drawable-xxhdpi-v4/notify_scan.png
+SHA1-Digest: aYJ3z2hvzV30jGooh4KrBZie9eo=
+
+Name: res/drawable-xxhdpi-v4/member_diamond.png
+SHA1-Digest: O8q6pdLMPXECh8p5+vged7XprYI=
+
+Name: res/layout/alipay_left_light.xml
+SHA1-Digest: YScm+fnghqzhVRaNHp4oXbZb+qs=
+
+Name: assets/tts/amr/tts_koubei_daibo.amr
+SHA1-Digest: zSv0RxZOqOjDXS2eYP0uOZcQDCs=
+
+Name: assets/bank_mark/icon/HZCB.png
+SHA1-Digest: zorBIHXs3AMWFVbKdzG9A9do3og=
+
+Name: assets/KOUBEI@search_list_recommend_tip@4
+SHA1-Digest: f817iTL/1b3+I/r6fHjsW99/TZQ=
+
+Name: assets/KOUBEI@order_detail_remark_info@3
+SHA1-Digest: MBZBNf1X73CJrAeXMPS0cMv7jig=
+
+Name: assets/KOUBEI@search_list_activity@13
+SHA1-Digest: 1hL2GATI/B7wq5UhXPuo5lOuSGk=
+
+Name: assets/KOUBEI@home_may_like_active_kb@21
+SHA1-Digest: dR9ouahauXgzuKXPdP6XPZIjACk=
+
+Name: assets/bank_mark/icon/YDRCB.png
+SHA1-Digest: p6rtliN3n6wWcuzkff91mOEory0=
+
+Name: assets/USE_FLB.png
+SHA1-Digest: 23I4HRWtSvLaiuWKkqnZT/ihEL8=
+
+Name: assets/emotions/emotion_small_126.webp
+SHA1-Digest: W3867yZarnBmRkZqJ5uOZbUYoLQ=
+
+Name: lib/armeabi/libofflinecode.so
+SHA1-Digest: bRkZFeI1lKyGaairqivCc1RZIYQ=
+
+Name: assets/KOUBEI@search_list_rank@4
+SHA1-Digest: N4jr/sZ8oGkcz+WgXVg6Mjy0IYw=
+
+Name: assets/KOUBEI@detail_promotion@6
+SHA1-Digest: JKKt5/1tDcWoCfA9ba9iKpm964c=
+
+Name: assets/BANK_JXBANK.png
+SHA1-Digest: W38GWYnrNjlcZ47fG98qU9MIxLc=
+
+Name: assets/face_good.mp3
+SHA1-Digest: 4JsDjiOMbpIFluU47CSq1OSB9Rw=
+
+Name: res/anim/push_up_in.xml
+SHA1-Digest: CcDafW6zpSqVak9lM3PWcyR0WzQ=
+
+Name: res/drawable/onsitepay_bg.xml
+SHA1-Digest: CRt8O+FYZJ36LUng5RHAOoCbOM4=
+
+Name: assets/bank_mark/icon/JSB.png
+SHA1-Digest: 4Ds6YJLQNTuvgFi23+ShnoNWips=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialwidget.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: res/layout/activity_start_logo.xml
+SHA1-Digest: OHl22iz0RKJEMvzbzTmRHO1eNmI=
+
+Name: assets/floor_loading.json
+SHA1-Digest: MO1BUi9cQPaYcHfdP8r1YHqfWJo=
+
+Name: res/drawable-xxhdpi-v4/title_float_middle.9.png
+SHA1-Digest: 46/6NaIMKgMFrglUGlEGjZnO41c=
+
+Name: assets/QUICKPAY@auth-pwd-check-flex
+SHA1-Digest: jJnprHRZVqPz/aafTNMkJuAcxCg=
+
+Name: assets/KOUBEI@detail_pay_dock@32
+SHA1-Digest: 3Izu1QnuDHSQd5pMPJDsXlcbNp0=
+
+Name: assets/QUICKPAY@afterpay-opennpwd-flex
+SHA1-Digest: l+9cel2pxM4P4JGZcE1r4kblrZY=
+
+Name: assets/emotions/emotion_small_116.webp
+SHA1-Digest: fW+/Dy2YUUTYL88S3FbiNWiTTVg=
+
+Name: assets/WALLET-SEARCH@NoCityService
+SHA1-Digest: pnloYcKKufE+Ii9uI7U28H220VE=
+
+Name: assets/putMailAgreement.html
+SHA1-Digest: IoJVaTWndDGmizTIYaMBhW9gYYc=
+
+Name: assets/tts/tts_voucher.mp3
+SHA1-Digest: L78Y0AZna//ZfVrYCNpkfKOBGww=
+
+Name: assets/emotions/emotion_small_01.webp
+SHA1-Digest: MBxPJOko5h1sHxxyX9sGDgIpDM8=
+
+Name: res/layout/envelope_notify.xml
+SHA1-Digest: nkpHr4h429sZGt5/eyjOs8mqvg0=
+
+Name: lib/armeabi/libcom-android-mobile-tradeplugin.so
+SHA1-Digest: qhEugHFJaRJioCyDCUixn947RTs=
+
+Name: assets/BANK_GCB.png
+SHA1-Digest: eyC9JeG+VTVcxIm2RpBFis+ZXec=
+
+Name: assets/iconfont/com.alipay.android.phone.wallet.advertisement/x.
+ ttf
+SHA1-Digest: xynMtXJ82/CTurcOva1xRZgTl4k=
+
+Name: classes.dex
+SHA1-Digest: 0BTgTD/Pn5+3419RU6ZxLVOc0So=
+
+Name: assets/OVERSEAS@intl_home_divider
+SHA1-Digest: rzafLWHwy3Ccn0WGsGBkDFtW7zM=
+
+Name: assets/KOUBEI@home_headline_unfollow@9
+SHA1-Digest: ScGUwBrry4q79NK//3LaGnX+Pjs=
+
+Name: assets/apps_preinstall_config/banned_channel_appid.json
+SHA1-Digest: YB3erdKQkM7e8/RinseggNVY430=
+
+Name: assets/iconfont/com.alipay.android.app.template/ttf/apcuiconfont
+ .ttf
+SHA1-Digest: BzfOSshnBjbtX8ZxCvCRGZm94Bg=
+
+Name: res/drawable-xxhdpi-v4/share_group.png
+SHA1-Digest: WfalaDROneW8mc7tet2V5LhtON8=
+
+Name: assets/OVERSEAS@intl_home_featured_circle_item
+SHA1-Digest: QvR6HbU9NyoEBNCb2EnZ4oqFACY=
+
+Name: assets/apps_preinstall_config/preinstall_apps_info.json
+SHA1-Digest: BtPRoD9dUQIWZW+kO3IjoP5ESjY=
+
+Name: assets/BANK_JSB.png
+SHA1-Digest: kKGIcsamGSrObiW+E7xopJEHqk4=
+
+Name: assets/KOUBEI@my_question_item@14
+SHA1-Digest: zTX8Ikc9d2yPcNfaW0kKXJtki7k=
+
+Name: assets/bank_mark/icon/XTB.png
+SHA1-Digest: 1k8V5vWzzHbOCdWUJafwW2+R2XY=
+
+Name: res/drawable-xxhdpi-v4/popmenu_shadow_bg.9.png
+SHA1-Digest: BSkGTvh4P06ueQQBAVOaIRA559c=
+
+Name: assets/KOUBEI@detail_nr_dish_multispec@18
+SHA1-Digest: t72sgaIIKcQv9QKf/V2UCeESYes=
+
+Name: assets/bank_mark/icon/HXBANK.png
+SHA1-Digest: 45xal3zhFDshz35KRebu2fOVGrQ=
+
+Name: res/anim/lite_fading_out.xml
+SHA1-Digest: +XqGNL+GW+k+lYTbtvnisTA2n1M=
+
+Name: assets/BANK_CZBANK.png
+SHA1-Digest: 2Klmhk5i5yJhvSAk/h2vj+d9L30=
+
+Name: assets/KOUBEI@popeye_strange_shop@22
+SHA1-Digest: sIM2s2MfjvrTAyy4fiVFyo4b9AQ=
+
+Name: assets/BANK_XTB.png
+SHA1-Digest: JP76F/6RILHBY6GSs8JMRqQ/D28=
+
+Name: assets/WALLET-SEARCH@Club
+SHA1-Digest: mPFS1WEZdOJf7K2t7c7p+4cXOJk=
+
+Name: assets/amc.i18n.en_US
+SHA1-Digest: fOhoeurMzIYiSMA4o+GfPL5EZKA=
+
+Name: assets/KOUBEI@detail_fast_recommend_voucher@17
+SHA1-Digest: wkZWSMIj/muYILSIu0yM1dFLNFA=
+
+Name: lib/armeabi/liblogging.so
+SHA1-Digest: IRrJBWy4EZ7KB98gUQiJFGrKuRo=
+
+Name: assets/KOUBEI@detail_shop_info_popeye@45
+SHA1-Digest: axe+XWq/xFwN644D5zyedZftcnA=
+
+Name: assets/emotions/emotion_small_114.webp
+SHA1-Digest: 02de4BCX68Tz3JhIpVyT1fAbQCY=
+
+Name: assets/emotions/emotion_small_92.webp
+SHA1-Digest: pSqcvrwKkNb6jKv9/iyYMYD+DVw=
+
+Name: assets/KOUBEI@lc_recommend_question_item@9
+SHA1-Digest: ddiTcescPSzuux7ZXix8PB83lcA=
+
+Name: assets/KOUBEI@detail_service_menu_1@9
+SHA1-Digest: vAWGUbICFsWL1yaHyEQ9yCirVPk=
+
+Name: lib/armeabi/libperf.so
+SHA1-Digest: c5PY+6aeUs+bKSPVRTauSoQoCl8=
+
+Name: assets/QUICKPAY@cashier-safeprotect-sms
+SHA1-Digest: 4ESZdhgg6q9ZNmBekgS6g6uFFK0=
+
+Name: lib/armeabi/libandroid-phone-wallet-authorizationbiz.so
+SHA1-Digest: BUec6omR1w3OLzlgZDJPQM0flzk=
+
+Name: lib/armeabi/libhuawei-cpp.so
+SHA1-Digest: QxSNhvogUGHSm97ON1b3v72xx3o=
+
+Name: assets/financial.i18n
+SHA1-Digest: WxKUjsb2aGZmdVJZ/wGrmsJ7nkE=
+
+Name: assets/OVERSEAS@intl_biz_district_head
+SHA1-Digest: Lm7q6f9DAlVKMhaiNEc/B4HVle0=
+
+Name: res/raw/hongbao_gq.mp3
+SHA1-Digest: Y+LKw3LnCdpnHmjSa5p5SCaj0J8=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-androidsupportrecyclervi
+ ew.so
+SHA1-Digest: OkqoHgTciaZQrhysgDV6Nt7DUi8=
+
+Name: assets/OVERSEAS@intl_home_shop_recommend
+SHA1-Digest: jb/e2XcJfxQghiN9IVSP31nhfNY=
+
+Name: resources.arsc
+SHA1-Digest: /rWy3ivTx6Y7HGDbBW5attSafX8=
+
+Name: assets/shaders/lighting.frag
+SHA1-Digest: 5vohT0IYpbvRoyK9t0tFWdGp0cU=
+
+Name: assets/emotions/emotion_small_51.webp
+SHA1-Digest: R/yTF5ZqqTez8SyBtq0L8viuLyo=
+
+Name: assets/tts/amr/tts_0.amr
+SHA1-Digest: bTmWxcqHevt3tgI6Zt29FRB7sYg=
+
+Name: res/layout/alipay_push_dialog.xml
+SHA1-Digest: S9qekDQNrQGxAaacBRkJRLRr5oM=
+
+Name: assets/face_pitch_down.mp3
+SHA1-Digest: 16Iy24mXTCXk3/1gihGl+EDr7Fs=
+
+Name: lib/armeabi/libandroid-phone-wallet-nebulaucsdk.so
+SHA1-Digest: yfWttMO36ApchcLVG0AL2Lmk360=
+
+Name: assets/KOUBEI@wait_comment_list@33
+SHA1-Digest: qWGT3WmjXn+1RBGIB9OMrChUCLw=
+
+Name: res/drawable-xxhdpi-v4/share_circle_friends.png
+SHA1-Digest: UNZ3BrKVw/BuI5J/ykfH8aIXbqg=
+
+Name: assets/QUICKPAY@waika-select-country-and-area-flex
+SHA1-Digest: F8Fd/v65H9ooVnwWDLEHobzyVbo=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-meizupush.so
+SHA1-Digest: 2tSlLdQ8ZkcOomg0g+0GYWpxjAc=
+
+Name: assets/KOUBEI@home_may_like_shop_kb@20
+SHA1-Digest: rklsB8NPpHkOi/BSICe3cIzuIAs=
+
+Name: assets/rliw.conf
+SHA1-Digest: jjQ5+wQvxp1g44PDr2F5+7fhm/8=
+
+Name: lib/armeabi/libbus_code.so
+SHA1-Digest: adBVaeQ5F4eM1DrHpT57qNPNCiM=
+
+Name: assets/OVERSEAS@intl_home_banner_ad
+SHA1-Digest: YxETxjqsuOJg0CyZW7CPAwVABXQ=
+
+Name: assets/OVERSEAS@intl_home_featured_merchant
+SHA1-Digest: yhxM40Ag58BPZ3q8zDBxaRih/SE=
+
+Name: assets/BANK_HZCB.png
+SHA1-Digest: TClJwILXQNHwvkjMyCiyCUimYL0=
+
+Name: assets/antui_res/amount_number.ttf
+SHA1-Digest: Z3OuqF/SAV5wfGbzlVwLU5CXSJo=
+
+Name: assets/USE_WATER.png
+SHA1-Digest: 9RJOTExWmZS+y7+iZ9OmebTFBms=
+
+Name: assets/tts/amr/tts_coupon.amr
+SHA1-Digest: Ct77VUiXwphzjawO02OkF/oOOPo=
+
+Name: res/drawable-xxhdpi-v4/pay.png
+SHA1-Digest: NEsp5B5FFJZ065HwJVaO1ZWWaek=
+
+Name: assets/OVERSEAS@intl_shop_detail_recommend
+SHA1-Digest: hntANGftsXrS2wBhph720jCrYgQ=
+
+Name: assets/BANK_H3CB.png
+SHA1-Digest: d+deqzNcoA7bu8Mo1VLPpLF0x8w=
+
+Name: assets/tts/amr/tts_yuan.amr
+SHA1-Digest: zpbgqE54q4Xst+4dpk8XWTS7oaE=
+
+Name: assets/vi-amc.js
+SHA1-Digest: zkI7Q1QBVwrsa3MmzC0rTebaIIE=
+
+Name: assets/fonts/score.ttf
+SHA1-Digest: igiYFGq0GNvkPSNj9ETys6x+gIo=
+
+Name: assets/bank_mark/icon/BOSZ.png
+SHA1-Digest: ykkyv0fq0HqgWqtSgmnR5P78M/A=
+
+Name: assets/emotions/emotion_small_75.webp
+SHA1-Digest: Pa04VuYn+4YVpolP5ayf+cpVVok=
+
+Name: assets/shaders/colored.vert
+SHA1-Digest: R6bQCF6Zjcz3X9+PiDF1xCliF8s=
+
+Name: res/anim/push_down_out_short.xml
+SHA1-Digest: OWuNieNQCL4EV465DrrznCsDwpU=
+
+Name: assets/BANK_AP_BALANCE.png
+SHA1-Digest: xQrlIj3XGBwkz6WHp75etbiX8DQ=
+
+Name: assets/BANK_NXBANK.png
+SHA1-Digest: IUsf5NL/Po1qaJITif3kJdjgjT0=
+
+Name: classes7.dex
+SHA1-Digest: IA1ypM0pss7vSZPxtuejQHBx1Fc=
+
+Name: lib/armeabi/libijkrecorder.so
+SHA1-Digest: KvY7jkmPHVFe1Q5IwwtnaW5MnpY=
+
+Name: assets/emotions/emotion_small_34.webp
+SHA1-Digest: x5d9Qpk1bIemmTmt4G1usCJ4+Hs=
+
+Name: lib/armeabi/libandroid-phone-wallet-tinyappservice.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: assets/KOUBEI@detail_map_taxi_tel@11
+SHA1-Digest: t95EkYXOkbv9AbXjSwf+TGNNhcc=
+
+Name: res/drawable/risk_tips_layout_bg.xml
+SHA1-Digest: QZYRbNSWyeIPk/+x7owcp9IbRIc=
+
+Name: assets/OVERSEAS@intl_shop_detail_location
+SHA1-Digest: NUZ7JqYm2DheLldEPRzotbyLsAE=
+
+Name: assets/WALLET-BILL@BLDetailButton
+SHA1-Digest: qBdSh42j8I8zgVaNQM0nIWv48hQ=
+
+Name: assets/WealthCalc@financialTool_loan_detail
+SHA1-Digest: Kigi1EDiEoUcF1weZCmjuAUGFV8=
+
+Name: assets/shaders/textured.vert
+SHA1-Digest: 5LX0mcdCSx87bh/fV569vuEepaI=
+
+Name: assets/KOUBEI@detail_koubei_card@2
+SHA1-Digest: 6rKuLe/myaTaxva/P4W8RVtZGVs=
+
+Name: assets/errorpage/networkerror
+SHA1-Digest: SDn4GXwpN5OwuK6KbdSsfPn9Eyo=
+
+Name: assets/KOUBEI@detail_leader_board_concise@2
+SHA1-Digest: IHRqszR//tfI3vq3DoOawews/SI=
+
+Name: assets/KOUBEI@home_headline_discuss@10
+SHA1-Digest: YFyVhKnymiOtAH3UOCx38onBilU=
+
+Name: assets/QUICKPAY@cashier-safeprotect-quiz-flex
+SHA1-Digest: xfs7wtcYJ21W5H8uN9mHjxbJZMo=
+
+Name: lib/armeabi/libandroid-phone-mobilesdk-au.so
+SHA1-Digest: c7ktmjDrjqOjRafx8akxu3Qg8g0=
+
+Name: lib/armeabi/libmobileapi-kbcomment.so
+SHA1-Digest: /ihXv9KFeTzF88rUqlxq5v7Ovq4=
+
+Name: assets/KOUBEI@home_guess_like_ad@1
+SHA1-Digest: HDXUYFAsE0JoB091KniPYHNA6CY=
+
+Name: res/drawable-hdpi-v4/com_ucmobile.png
+SHA1-Digest: q86nr4PZc8dWlDkRFLYhW37uFrY=
+
+Name: assets/bank_mark/icon/BOD.png
+SHA1-Digest: rLxnx9Kjh1BAx0joXubZMFXwr5E=
+
+Name: res/drawable-xhdpi-v4/appicon.png
+SHA1-Digest: 0iOfTt+Hv/Vpo2iljHM50Rrt4vI=
+
+Name: assets/emotions/emotion_small_123.webp
+SHA1-Digest: 7O2/8HoG2xd2OrN8xru8wu9sx/c=
+
+Name: lib/armeabi/libandroid-phone-wallet-birdnest.so
+SHA1-Digest: MvxsHHrDzr5QHPBuorQF+o+CjeM=
+
+Name: lib/armeabi/libamnet-mng.so
+SHA1-Digest: wgT9VI9Sh4fD/PbuNeAAsgGfZ28=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialtimelinesdk.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: lib/armeabi/libmobileapi-basement.so
+SHA1-Digest: buKR2KSatuxjzKlvEUE9tBIpkmc=
+
+Name: lib/armeabi/libandroid-phone-wallet-stock.so
+SHA1-Digest: +WrnybHvC0cuq/zDOcx865C4lv4=
+
+Name: assets/BANK_NJCB.png
+SHA1-Digest: Ml9hA7mLqB+lkNZ5syK0G9VC16A=
+
+Name: assets/QUICKPAY@waika-select-usa-state-flex
+SHA1-Digest: +hRCmv9WTlzQ4cMGoZTEs+qjpy4=
+
+Name: lib/armeabi/libilisya.so
+SHA1-Digest: KW1jBVAYZpgOTWJEt+6Xyu9HUWM=
+
+Name: assets/bank_mark/icon/SPABANK.png
+SHA1-Digest: lfFaB1jaD7xaGDxC9DAH8vGgyQw=
+
+Name: res/drawable-xxhdpi-v4/share_dingding.png
+SHA1-Digest: aV6rpus1L+VcAYeBC65N5VgW5yQ=
+
+Name: assets/KOUBEI@detail_cart_goods_item@0
+SHA1-Digest: Ou9g8wRMQXXfPauGMVuBbMRpvME=
+
+Name: assets/KOUBEI@lc_search_shop@7
+SHA1-Digest: zqemF7O+TETdLdcbdfjWOqUWYDo=
+
+Name: assets/WALLET-SEARCH@publiclifeExtact
+SHA1-Digest: ND1ZE3f/WQ7wCV/ilQDpOTTtlYg=
+
+Name: assets/KOUBEI@lc_follow_talent@9
+SHA1-Digest: h1NOuDtlL99UOs8cO89zTNeH4MU=
+
+Name: lib/armeabi/libAlipayBitmapNative.so
+SHA1-Digest: BOq/a7nPk0Gn8Ttyrz0iXYCSdgk=
+
+Name: res/drawable-xxhdpi-v4/share_qq_space.png
+SHA1-Digest: h6ClC5Ecfcac6erghasmeNAXrWM=
+
+Name: assets/KOUBEI@home_mrp_one_col_shop@13
+SHA1-Digest: JuFJblabrHutRzXbJBtTLlysOUI=
+
+Name: lib/armeabi/libmnet.so
+SHA1-Digest: muRqH1fM79j4gk1+bturZ2mZfAk=
+
+Name: res/drawable-hdpi-v4/com_sina_weibo.png
+SHA1-Digest: od2Ysf2RtbiLowkgZObIpKogJWs=
+
+Name: assets/OVERSEAS@intl_shop_detail_activity
+SHA1-Digest: m3clZtyFcOZ0+5vQGcGqJIG1RmM=
+
+Name: assets/MOBILEIC@remindAsk
+SHA1-Digest: IqJid9wvabZByuGR0hHOwOMi64U=
+
+Name: res/anim/bn_fade_out.xml
+SHA1-Digest: Lz1FbKKbw3ULiW1yZJl6P4vjQZ8=
+
+Name: assets/bank_mark/icon/HRBANK.png
+SHA1-Digest: qbH5vmn6/noKgz9DoINKvFcBymM=
+
+Name: assets/material/icons/cEslNfG0SlCygvuDYFoagwAAACMAAQED
+SHA1-Digest: xXXL1vT95eIbKraEj/jOxBfkkUI=
+
+Name: assets/WealthCalc@financialTool_despoist
+SHA1-Digest: SrpKG1wW3zmQO/JiLJPC6LrwgaA=
+
+Name: assets/mic.i18n
+SHA1-Digest: 2SDlLPOHEH1cz9YRsILLLJJZnto=
+
+Name: assets/ant_default.gif
+SHA1-Digest: d57F5P98Hav2J+fF3bi3B3k7lRs=
+
+Name: assets/WALLET-BILL@BLDetailCommonUp
+SHA1-Digest: jokTbSrQO9KpUk8FRtBuGvXVkPU=
+
+Name: lib/armeabi/libandroid-phone-wallet-trust.so
+SHA1-Digest: 4JUte8JQYzZ/TYkwErAw9ApcZWE=
+
+Name: assets/BANK_WHCCB.png
+SHA1-Digest: vYuk9HEEelfiB/RkUCJfYWPL7aw=
+
+Name: assets/KOUBEI@detail_nr_dish_time@10
+SHA1-Digest: u8Ex88mGPQ2oOgZz9g1wZr6RQzA=
+
+Name: lib/armeabi/libandroid-phone-securitycommon-biometric.so
+SHA1-Digest: RTV/geJBsAU6IdmwzWkvrQpoSSs=
+
+Name: assets/emotions/emotion_small_43.webp
+SHA1-Digest: Fc4OmzbaAAO+e1MTkcqBLwxmumo=
+
+Name: res/xml/tab_text_color.xml
+SHA1-Digest: Np73bhHK6PDQyxwzCWoZ3KLkejM=
+
+Name: assets/shaders/lighting.vert
+SHA1-Digest: ejjGT+I5xIeZZ5Gkij2P4cCwq2o=
+
+Name: assets/QUICKPAY@fingerprint-auth-flex
+SHA1-Digest: yN9bew0JisT8SejCIGmoLnyLskQ=
+
+Name: assets/KOUBEI@home_may_like_shop@28
+SHA1-Digest: flv+D7KxAqBdfcCmNU2DuZBv/90=
+
+Name: assets/emotions/emotion_small_49.webp
+SHA1-Digest: uDwNsvVgar1/EgfuhtpGkkNTLqs=
+
+Name: res/drawable-ldpi-v4/wifiapp.png
+SHA1-Digest: iEWTSBezX9bYgGW9XIJvJvrQVig=
+
+Name: assets/KOUBEI@popeye_footer@6
+SHA1-Digest: AXtzulX9Zb9geNj1U8s+tnhBgyg=
+
+Name: assets/emotions/emotion_small_58.webp
+SHA1-Digest: r/U2ec2dwQ9dQTx0qFSgvt//Iro=
+
+Name: res/drawable-xxhdpi-v4/social_head_default.png
+SHA1-Digest: SjxK69DfIEtzdlKiugA9JN3g4VE=
+
+Name: assets/KOUBEI@my_followed_ques_item@7
+SHA1-Digest: zlg6ifGuJYTxXsFh6YlqSvRqyDk=
+
+Name: lib/armeabi/libandfix.so
+SHA1-Digest: 6nSK8SdDnbdOZgHMrBu1vhRz65k=
+
+Name: res/drawable/yw_1222_sharetoken.jpg
+SHA1-Digest: NHW54oBK+P4pWup5ieqKb3m7d70=
+
+Name: lib/armeabi/libiomx.21.so
+SHA1-Digest: bVJ1MwM9+8OxtgI/WY8ozfFeIm4=
+
+Name: assets/QUICKPAY@cashier-promotion-wait-flex
+SHA1-Digest: OQ6XwT35PE7d+4Za4P61fKvDf6Y=
+
+Name: assets/nebulaPreset/66666692
+SHA1-Digest: ImmAHOIoro6o7zplKf5dVV9WfV8=
+
+Name: lib/armeabi/libmultimedia-airecognize.so
+SHA1-Digest: Fbo3m2ga0xGMM58qPIq/7HCQuzo=
+
+Name: assets/BANK_CQBANK.png
+SHA1-Digest: 571i83M65XLYRvO6SBlWftgtoNE=
+
+Name: assets/KOUBEI@popeye_ad@6
+SHA1-Digest: d12Sv+9yWKbzNdPalo5usEERXFM=
+
+Name: assets/BANK_BJBANK.png
+SHA1-Digest: bP3d2hb+MTuZmySZTE/H/EPXe3U=
+
+Name: res/drawable-xxhdpi-v4/right_arrow.webp
+SHA1-Digest: fYLtxwL3gl1wig+kBEJWmridJ6I=
+
+Name: lib/armeabi/libandroid-phone-wallet-swalle.so
+SHA1-Digest: pbSWdKLQP4qJ3r48CBHOwRCIxd4=
+
+Name: lib/armeabi/libfalconlooks.so
+SHA1-Digest: c20xDrU35EG9nbw39cjuuo9PWr8=
+
+Name: assets/KOUBEI@home_travel_gourmet@12
+SHA1-Digest: Pqt5cRCQzI+2GdWMdNlkN0Cb8rA=
+
+Name: assets/OVERSEAS@intl_common_title
+SHA1-Digest: oX9+NNlgLAd8cRqCDcKBI/ECcag=
+
+Name: lib/armeabi/libandroid-phone-wallet-antui.so
+SHA1-Digest: 53x/hu2uI6MmoF3Ti6RNG58n3yQ=
+
+Name: assets/emotions/emotion_small_122.webp
+SHA1-Digest: OBbVRbubay7NCobfUz6aDg5y6JU=
+
+Name: assets/emotions/emotion_small_67.webp
+SHA1-Digest: 53jGKA6jbDd2VtZALcfJn91BJS8=
+
+Name: assets/QUICKPAY@cashier-switch-account-flex
+SHA1-Digest: bwIZIJ5S06M1P1x+mnkEBfFcxyU=
+
+Name: lib/armeabi/libandroid-phone-securitycommon-namecertifybiz.so
+SHA1-Digest: wxEHny3EOjHZcfpBb65wkAbIUi4=
+
+Name: assets/reused_bundles.ini
+SHA1-Digest: ErqgqVYHIDxk8lsIWZsb+zcKvyM=
+
+Name: lib/armeabi/libandroid-phone-wallet-beehive.so
+SHA1-Digest: ItLy3CN6HvNKj2vdAE5YbyWzkYc=
+
+Name: assets/WALLET-FWC@followFeedsItem
+SHA1-Digest: AmsOWKeD1DO6Rb6amqO00/NWQNo=
+
+Name: assets/WALLET-Balance@WealthAccountHome
+SHA1-Digest: 263HmrlsyuQ5VBJySU33JBkq8LM=
+
+Name: assets/BANK_SRBANK.png
+SHA1-Digest: HqrFiBj/owUmq3SUm66YAPSaZWw=
+
+Name: res/drawable/sso_shape_button_normal_nm.xml
+SHA1-Digest: foto+ZbqCsAMujU1O3L3+VKDNTc=
+
+Name: assets/KOUBEI@rank_address@2
+SHA1-Digest: JzDKSuXcArAE98A5mQ/CqwvCWWk=
+
+Name: assets/emotions/emotion_small_42.webp
+SHA1-Digest: vDeJinkiYafI97Rvfqp5TclAXRM=
+
+Name: assets/iconfont/com.alipay.android.phone.wallet.advertisement/ar
+ row.ttf
+SHA1-Digest: jE0utZZ2ReZtUTEHhUYBZEG7JB4=
+
+Name: lib/armeabi/libandroid-phone-mobilesdk-framework.so
+SHA1-Digest: D+Q0XbJW2CLAw7r8JYkhh35p1do=
+
+Name: assets/KOUBEI@home_wifi_detect@4
+SHA1-Digest: PpgWvumTXxBRhnnfNR60umMPttM=
+
+Name: classes6.dex
+SHA1-Digest: BNXaAL+TDKs4vZSs8POjRuovTF4=
+
+Name: res/raw/servicecert.cer
+SHA1-Digest: Bc9rEk16GTEpN3bbD+4zV/H3Msk=
+
+Name: lib/armeabi/libandroid-phone-wallet-newyearstatic.so
+SHA1-Digest: 0B5N8xdVAdXFHNGOBA8qclW2WVA=
+
+Name: assets/bank_mark/icon/SPDB.png
+SHA1-Digest: V9Xg+nONq0syWnQFa+txTg5HX/k=
+
+Name: lib/armeabi/libmnet-http.so
+SHA1-Digest: PchktElpz7KxLZ6LgRCCcsjjNyA=
+
+Name: assets/mpaas_netconfig.properties
+SHA1-Digest: jeVes8IU88+5qp5wDAuC4JZYgEM=
+
+Name: assets/KOUBEI@home_headline_chart@8
+SHA1-Digest: y1SdVRWaUfODDAMdqpinzu55VXA=
+
+Name: res/drawable/notice_dialog_btn_selector.xml
+SHA1-Digest: N7VPRw8zS6ljTJ5hiDSr42F0zak=
+
+Name: res/layout/alipay_right_light.xml
+SHA1-Digest: eB9WcFAKUqR+hydBk6o01Z2alOM=
+
+Name: assets/local_forex_rate.txt
+SHA1-Digest: wnAZ1GDl/x1BQIHemiMQ75MXD5o=
+
+Name: assets/bill/trade_detail_template.json
+SHA1-Digest: dmADXbslM651PrN3y/AfTo5wDzk=
+
+Name: lib/armeabi/libamnet-http.so
+SHA1-Digest: g1yfvRzx1har1Nn3E48RHMRFttw=
+
+Name: res/drawable-xxhdpi-v4/share_alipay_all.png
+SHA1-Digest: MGjnHu/DCP91HJaz91QnoUI6OyI=
+
+Name: assets/BANK_BOC.png
+SHA1-Digest: WcATCs5MUGi0lm/LX+DkpIWQOVs=
+
+Name: assets/KOUBEI@home_headline_recommend@22
+SHA1-Digest: ocYaDuaxNbx4rcuVqZRbbWRZtX4=
+
+Name: lib/armeabi/libmobileapi-kbcontent.so
+SHA1-Digest: P8fpJLFdjhAKPq7LHpfa0FChchc=
+
+Name: assets/emotions/emotion_small_115.webp
+SHA1-Digest: /TmKqSLfAVctR48KsO0VezlNTC4=
+
+Name: lib/armeabi/libijkmmengine.so
+SHA1-Digest: WDweNDRz85V1jgsOEik/kxXU624=
+
+Name: res/anim/push_down_out.xml
+SHA1-Digest: NqfWxxcFcQPbJNyrvTJRyLJxqwE=
+
+Name: assets/emotions/emotion_small_02.webp
+SHA1-Digest: YaMPaRSI5qyJb1feh3gCLXHtEQs=
+
+Name: assets/tts/tts_0.mp3
+SHA1-Digest: ncuGJVOwcPVS7nzCe0ECAGfw8iU=
+
+Name: lib/armeabi/libmobileapi-scardcenter.so
+SHA1-Digest: Ufoiw0ghrdtlmM3wtQxveOqZvv0=
+
+Name: assets/emotions/emotion_small_33.webp
+SHA1-Digest: qQzN3IhTUeQnuwOvrx66lgOxIZw=
+
+Name: res/drawable/welcome_loading_bar_color.xml
+SHA1-Digest: OAHyGDYSNKeVBAr5NhUaKkdXalw=
+
+Name: assets/KOUBEI@new_comment_list@45
+SHA1-Digest: 7/K8MGyOyQ7q/Tcu8yTCxdp0he4=
+
+Name: res/drawable-xxhdpi-v4/member_bg.webp
+SHA1-Digest: fLdO5f1tx9apBu389BN3jkcZWhg=
+
+Name: assets/material/icons/zKhxd1xkTeugIznul3xdPwAAACMAAQED
+SHA1-Digest: cHX1kOmQcfkKNK6O2W5wUftD8v4=
+
+Name: assets/KOUBEI@detail_card_crm_1@7
+SHA1-Digest: 5H5osmnahTo37pUKCWudgtKQTlM=
+
+Name: assets/tts/tts_koubei_daibo.mp3
+SHA1-Digest: f54q3KnXoZWLLG/O6aObDE+gsbs=
+
+Name: assets/unicode_zi_1.txt
+SHA1-Digest: 9lBTaojYQ9Kmq5Bh0avMq8K+LWM=
+
+Name: assets/BANK_JSRCU.png
+SHA1-Digest: 2iNPZl7FEBDw0yrYLMrbYWkKH0I=
+
+Name: res/drawable-xxhdpi-v4/right_pic.webp
+SHA1-Digest: Yx2eKohOPBpqKUhqEpDooi1KNU0=
+
+Name: assets/face_very_good.mp3
+SHA1-Digest: 2PERY/QEYSGo2Cr4a9Xf+w7GNzs=
+
+Name: res/drawable-xxhdpi-v4/more.webp
+SHA1-Digest: 9bKZe00VFA2quMADgGhEx1UVwMA=
+
+Name: assets/idcardmodel2.bin
+SHA1-Digest: KgOpCBFEfjUnso3sFMs8paeOFrw=
+
+Name: res/drawable-xxhdpi-v4/shock_point_more.png
+SHA1-Digest: eTRwF7/AgrRk4hC6cztK++kPIdA=
+
+Name: lib/armeabi/libflexlayout.so
+SHA1-Digest: NPPyEPXJduk/r4LE8NDc+3/IF3g=
+
+Name: assets/bank_mark/icon/NBBANK.png
+SHA1-Digest: uy2A10FATGVc8NNg0hcVSU3Bmj4=
+
+Name: lib/armeabi/libandroid-phone-wallet-tinyappcommon.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: lib/armeabi/libandroid-phone-businesscommon-nfc.so
+SHA1-Digest: OxYlPJlPNasrzso9/oGOy/JmBus=
+
+Name: res/layout/alipay_right_normal.xml
+SHA1-Digest: /sFigjnrDzGxnrlwDvPoelXe09E=
+
+Name: assets/menu_config.json
+SHA1-Digest: Cv21edxmCrw48iWnChPJPOT9PF8=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-voicesdk.so
+SHA1-Digest: t/s2GzVf4EKF/LsMW/ZFbUnABqs=
+
+Name: assets/KOUBEI@goods_detail_shop@31
+SHA1-Digest: 1K67fvU2V4/u9xZWx894uqhqLfg=
+
+Name: lib/armeabi/libandroid-phone-wallet-profilesetting.so
+SHA1-Digest: Ynpfin6EolrfhpjMPiz3U8oFgpI=
+
+Name: res/anim/tiny_push_up_in.xml
+SHA1-Digest: CcDafW6zpSqVak9lM3PWcyR0WzQ=
+
+Name: res/drawable-xxhdpi-v4/btn_wifipop_connect_bg.9.png
+SHA1-Digest: OY36pqSIzrKmKkjUiTLGpIS3yMA=
+
+Name: assets/emotions/emotion_small_60.webp
+SHA1-Digest: Mtn1nhZVdWU6c6R64Hs57V0+eUo=
+
+Name: lib/armeabi/libandroid-phone-wallet-advertisement.so
+SHA1-Digest: 8KGCKGBBYU0T9hLqrVZT9eDYfw0=
+
+Name: lib/armeabi/libandroid-phone-wallet-transferapp.so
+SHA1-Digest: Gw6lbBhOyO6N0qJDRn2zhdn/2Dg=
+
+Name: res/anim/zoomin.xml
+SHA1-Digest: zJznnobwm8M/LL2R74xS+1kIvW4=
+
+Name: res/drawable-hdpi-v4/download_cancel_normal.png
+SHA1-Digest: aXMsv0zSaxWAmBS1bKUWCqYzEFc=
+
+Name: assets/BANK_JRCB.png
+SHA1-Digest: sMI5kZWwljdhzJQ0gt9QbyfPlOI=
+
+Name: assets/KOUBEI@search_list_onebox_content@12
+SHA1-Digest: 7FdGPuC1vIiBJpLrSTof6L0zowg=
+
+Name: assets/locale.i18n
+SHA1-Digest: nKQdA4tbsKEpQTQdfYSKZTfPZcw=
+
+Name: assets/KOUBEI@my_followed_theme_item@9
+SHA1-Digest: IufP7/lcG1EdnERqU6+TL77vggw=
+
+Name: lib/armeabi/libandroid-thirdparty-inimage.so
+SHA1-Digest: DdTGXzEOvaBhijD2/kiJAdDxvWs=
+
+Name: assets/WALLET-FWC@imageTextStyle1
+SHA1-Digest: W3TrGK11lVLglvbBq2MwyjqnH0U=
+
+Name: assets/comment_master.gif
+SHA1-Digest: X/A3Yk/MuIImT1zRBHGew58/3t0=
+
+Name: assets/emotions/emotion_small_09.webp
+SHA1-Digest: DPwbBfd9Kdh3HwCpEVK1LsXTbfM=
+
+Name: assets/emotions/emotion_small_91.webp
+SHA1-Digest: fTRPP6Bv5WY/mWOypw+Fhj4MF7Y=
+
+Name: lib/armeabi/libandroid-phone-wallet-globalsearch.so
+SHA1-Digest: Vxo+5r52SI2R1/pwzUqh7wdkdIU=
+
+Name: assets/WALLET-FWC@imageTextStyle2
+SHA1-Digest: 2Jpg0CGwFmx3PS5K8Ckpr0aEWYE=
+
+Name: assets/WALLET-FWC@imageTextStyle5
+SHA1-Digest: 06VmrhdTEuGqE6uHXjLk8IBU3QM=
+
+Name: lib/armeabi/libalipay_iot_auth.so
+SHA1-Digest: 0cikgbPoS+j3mLCHVzUHU7o+Gq8=
+
+Name: res/drawable-xxhdpi-v4/sound_default.webp
+SHA1-Digest: KakRtOLDFZJhCwE284Q5BevnU58=
+
+Name: res/drawable-xxhdpi-v4/title_bar_back_btn_white.webp
+SHA1-Digest: DVdQxwT8lMl8DrWeuztF95HX+jY=
+
+Name: lib/armeabi/libcom-koubei-android-asyncdisplay.so
+SHA1-Digest: IVHtboOS0CQDtsmAPDKDsJV9vIg=
+
+Name: assets/KOUBEI@home_discount_list@52
+SHA1-Digest: z69RUMQHtkLLOR4Be74DjtecG9I=
+
+Name: lib/armeabi/libprotobuf.so
+SHA1-Digest: aiHJ3guf8znaxlR1E87xItYyXZ0=
+
+Name: lib/armeabi/libservicelibloader.so
+SHA1-Digest: oELalk565eyHIzqfiadgHhC1iBY=
+
+Name: assets/bank_mark/icon/ABC.png
+SHA1-Digest: rLq8ywW9tsKe3c3mb8WZC14FXN4=
+
+Name: assets/emotions/emotion_small_50.webp
+SHA1-Digest: Jq7esh34ASBU5Bh/+cd3GlMdYCc=
+
+Name: assets/QUICKPAY@forexprod-setuser-flex
+SHA1-Digest: 80vLZvwSM9toOFxNeweGw8nsq8Y=
+
+Name: res/drawable-xxhdpi-v4/notify_yuebao.png
+SHA1-Digest: SK8e/I2K3jOkNBs1t9oUVD4TNBM=
+
+Name: assets/bank_mark/icon/SHBANK.png
+SHA1-Digest: rO19L3RPK1pZ5GvorfY6dJ2PI2c=
+
+Name: assets/emotions/emotion_small_105.webp
+SHA1-Digest: NwNfFNtTyfaXvhxtvbqitReRMr4=
+
+Name: assets/KOUBEI@detail_nr_board_concise@1
+SHA1-Digest: wuQNFr063MPinVSfYCKQO4qY4/w=
+
+Name: res/anim/tiny_fading_out.xml
+SHA1-Digest: umzCkGmnIEwGLK0g+3i2oIcS3CE=
+
+Name: assets/KOUBEI@home_pop_rank@13
+SHA1-Digest: /tPuvUYm5RDddySU9+fhVlN0bRM=
+
+Name: res/drawable/share_item_selector.xml
+SHA1-Digest: Aj9z3FfmhyU8vEpCKTRwUD7jRWY=
+
+Name: assets/KOUBEI@home_ad_scroll@22
+SHA1-Digest: e549lPvDN6OvWAPMUGkQ8D4Pjlg=
+
+Name: assets/BANK_BOYK.png
+SHA1-Digest: FOZMNiT2PWGsgcP0ohT5mTJRaQI=
+
+Name: assets/emotions/emotion_small_07.webp
+SHA1-Digest: 1QWP+aZwgEn+IEHygyhEq6IJCrg=
+
+Name: assets/tts/amr/tts_hundred.amr
+SHA1-Digest: NhnmEiTCmeXlVKBCwP69UYbSSYc=
+
+Name: lib/armeabi/libandroid-phone-wallet-openplatformhome.so
+SHA1-Digest: r3okDwzpPJKm0kvzByhDq/WiX2U=
+
+Name: assets/BANK_BJRCB.png
+SHA1-Digest: yFSR6yVn6Fk6R+caadiPK9dPQjw=
+
+Name: assets/emotions/emotion_small_10.webp
+SHA1-Digest: RUtH5c9V43TALGvWJt/yvKKelaw=
+
+Name: assets/tts/amr/tts_ten_thousand.amr
+SHA1-Digest: lRgd8JPQfPaJmvnsiCJpbtcahGE=
+
+Name: assets/apps_preinstall_config/main_recommend_app.json
+SHA1-Digest: iNzhX93npzgzwxT4j8UO/DVPbVI=
+
+Name: assets/BANK_CEBBANK.png
+SHA1-Digest: Ea7T3+g8OmaCk9gSpg5KMSolTvg=
+
+Name: assets/common-card-detail.css
+SHA1-Digest: lKJVK3rBA9oVCPfFWve6hY/NqcY=
+
+Name: assets/emotions/emotion_small_107.webp
+SHA1-Digest: h3gLtK4quf3sOekX4gUUYnt+kYU=
+
+Name: assets/BANK_ANTBANK.png
+SHA1-Digest: RUHxvTtnpoMo7K7h2ujOR/qgYN0=
+
+Name: assets/KOUBEI@comment_summary@8
+SHA1-Digest: Np26aZafi27kgvX5gLudX7mGM64=
+
+Name: assets/unicode_zi_0.txt
+SHA1-Digest: I63CK/1nhjc9SzFcAoqocmHl5pU=
+
+Name: assets/zoloz_biometric.json
+SHA1-Digest: Wift+QU8Tg4giRzGKDgxRnabdhU=
+
+Name: assets/BANK_SPDB.png
+SHA1-Digest: 5cVj8FRMXeO6foaPJFNexN2QM5g=
+
+Name: assets/face_pose_light.mp3
+SHA1-Digest: 9XbT9foCF7Pm9anHhBcDp+iguSE=
+
+Name: assets/pull_loading.json
+SHA1-Digest: 9QAygYrLmQY/qpHkaLwkAUUfSAU=
+
+Name: assets/bid-log-key-public.key
+SHA1-Digest: +xwwPX4UeTF9gzXHQzMxEMdmObo=
+
+Name: assets/emotions/emotion_small_25.webp
+SHA1-Digest: gq/OTZxp6F4DIz5jkuggeekibc0=
+
+Name: assets/bundles.cfg
+SHA1-Digest: LzHooO2y1MAgG6sLHmw8KLou3tE=
+
+Name: lib/armeabi/libandroid-phone-wallet-openplatformadapter.so
+SHA1-Digest: OEmFoBfS/3SttIUQ9hl6pXAsbpE=
+
+Name: assets/face_key_data_135.dat
+SHA1-Digest: 9gz35DpH4XpRdbpzRgUIaMBvaQQ=
+
+Name: assets/emotions/emotion_small_98.webp
+SHA1-Digest: ZvcsNfXda6+YOZpOjaYZOmeo1Tc=
+
+Name: assets/shaders/textured.frag
+SHA1-Digest: +vMNv/4T1XmtiJMJ+DWjXw11760=
+
+Name: assets/BANK_COMM.png
+SHA1-Digest: Kg9/wjcWgJ+DrNmTbAVzd7k8o7g=
+
+Name: res/drawable-hdpi-v4/btn_background.png
+SHA1-Digest: nFXqBfC+z8t8UcgMXcAJpB6BWEo=
+
+Name: assets/shaders/colored.frag
+SHA1-Digest: hnk7++aUnScUmcrePKqu35Fqh34=
+
+Name: res/layout/osp_title_bar.xml
+SHA1-Digest: 4WTGrj93Fge7+lEIC/TlOk/Rk+o=
+
+Name: lib/armeabi/libant3d.so
+SHA1-Digest: AQMX7DCuxHqpOXoDVbr3e5wy5PA=
+
+Name: lib/armeabi/libmobileapi-kbsearch.so
+SHA1-Digest: 2HsNs0xc2eCr0lSuekdzMsCEdxU=
+
+Name: lib/armeabi/libandroid-phone-wallet-timelineapp.so
+SHA1-Digest: Rg/LHeBTwxzprzuWi37e75YBXxs=
+
+Name: assets/KOUBEI@detail_nr_dish_detail@14
+SHA1-Digest: 5j3tm6NvUfuGE87IwKdwhyg51DA=
+
+Name: assets/BANK_BOD.png
+SHA1-Digest: yY0eW16Si2wNMOLFo+xNFecgu2k=
+
+Name: res/anim/bn_fade_in.xml
+SHA1-Digest: 1YjYfst95Avir1HvXhDTm8mFOAM=
+
+Name: res/drawable-xxhdpi-v4/member_primary.webp
+SHA1-Digest: RW1oNarN+aFD4KLNPGJ7+m6gNeY=
+
+Name: assets/alipay_preinstall.cfg
+SHA1-Digest: yFB7HrKBllPqYRWKFWaPE3pXdyY=
+
+Name: assets/OVERSEAS@intl_home_hot_rank
+SHA1-Digest: VtGSa3KG6t9Cl3T0h0TpaDwybxg=
+
+Name: assets/WealthCalc@financialTool_loan_detail_header
+SHA1-Digest: ckhdHIwmTuQCtMDa8oMx9WnXeok=
+
+Name: res/anim/bill_detail_anim_out.xml
+SHA1-Digest: VVeq/fu0ea2q3Fp+GAaQDw22Qg0=
+
+Name: assets/bank_mark/icon/GCB.png
+SHA1-Digest: 9yb1POc0AN+M+jgMqlvUpqeQft0=
+
+Name: res/layout/alipay_center_light.xml
+SHA1-Digest: YpAlMAekz8W8KSfk5QbUevVYD+M=
+
+Name: assets/QUICKPAY@trust-logon-auth-flex
+SHA1-Digest: fU7oc1a6b04eizh3uPMebcCFD4o=
+
+Name: assets/OVERSEAS@intl_home_biz_navi
+SHA1-Digest: AZhoh/42OOK+/QO7ibTDLo05tc0=
+
+Name: res/drawable-xxhdpi-v4/appicon.png
+SHA1-Digest: l8fX2m/LwRLFxr2Kh7h2lBBw4E0=
+
+Name: assets/emotions/emotion_small_35.webp
+SHA1-Digest: 4Y1Iot7XlZfw0UFUUHimpP4tVJk=
+
+Name: assets/KOUBEI@order_detail_voucher_info@36
+SHA1-Digest: hvPi/1YG56ToAP7YOhX5bfhqpPE=
+
+Name: assets/bank_mark/icon/PSBC.png
+SHA1-Digest: Au3H8n68epWAhbgX/fzUAU0Tx2A=
+
+Name: res/layout/popmenu.xml
+SHA1-Digest: rfq1X/5BxmrVCnCx8DQ9TotrmBk=
+
+Name: assets/bank_mark/icon/URMQCCB.png
+SHA1-Digest: DrIVG+JnsysaLHCmPNil5pOyzio=
+
+Name: assets/QUICKPAY@cashier-discount-select-flex
+SHA1-Digest: bFSWOnai5oSgfRoVbM2LL0SC1HU=
+
+Name: lib/armeabi/libandroid-phone-wallet-securityappbiz.so
+SHA1-Digest: rpa6OHsbU/mViKLYshVg4ROqWx0=
+
+Name: assets/KOUBEI@home_headline_portal@21
+SHA1-Digest: cmJPFPH15DMeIzI1yv6ow0kwt3Y=
+
+Name: res/anim/dismiss_out.xml
+SHA1-Digest: UoZRQrR9ar0dJkKUchBfmdzxECg=
+
+Name: res/anim/bill_detail_anim_in.xml
+SHA1-Digest: lqxFPBb5WOfY+Hr2Q/mMxuCLw4I=
+
+Name: assets/KOUBEI@search_list_onebox_brand@2
+SHA1-Digest: EZjATrlKAjDnji7CgaYBMQ58MYU=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialcardwidget.so
+SHA1-Digest: Lig1W4yxFP9p1YriAqQ5WZPp8RQ=
+
+Name: lib/armeabi/libmobileapi-wealthbffweb.so
+SHA1-Digest: Gfndn1SHgZHywWuNJmogPkYgp4A=
+
+Name: assets/zoloz_framework.json
+SHA1-Digest: tf1y5j1z+SkVbe6XecE/i79i8uw=
+
+Name: lib/armeabi/libofflinecrypto.so
+SHA1-Digest: /Y29UA2uLQcVxJZEILNEDWMwwUU=
+
+Name: lib/armeabi/libandroid-phone-wallet-wealthcommon.so
+SHA1-Digest: myiIlx8Q9H3MDRBzWDlApfRVivk=
+
+Name: res/drawable-xxhdpi-v4/refresh_icon.webp
+SHA1-Digest: qnSrFZ83N2b7zFCvbkVsGSEg+M8=
+
+Name: assets/KOUBEI@goods_detail_comment_ask@47
+SHA1-Digest: 2WPGBvlnQ7By2YtIYUb4Xie6bYg=
+
+Name: assets/OVERSEAS@intl_shop_detail_merchant
+SHA1-Digest: xQzgTYRclSXwZPTuHzCKjk1zPPA=
+
+Name: assets/common_light.gif
+SHA1-Digest: GIrhbHUtUGRpd+PvjbRb8BfjnI0=
+
+Name: lib/armeabi/libdatabase_sqlcrypto.so
+SHA1-Digest: +C749+07KzjcUp1SHuwFhHXJPnA=
+
+Name: assets/QUICKPAY@trust-logon-auth-code-flex
+SHA1-Digest: JXwWX3HOmChZNfIfoqdDPf14ADY=
+
+Name: assets/emotions/emotion_small_83.webp
+SHA1-Digest: pxStyKdFnIOI7wAn1FS/XKREzJA=
+
+Name: assets/WALLET-BILL@BLDetailCommonMulti
+SHA1-Digest: MOWhJ4Wp/ugvHeQPxOxUUBeVBfw=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialshare.so
+SHA1-Digest: 4PVnEKdnSvvLemkD+CWeL/W+LcI=
+
+Name: assets/emotions/emotion_small_17.webp
+SHA1-Digest: kcNM8izPiXw3Serv4iVkmA6e2Cs=
+
+Name: lib/armeabi/libmerged-bundles-res-68.so
+SHA1-Digest: Gom2L+vFdj8R2o+m669Q8XsJLJM=
+
+Name: assets/emotions/emotion_small_100.webp
+SHA1-Digest: lsmzREbf1mo3eESTVvICWfBNC1A=
+
+Name: lib/armeabi/libqspower-1.0.0.so
+SHA1-Digest: xyaBSywC76fDh7nuNmozHfw6KYI=
+
+Name: res/anim/slide_in_bottom.xml
+SHA1-Digest: hTtOqX+t4aVEz0imvdVqShrTAKg=
+
+Name: lib/armeabi/libandroid-phone-wallet-billlist.so
+SHA1-Digest: 1kG59kTolEvTVjKzQgrb6WNFPzg=
+
+Name: res/anim/h5_fading_in.xml
+SHA1-Digest: OqTeOi0Y+T3pYljQud3FnT+PcU4=
+
+Name: assets/KOUBEI@detail_trust_shop@5
+SHA1-Digest: zQZt+GolP7CRgNqQ6WEuk4R3L3Y=
+
+Name: assets/KOUBEI@order_detail_info@10
+SHA1-Digest: +0J6FBL7BXsTh0lKNPz2lD2InMs=
+
+Name: assets/bank_mark/icon/NYBANK.png
+SHA1-Digest: 4TFYkoC5SIBvYat3GhYKZARHvvE=
+
+Name: lib/armeabi/libandroid-phone-mobilesdk-router.so
+SHA1-Digest: 3ibZ/ov7NJqJOrcukSiSKm6LWDg=
+
+Name: lib/armeabi/libandroid-phone-wallet-securityapp.so
+SHA1-Digest: IZ4aO0C6cEF8GN7coO8CjVJ+8Nk=
+
+Name: assets/emotions/emotion_small_93.webp
+SHA1-Digest: d6HZfGYXM0bamrlA8oNd/W/bmss=
+
+Name: lib/armeabi/libandroid-phone-wallet-balance.so
+SHA1-Digest: LUs3NwyCqPjqQnAq/+fLoLf7Djg=
+
+Name: assets/OVERSEAS@intl_home_theme_activity
+SHA1-Digest: a3uDhIXm0qHZd+YPTiOg3dYBCbQ=
+
+Name: assets/WALLET-BILL@BLDetailMain
+SHA1-Digest: 8y/ga/SFy9I1C7kiosfQg4DooZA=
+
+Name: assets/bank_mark/icon/CQRCB.png
+SHA1-Digest: iOay6yJoG+Me7+4lnDo9OoKJYZI=
+
+Name: res/drawable/appicon.png
+SHA1-Digest: BPi1DgfO/GVrtLWw7a33pU/vPQc=
+
+Name: res/drawable/popmenu_item_mid_bg_up.xml
+SHA1-Digest: uStI9IC5vmSREj8W65qx0Hjt8uU=
+
+Name: assets/face_blink.mp3
+SHA1-Digest: oeMQlnHm8luauXiJ9OUuel4Pg3g=
+
+Name: assets/BANK_JJBANK.png
+SHA1-Digest: RJf2XPLJ+dZJv2Ymp5ETQlrbwtY=
+
+Name: assets/emotions/emotion_small_32.webp
+SHA1-Digest: 85N97vyxqXnIvytgoWCPIW3WEv8=
+
+Name: assets/QUICKPAY@pcreditpay-sign-flex
+SHA1-Digest: NQ5DQCz1Y36pVPVOjyeR2Y7ZRcE=
+
+Name: assets/cnregion4alipay.txt
+SHA1-Digest: L0+2YcY57pP7Raf7p+dpmYTvU1s=
+
+Name: assets/BANK_AP_ADDBANKCARD.png
+SHA1-Digest: KsqMtMlBatDeJ5IFaBJ4+DftMKw=
+
+Name: lib/armeabi/libandroid-phone-wallet-messageboxstatic.so
+SHA1-Digest: u/pWMDImgXoMNIznw/UdOeQ3ALU=
+
+Name: assets/WALLET-SEARCH@everywhere
+SHA1-Digest: Id+irp2ShToSOZmuBlZRR/AqCyQ=
+
+Name: lib/armeabi/libWebViewCore_04192033_7z_uc.so
+SHA1-Digest: drxVbV7DwunSF/xNgzRlZurJjRM=
+
+Name: lib/armeabi/libandroid-phone-wallet-publicplatformcommon.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: assets/WALLET-BILL@BLDetailAction
+SHA1-Digest: +ye7iPN3ENbvEyOGYLKBwix4qkA=
+
+Name: res/drawable-xxhdpi-v4/scan_default.webp
+SHA1-Digest: TZpRQFYGROkGxCy7FKSnFVTVo24=
+
+Name: assets/bank_mark/icon/WHCCB.png
+SHA1-Digest: O4kuJpJZipvRYqVeGPEcFfEsfRE=
+
+Name: assets/bank_mark/icon/CRCBANK.png
+SHA1-Digest: iOay6yJoG+Me7+4lnDo9OoKJYZI=
+
+Name: classes4.dex
+SHA1-Digest: 5uaDN7i5SQYZ/OMNlj6FBc/n7wg=
+
+Name: assets/QUICKPAY@afterpay-guide-flex
+SHA1-Digest: Kq3nQzidOKVAQG3SaFqySKskzzc=
+
+Name: lib/armeabi/libijkeditor.so
+SHA1-Digest: MCDq572QRZouH2kY2Mue+NyROaM=
+
+Name: assets/KOUBEI@search_list_address@4
+SHA1-Digest: yWgB3eom2Hzk0gj39gMOpgr30bk=
+
+Name: assets/apps_preinstall_config/preinstall_appid.json
+SHA1-Digest: lggUd9bOUcxGfO+iPPIRLFFK6Sw=
+
+Name: res/drawable-xxhdpi-v4/title_float_press_up.9.png
+SHA1-Digest: 6Ntocztnx2bDsjcPz1YtszUnRNk=
+
+Name: assets/KOUBEI@goods_detail_wait_comment@4
+SHA1-Digest: p4eMH+YDV0yShZVojxpDdxnYJPk=
+
+Name: lib/armeabi/libandroid-phone-thirdparty-devicecenter.so
+SHA1-Digest: 5Z2qbBceZ62IG0Ev22B+vJVAn4g=
+
+Name: assets/emotions/emotion_small_03.webp
+SHA1-Digest: prYcv+GL9BLuo04Qv9TtG/BT9RQ=
+
+Name: assets/KOUBEI@home_promotion_entrance@17
+SHA1-Digest: 4UnYa2T6Q7sZrHdkqQfTcUb+FYM=
+
+Name: assets/common.css
+SHA1-Digest: OxNvX/nfkf5ZM5KIgedOYCjTgmw=
+
+Name: assets/WALLET-BILL@BLDetailRefund
+SHA1-Digest: PfZlVNSteo4AUFgq04eovf+2GcA=
+
+Name: res/drawable-hdpi-v4/wifiapp_small.png
+SHA1-Digest: G+C/KvIvYvSVgFowaYySBgyp1fo=
+
+Name: res/drawable/download_cancel_btn_selector.xml
+SHA1-Digest: YjZp92MAQD+CegVVNuqGC5s11ys=
+
+Name: assets/KOUBEI@home_koubei_app@12
+SHA1-Digest: l+0UqM8jlyoXWHDsU29wPcZvB9E=
+
+Name: assets/KOUBEI@home_divider@6
+SHA1-Digest: a3/z+beIui5rK2zoWDlNMTUch9s=
+
+Name: assets/emotions/emotion_small_65.webp
+SHA1-Digest: S/zWWTiAhsND9RQYwQ2rQ9SgusA=
+
+Name: assets/satisfy_light.gif
+SHA1-Digest: rshWyxwu5shBMusfPaSWxpTDsSk=
+
+Name: assets/QUICKPAY@cashier-common-sign-flex
+SHA1-Digest: SKRcgNXs9YrWHu75HPDJvSG1Ouo=
+
+Name: lib/armeabi/libad_bitmaps.so
+SHA1-Digest: 4rdQIZ6bVopsUCHlbiZYqPq4fwU=
+
+Name: assets/WALLET-SEARCH@EverywhereService
+SHA1-Digest: UOEDmSfadAwUoyy0Z9QtIZK/xtQ=
+
+Name: assets/unicode_zi_3.txt
+SHA1-Digest: 5qaWwZKO79LHxptu4aM5kzxdwS4=
+
+Name: assets/QUICKPAY@cashier-activity-default-flex
+SHA1-Digest: hFAoRxynZMIlvuUhLfOI9KoSepQ=
+
+Name: assets/tts/tts_dot.mp3
+SHA1-Digest: RIFs+l0FV6KMNpry6Pr5pFnp4pQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2olifecircle.so
+SHA1-Digest: SZnUvjnVyedOR2oQ9mnhqVUJSPQ=
+
+Name: assets/tts/tts_ten.mp3
+SHA1-Digest: wSpGiSJq4gID9EXnAKoiBsS97k0=
+
+Name: res/drawable-xxhdpi-v4/share_qq.png
+SHA1-Digest: 79GBRuMIUwtImhZ9IggDx/zIJUM=
+
+Name: assets/emotions/emotion_small_121.webp
+SHA1-Digest: yrhaQYTShlBURjNzpVPEeKQl2DY=
+
+Name: assets/OVERSEAS@intl_common_scroll_recommend
+SHA1-Digest: +ojlu2g+ZDy8w8ikbV0kv5SA08c=
+
+Name: assets/emotions/emotion_small_82.webp
+SHA1-Digest: IrNZsPtOU8C4Ex6MyVcyPMqR3sU=
+
+Name: assets/face_ding.ogg
+SHA1-Digest: dcXULeSXkIvxHQfwjA0lGCrwLMQ=
+
+Name: res/drawable-xxhdpi-v4/default_notice_icon.png
+SHA1-Digest: uhtXQGDRK0itPkciphnOkkrzhiY=
+
+Name: assets/KOUBEI@home_headline_explore@10
+SHA1-Digest: AUtZpqDP666u6JkJLS0Mw/K7LBk=
+
+Name: lib/armeabi/libandroid-phone-securitycommon-verifyidentitybiz.so
+SHA1-Digest: UVUT2plxKtp+WlyxqwUwqmJmhlk=
+
+Name: assets/KOUBEI@rank_shop@6
+SHA1-Digest: FK+PprlVZ+RmPU4ehB+TkwKLrWw=
+
+Name: res/drawable-xxhdpi-v4/title_bar_back_press_white.webp
+SHA1-Digest: cghbWPBn6igMbTDNeFMaBL3gSgQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialchatsdk.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: lib/armeabi/libsilk_jni.so
+SHA1-Digest: gxRAgCRftNwLNEBvh83VjXi6opo=
+
+Name: assets/tts/amr/tts_4.amr
+SHA1-Digest: U+ZyOH4hp+14CeZTGIDDGEH1xE8=
+
+Name: assets/emotions/emotion_small_53.webp
+SHA1-Digest: 4uNk6XVYql+VTQX/DDsCq02WqK8=
+
+Name: assets/emotions/emotion_small_56.webp
+SHA1-Digest: L7CrANOqLsQWYbw60V5VrxGzmKI=
+
+Name: res/drawable/share_item_press.xml
+SHA1-Digest: H5ZmbYXtJawvuPn2gjrbRqDR2lQ=
+
+Name: assets/character_point_data.json
+SHA1-Digest: IB4EIp6/Uwm4aJy46Ctn8wQ6Jsk=
+
+Name: assets/tts/tts_9.mp3
+SHA1-Digest: Hwbu33yMRPGTTo4Fj9MvJQL1XNQ=
+
+Name: assets/KOUBEI@detail_mall_1@9
+SHA1-Digest: hmXEPo8GpGHZ0SFjHhNdxSqhwLI=
+
+Name: lib/armeabi/libandroid-phone-wallet-messageboxapp.so
+SHA1-Digest: zZqGPVf2jMofPViIXsG7yy6k4Og=
+
+Name: res/drawable-xxhdpi-v4/saoyisao.png
+SHA1-Digest: 9KnnRNS9rW+ZMd0B1t0ovOXXTcg=
+
+Name: lib/armeabi/libandroid-phone-wallet-scan.so
+SHA1-Digest: 37LjHvbsqyFdFeVF843PisrfcN4=
+
+Name: res/drawable-hdpi-v4/code_default.png
+SHA1-Digest: qiTg17kAbYwMC6lneHA2ZVYUo7U=
+
+Name: assets/ant_loading.gif
+SHA1-Digest: wrn5Q6+1H2qKOgrllnz5NF7dwgA=
+
+Name: assets/emotions/emotion_small_124.webp
+SHA1-Digest: wGyAML5VbDLxIJyY6uKtt86YPCk=
+
+Name: assets/OVERSEAS@intl_shop_detail_comment
+SHA1-Digest: xm1OSme0AvcQ26QlOPh6J8d3FUA=
+
+Name: assets/face_yaw_left_right.mp3
+SHA1-Digest: F2fdTl0Mx7y3R3xBNZONkOr79ls=
+
+Name: assets/QUICKPAY@cashier-card-detail-flex
+SHA1-Digest: oYnKPMCXnhcWNUbAl6ZB5WwDxmc=
+
+Name: assets/QUICKPAY@open-login-flex
+SHA1-Digest: +ROFnD9CGO8W+xzf9+xa4dBljc0=
+
+Name: assets/tts/tts_hundred.mp3
+SHA1-Digest: rkvqRMtKZ72VPyEn5HKE0L7WSJo=
+
+Name: assets/QUICKPAY@afterpay-pcredit-flex
+SHA1-Digest: onZgyyqp2ElWl6grgmkcqumjWF4=
+
+Name: classes5.dex
+SHA1-Digest: VglDugaR9RO5z6kVLqYjPDKQUZM=
+
+Name: assets/bank_mark/icon/CDCB.png
+SHA1-Digest: PZ2jp+barar8CaWD/BSRxiRFLgM=
+
+Name: assets/facesetting.json
+SHA1-Digest: BVjQsvUnW32f3HXJS3tx4AEOF9I=
+
+Name: assets/BANK_SJBANK.png
+SHA1-Digest: qYP6DO2xgN6HBY64AOGV550YjYY=
+
+Name: assets/emotions/emotion_small_85.webp
+SHA1-Digest: oamQ7aXvJtVIOkpSgvNpxxjVOJI=
+
+Name: assets/face_mouth.mp3
+SHA1-Digest: ZmxcWlrLdAmgG5ogsfx8MyGhCp4=
+
+Name: assets/tts/amr/tts_mobiledata.amr
+SHA1-Digest: UxKHfAnFD7TkGKyb8pXAtD84DjE=
+
+Name: assets/BANK_YDRCB.png
+SHA1-Digest: RU9b117SlUhMwWr+fWPUmuXGpOw=
+
+Name: assets/KOUBEI@detail_member_crm_1@19
+SHA1-Digest: +SQQg5uvipFUTa8/Lznpu5hWt9w=
+
+Name: assets/KOUBEI@home_category@34
+SHA1-Digest: qoB64dj7ix07SPc4Lf3apF0KfYI=
+
+Name: assets/unicode_zi_2.txt
+SHA1-Digest: LGxLpmBrbZy85amCORb0CnFVe7k=
+
+Name: assets/emotions/emotion_small_86.webp
+SHA1-Digest: GE8dgPVrK3hohnJmU148sq5xoCc=
+
+Name: assets/nativelibs.cfg
+SHA1-Digest: LyV5JxkaLHrERvjRp3r8KhhLmhY=
+
+Name: assets/BANK_CIB.png
+SHA1-Digest: unWYstgmNDENKVoE3DLSSZjWLs4=
+
+Name: assets/WALLET-BILL@BLDetailRefundMutil
+SHA1-Digest: mcPdvoY9WWjx6qYk1oHQ8sEMjwo=
+
+Name: res/anim/zoomout.xml
+SHA1-Digest: jwyilpaW0sQoTIykxp0Ra/I78j8=
+
+Name: assets/KOUBEI@detail_nr_dish_packages@29
+SHA1-Digest: 94hnPREUqZknew/+0o4fQzZy2ws=
+
+Name: assets/KOUBEI@home_headline_jy@10
+SHA1-Digest: J/XiGDap/RcIxF7FUS0crzeMnG8=
+
+Name: assets/breeze/android.config
+SHA1-Digest: /G8oBt2MjIJ0ifqXs8dNMqn4ZCc=
+
+Name: res/drawable-hdpi-v4/msp_bg_panel.9.png
+SHA1-Digest: D/9ETZl/aUMKSElYGqgOnwBwynM=
+
+Name: assets/KOUBEI@benefit_received_good@9
+SHA1-Digest: HSbTOQw+66WI1PQ2u1fm+DGjZhA=
+
+Name: assets/BANK_EGBANK.png
+SHA1-Digest: EroLghuwi4+utGdQtCN/63tQxaE=
+
+Name: lib/armeabi/libandroid-phone-wallet-yunoswear.so
+SHA1-Digest: Fm8bNoS4PmfBfN/aP6RPBe4eK7Y=
+
+Name: assets/KOUBEI@detail_nr_plugin@8
+SHA1-Digest: 8XCfsiUMHnlAm47iTC+TzD5DOjg=
+
+Name: assets/provider/bn_provider.json
+SHA1-Digest: 42qIGF0bnYVfRsdbMv+4nnuxiss=
+
+Name: lib/armeabi/libFalconOCRPlatform.so
+SHA1-Digest: e9waY11X3UH5dN9HqO8yp7GXAP4=
+
+Name: lib/armeabi/libandroid-phone-wallet-phonecashier.so
+SHA1-Digest: XTK7zlhAzmOxiZY6oxoBJlWpnRU=
+
+Name: assets/KOUBEI@home_video_forecast@26
+SHA1-Digest: qVJUU01mof86sDNbPsQ62ZSpb1I=
+
+Name: assets/OVERSEAS@intl_promotions_list_item
+SHA1-Digest: 45kNLrAmRaVabbYzRfdR1XMOtSM=
+
+Name: lib/armeabi/libscriptengine.so
+SHA1-Digest: h8iviGcqfOU5T1sNsiccO5pJZ+0=
+
+Name: assets/BANK_SXCB.png
+SHA1-Digest: qpOzfqrnVteCiYrRubv582PpG4E=
+
+Name: lib/armeabi/libztcodec2.so
+SHA1-Digest: PfES28TtcbVWg/cGr0aIdBto9cU=
+
+Name: res/drawable-xxhdpi-v4/btn_wifipop_connect_bg_press.9.png
+SHA1-Digest: 2DA7cKQ4zWFtshc1SBsZ9tVa5w0=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2ocomment.so
+SHA1-Digest: z6I0QfITrEoJqkkaXFmWxIGJnP0=
+
+Name: assets/emotions/emotion_small_19.webp
+SHA1-Digest: dRP58lsr5wr5kPsHPXPpOnZdKNA=
+
+Name: lib/armeabi/libandroid-phone-wallet-templatemanager.so
+SHA1-Digest: fTZXIIZcV6oz4xRhUAUMjtT9YFQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-personalbase.so
+SHA1-Digest: yg98GG+ACRt/P8DeAA3IicIwCNM=
+
+Name: assets/amc-usq.js
+SHA1-Digest: adOv+d2FUmXj8GJ6QisbrpQA9UI=
+
+Name: assets/KOUBEI@detail_user_question@21
+SHA1-Digest: CMVK4R/p4tGuCpkkCcUH7JVoTx0=
+
+Name: lib/armeabi/libbitmaps.so
+SHA1-Digest: 9/EAluGn9cGF3ebB6FixN6UTohs=
+
+Name: lib/armeabi/libmobileapi-mstockprod.so
+SHA1-Digest: wx6MpRYStlINkIFD6tem/f7OR10=
+
+Name: assets/QUICKPAY@cashier-pwd-check-flex
+SHA1-Digest: z3NftD1yxSm12CIl4odEdah/MHM=
+
+Name: assets/KOUBEI@detail_anchor@4
+SHA1-Digest: DqfHXbcWjqTqKdcLbnPuW8Ia7jY=
+
+Name: lib/armeabi/libmobileapi-zmcustprod.so
+SHA1-Digest: 1/uQqqtZb2H0ZeP+2e2ZT7vgLpM=
+
+Name: assets/MOBILEIC@certificate
+SHA1-Digest: KJFvXYPKTKnhK8Bl6fmbDZDQays=
+
+Name: assets/emotions/emotion_small_104.webp
+SHA1-Digest: ViNAa5u4a5XgO1MelARETeCA7kI=
+
+Name: res/layout/alipay_center_light_coolpad.xml
+SHA1-Digest: 7ihkCZARNJOC5CcAskSS6TAWFFk=
+
+Name: assets/emotions/emotion_small_52.webp
+SHA1-Digest: wIHxhV1VB9wHs7EwEF8pOZ39D2M=
+
+Name: lib/armeabi/libmobileapi-tallycore.so
+SHA1-Digest: sA4dl14R8uCTXB67VWD2Pk2K7XY=
+
+Name: assets/KOUBEI@home_mrp_one_col@7
+SHA1-Digest: PQKoQA/gEPKn6wqj7HV4wIQ4xHM=
+
+Name: lib/armeabi/libandroid-phone-wallet-guestrouter.so
+SHA1-Digest: 6sqdUepmf/XATjZXKGbUpNwyS4A=
+
+Name: res/drawable-xxhdpi-v4/bus_code_default.webp
+SHA1-Digest: YKTBF0wAv7jfsU7xhQhRCzy9Kg0=
+
+Name: lib/armeabi/libsgsecuritybody.so
+SHA1-Digest: dIlImAAFx/AelSOHeMxOu3ohp5Y=
+
+Name: lib/armeabi/libflybird.so
+SHA1-Digest: G6b840NDmUGoRpvTjQsiWVwvIng=
+
+Name: assets/BANK_CDRCB.png
+SHA1-Digest: Iigbs4rBH3ZF0aBqigzrD+XIIkU=
+
+Name: lib/armeabi/libsecuritycrypt.so
+SHA1-Digest: iF53eH+DpnwV5qwusEKkMI3Ft1U=
+
+Name: assets/BANK_CQRCB.png
+SHA1-Digest: Bijm0ai92kHhEDaY7Cp2VLItMUI=
+
+Name: assets/OVERSEAS@intl_shop_detail_featured_content
+SHA1-Digest: vuztQdCnJAKXixErh9fDdk2jOWI=
+
+Name: assets/bank_mark/icon/BHB.png
+SHA1-Digest: 4sLzLgoICT8zx7f1Nxy2owPKnZc=
+
+Name: assets/BANK_BHB.png
+SHA1-Digest: ERrtvKYt74W6hf8o9BHdBLouAa8=
+
+Name: lib/armeabi/libmobileapi-mbuyer.so
+SHA1-Digest: 5p4RARZzmXxo6xO7rwXBd0/jMrY=
+
+Name: assets/KOUBEI@my_answered_ques_item@9
+SHA1-Digest: yD8Y/G30nQX44SfL+/UGD3TV/Oo=
+
+Name: assets/WALLET-FWC@PPDetailLastNews
+SHA1-Digest: gyiI3wu6xrmAeTbtD9z43w+bOro=
+
+Name: assets/QUICKPAY@frontpay-limit-query-flex
+SHA1-Digest: GKaU7zSshRYC5SmrPiN/WXR3yQU=
+
+Name: assets/BANK_HXBANK.png
+SHA1-Digest: fuwBD8KYNl3vltviPgsHPN8FZTY=
+
+Name: assets/amc.i18n
+SHA1-Digest: kJI2yeAoGZuJXW0kmp2vnKuYsSk=
+
+Name: lib/armeabi/libandroid-phone-wallet-offlinepay.so
+SHA1-Digest: TD9YhOJ84U0aMk8eayK3h2/7rfA=
+
+Name: res/drawable/popmenu_item_mid_bg_single.xml
+SHA1-Digest: tUZGCe7jXn7+FJ1t8pqfZIl3VkY=
+
+Name: assets/emotions/emotion_small_39.webp
+SHA1-Digest: 05ZNnW4u52Tn42e4N2tS+m0J8EU=
+
+Name: assets/QUICKPAY@cashier-channel-logo-flex
+SHA1-Digest: w9lqUlYkzcgDvrztLBVsvPPlrpE=
+
+Name: lib/armeabi/libandroid-phone-wallet-bankcard.so
+SHA1-Digest: lvjJymN7vprAGV2rQaCoDoF4584=
+
+Name: lib/armeabi/libclient_searcher.so
+SHA1-Digest: BW3S2e0XANZPHLKZ9wSDZ4W0Wic=
+
+Name: assets/jstest_v2.js
+SHA1-Digest: hH0XIl9vSCcVOe8N94WBXLahC/Y=
+
+Name: assets/tts/amr/tts_3.amr
+SHA1-Digest: 9ufCZR9DinG/ASonfrMqPdoxARk=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-voice.so
+SHA1-Digest: uL47BdfTxC8Uuqg1QtnsHHVIgSE=
+
+Name: assets/OVERSEAS@intl_home_tab_featured_content
+SHA1-Digest: CTzZU9Sy31y2vm1TmAiid+LL2nI=
+
+Name: lib/armeabi/libCoreCpt.so
+SHA1-Digest: bc5eAiRyiQzOYroE98HLFAZCobI=
+
+Name: assets/QUICKPAY@cashier-default-result-flex
+SHA1-Digest: 8OH2hxVN2PtDshqa15IQ+Iwcu/8=
+
+Name: assets/bank_mark/icon/BOC.png
+SHA1-Digest: PND++yHcbsloPzb44rQ2F14/NqY=
+
+Name: assets/emotions/emotion_small_23.webp
+SHA1-Digest: Klqr2WIOwEA+LdWrFy/xynrI4M8=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-dynamicrelease.so
+SHA1-Digest: b+g8DFLLYA3gbuIocBGRqOeBrHI=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialgroupsdk.so
+SHA1-Digest: sE8+6PXkP6OxYpgbULty/hrKuzM=
+
+Name: assets/QUICKPAY@pwd-validate-flex
+SHA1-Digest: y+9dL1/nVMq+Cvp50ghWi7B7txw=
+
+Name: assets/bill/trade_detail_strings.json
+SHA1-Digest: O30iqtppa/b1cBGSCJ4wquGbNEM=
+
+Name: assets/KOUBEI@home_travel_ad@19
+SHA1-Digest: 9a9d3m0v9tZCqHftfT49aXbWU+0=
+
+Name: assets/template_check
+SHA1-Digest: CPyPHXPV7zMqRCpY12T372t46AA=
+
+Name: assets/KOUBEI@lc_theme_question_detail_footer@6
+SHA1-Digest: FQY3vnO5/sGy8gXCons1qzC8HbU=
+
+Name: assets/QUICKPAY@cashier-pay-confirm-flex
+SHA1-Digest: H1cq9ceUblwfeTMgMCXLYHbCpmM=
+
+Name: assets/MOBILEIC@remindInfo
+SHA1-Digest: LapS7qGU6K67tYK9Tfro9HpSWr4=
+
+Name: res/layout/alipay_push_notification.xml
+SHA1-Digest: ssMDlHwsonT/gvyE3PqEGRFAbCw=
+
+Name: lib/armeabi/libmobileapi-mobileorderprod.so
+SHA1-Digest: nxl/9+zcoAcxWRQCDwuIGXjNO10=
+
+Name: assets/emotions/emotion_small_101.webp
+SHA1-Digest: Olc7Q3gNTtdWpUF+099N6AOCrTA=
+
+Name: res/layout/app_launch_from_shotcut.xml
+SHA1-Digest: r7ALviSTbxnGIlVezZ6Txp+7RRg=
+
+Name: assets/WALLET-SEARCH@O2O
+SHA1-Digest: DeUxarJpvgTfK3WUdY/DgPynE4o=
+
+Name: assets/KOUBEI@dish_recommend_top@4
+SHA1-Digest: mbJGxPhI8bob1dMoWRsMyI4o53Q=
+
+Name: assets/KOUBEI@rank_banner@1
+SHA1-Digest: g1BEJEG86hJ1m+wKbSFbhmy0ons=
+
+Name: lib/armeabi/libandroid-phone-wallet-homefeeds.so
+SHA1-Digest: RRtTgHFCR/SkgQKHyz+qa/KqjkU=
+
+Name: assets/KOUBEI@detail_ktv_reservation@18
+SHA1-Digest: uMBiIjNIjPJcsyxhdWWUb0lJxLM=
+
+Name: res/drawable-hdpi-v4/com_taobao_trip.png
+SHA1-Digest: 8KItvkVrVyMfSCXr8It2qb5iMVk=
+
+Name: res/drawable/current_channel_bg.xml
+SHA1-Digest: NA4r7Kzr+UPjyAJ0w2It6essQjg=
+
+Name: assets/KOUBEI@comment_detail@31
+SHA1-Digest: fedzyVj9nDpw0QP7Y6+r6QQwNP0=
+
+Name: lib/armeabi/libandroid-phone-wallet-openplatformcommon.so
+SHA1-Digest: CbATEM8ECe40M6SuHvMxZ7m511Q=
+
+Name: lib/armeabi/libandroid-phone-merchant-citycard-citycard.so
+SHA1-Digest: zEXnStW9M7Qf3oUVr7Ohyv5JJRg=
+
+Name: assets/iconfont.ttf
+SHA1-Digest: sozvpspZ1/XHtUaKCvXqRJNnY4o=
+
+Name: assets/asset_preinstall.json
+SHA1-Digest: lV9I4MqbEVRAfLB0ajoHN8uTS4E=
+
+Name: res/drawable/popmenu_item_mid_bg_down.xml
+SHA1-Digest: iHXh2/Xjl5CciunJRyZs6lezhys=
+
+Name: assets/emotions/emotion_small_59.webp
+SHA1-Digest: 0MmhLE8wIvk9sCxxrIfPnoQH3NA=
+
+Name: assets/mic.i18n.en_US
+SHA1-Digest: +iJtAGtxq626/kgZMDwj7Q1Crr4=
+
+Name: assets/bundlesResMerged.cfg
+SHA1-Digest: 7cuAhm2xcvwt1DcNL1hKYhKESZg=
+
+Name: assets/QUICKPAY@cashier-newbie-flex
+SHA1-Digest: TulUD1NHolunpzJfkMw6/UzhuyM=
+
+Name: assets/BANK_AP_HUABEI.png
+SHA1-Digest: ufm44ZvZDu6Y7SrOlICgvfZ3YxA=
+
+Name: classes2.dex
+SHA1-Digest: vpwhhmCBIu2opHH35GL/oXnxKPU=
+
+Name: res/drawable/tiledstripes.xml
+SHA1-Digest: S/oGH9L82F4b676Up5uxmIfRJpg=
+
+Name: assets/BANK_CMBC.png
+SHA1-Digest: u5S6vr2Dkl85/PxTwM+X772+4TE=
+
+Name: assets/KOUBEI@home_super_brand@14
+SHA1-Digest: YcLWmFI+FRk6+1vLUKH3DYYFSBo=
+
+Name: res/drawable-xxhdpi-v4/member_platinum.png
+SHA1-Digest: y3IOZ/VD/91/LSGMqjQSBkkLeZc=
+
+Name: assets/emotions/emotion_small_76.webp
+SHA1-Digest: Oz7wQHKuSa+fTkK0L2Yj/nzgcaw=
+
+Name: res/drawable/member_container_bg.xml
+SHA1-Digest: 5rlT4ni/qP8fhXgIWRJ/OpLy8pU=
+
+Name: res/raw/diaoluo_da.mp3
+SHA1-Digest: t/DVwQuwQLrV1l2unYylqszdruM=
+
+Name: lib/armeabi/libandroid-phone-wallet-transformer.so
+SHA1-Digest: eYMR0gIDrsFgHAfWJ7uscoFAzLs=
+
+Name: lib/armeabi/libsgavmp.so
+SHA1-Digest: lnrK6V9L+HaGhYQjKxl7HPDWLbI=
+
+Name: assets/emotions/emotion_small_62.webp
+SHA1-Digest: R1rwr8Eerfng0RHRS9lKpGO9yC4=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2ointlhome.so
+SHA1-Digest: PuwezO8FJ/UeuAXyU3aYA32v688=
+
+Name: lib/armeabi/libsgmisc.so
+SHA1-Digest: A6mhU8/kTCNk7GyRReoklbBaUgQ=
+
+Name: assets/emotions/emotion_small_16.webp
+SHA1-Digest: r1aTjpfjcJj5CE7g2P/EvgKyjMQ=
+
+Name: lib/armeabi/libmobileapi-kbcontentprod.so
+SHA1-Digest: Oh5VzMb1ZboILsy4x6++zoZ7DGk=
+
+Name: assets/shaders/depth.vert
+SHA1-Digest: eN7Cbu95xAtWC+XK8c4RJzy5PIQ=
+
+Name: assets/BANK_HSBANK.png
+SHA1-Digest: lGH1BldF/qp7j1+qIjcgu2LoA/8=
+
+Name: assets/KOUBEI@lc_search_pic@7
+SHA1-Digest: 5cydJi/EBLsR7C/c6OcJ4Gfyja0=
+
+Name: assets/bid-log-key-public_t.key
+SHA1-Digest: JXu20TSDMJboa/IedOAHxCxu2jg=
+
+Name: assets/tts/tts_ten_million.mp3
+SHA1-Digest: gJrbGbjgEN/D6zu8fFay1RZ6E7g=
+
+Name: res/anim/homefeeds_toast_exit.xml
+SHA1-Digest: AGKVpqJAjYrV5XetPCO4TlV2Q7I=
+
+Name: res/anim/slide_out_bottom.xml
+SHA1-Digest: eCaXJRXmuqfHYJVSv5a7AaKr2x8=
+
+Name: assets/QUICKPAY@cashier-safeprotect-sms-flex
+SHA1-Digest: Dm1U3FxzBhb9nZV8oB+aije+XQ4=
+
+Name: res/anim/buttom_in.xml
+SHA1-Digest: ++X/YKOOsElI9u7bWqf1NXEeK1w=
+
+Name: assets/KOUBEI@home_headline_follow@5
+SHA1-Digest: gOD+SuO+7c2P6XeKq56bzqOcqhs=
+
+Name: assets/bank_mark/icon/CMBC.png
+SHA1-Digest: +1JMMvV3JjRrqqHTjOv8az2ckg4=
+
+Name: assets/BANK_ABC.png
+SHA1-Digest: U9o0c5LzZbhq2xi0CjIa8vAbbC4=
+
+Name: assets/bank_mark/icon/CQBANK.png
+SHA1-Digest: omRtRvL6ZXo7b0KmpQCsPTIXQeQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-fortunehome.so
+SHA1-Digest: 6lcU1MQcFb+BopaySmhSerI7Yss=
+
+Name: lib/armeabi/libqp-ping.so
+SHA1-Digest: 1nZpriS76vhloU92tN7x54t6puM=
+
+Name: res/drawable/titlebar_btn_bg.xml
+SHA1-Digest: mOoIoFRNMcv4csN7kxQHMmj2zIg=
+
+Name: assets/BANK_BSB.png
+SHA1-Digest: eQLtHavdHpVqeh+5VSvyl+D62bw=
+
+Name: assets/emotions/emotion_small_66.webp
+SHA1-Digest: pSmWiSKSYs/gRjWXEg6mNO0z1VI=
+
+Name: assets/KOUBEI@refund_result_page@8
+SHA1-Digest: Grkn7Waq8h0DvyT+BDDZG0UsFLM=
+
+Name: assets/KOUBEI@detail_shop_info_fast@18
+SHA1-Digest: pyXnn4aFppZheTQzTJl4b8PvNBU=
+
+Name: lib/armeabi/libmobileapi-mdistinguish.so
+SHA1-Digest: 5opA78lqc7SH0yCr6zpA5GnSUJ0=
+
+Name: assets/WALLET-SEARCH@Comment
+SHA1-Digest: 8EEplp3I6y5r6In0BH1UoINbQkI=
+
+Name: assets/bank_mark/icon/GDB.png
+SHA1-Digest: fElfTv9EeJaGv9j5kAvrer94IH8=
+
+Name: assets/material/icons/PqBpO4iuQ4COrd3VxC0iyQAAACMAAQED
+SHA1-Digest: JeGvjzGCr49NCyed5KHjkURxdT8=
+
+Name: assets/WALLET-SEARCH@Movie
+SHA1-Digest: bchzBhwg3YWxSsOpXWRmVUKZ0ik=
+
+Name: res/drawable-xxhdpi-v4/notify_transfer_light.png
+SHA1-Digest: ySGcbyIQFayPbFIpft3qVokBgCA=
+
+Name: assets/KOUBEI@home_headline_portal_ext@12
+SHA1-Digest: QNMR+BQa+wXbbcrr94QhA/evwII=
+
+Name: assets/tts/amr/tts_2.amr
+SHA1-Digest: Bo7JQiB2Nn0W8dAh4o68aTIEoPE=
+
+Name: assets/KOUBEI@home_koubei_circle@17
+SHA1-Digest: V23dJnuG8gx9hSo+g4DXDfOJsBk=
+
+Name: assets/emotions/emotion_small_111.webp
+SHA1-Digest: HXMTJdPfLFXw9W9wx0T+28IbxpI=
+
+Name: res/drawable-xxhdpi-v4/title_float_middle_press.9.png
+SHA1-Digest: J40p/GqkFdkF94aEqUMZq2TaMt8=
+
+Name: assets/KOUBEI@home_headline_feed@7
+SHA1-Digest: bjY7LLeBG4Mqm5fysUhuyNyy+lA=
+
+Name: lib/armeabi/libandroid-phone-wallet-familyaccount.so
+SHA1-Digest: Z1ghysktyrxP2lHMZdijqFGmpgw=
+
+Name: assets/recommend_light.gif
+SHA1-Digest: CXXVkdiA/pXr5F3a8gl869FgOiE=
+
+Name: assets/KOUBEI@home_hot_comment@12
+SHA1-Digest: NOkyMKbTrA4KzwR0ky9U/jarlw0=
+
+Name: res/layout/alipay_left_normal.xml
+SHA1-Digest: 3l7rPG1DzX8e6+x5iZPak6OGpN0=
+
+Name: assets/BANK_SHRCB.png
+SHA1-Digest: 3V66dmB9ST1LMGPxlWzpumGDWn0=
+
+Name: assets/KOUBEI@comment_list@33
+SHA1-Digest: GmNrgOJpQBmX2wG1Qruq4A+88GQ=
+
+Name: assets/KOUBEI@home_seller_words_main@12
+SHA1-Digest: lUUgZWIs9BmDP6C9kBXOwc8Twh4=
+
+Name: assets/KOUBEI@home_may_like_active@27
+SHA1-Digest: mA7kcu42cgK70CUnpVjdSe5unf8=
+
+Name: assets/emotions/emotion_small_108.webp
+SHA1-Digest: Ps0gdI8P0GWbAX/wnY2LgozIe9I=
+
+Name: lib/armeabi/libamnet-mmtp.so
+SHA1-Digest: FplUkmNfHZVRJsxHG9gv4KgBqz0=
+
+Name: lib/armeabi/libandroid-phone-wallet-financechart.so
+SHA1-Digest: 5g/jwD08DMkXxSXZHl5Lx0mP840=
+
+Name: assets/WALLET-FWC@MBDefaultText
+SHA1-Digest: 15yKQ7+sCggfEzS+dVoGD/bxIx0=
+
+Name: assets/WALLET-SEARCH@EverywhereServiceTitle
+SHA1-Digest: IGzhxT6hHipM39unNfwGfdP78AM=
+
+Name: lib/armeabi/libmobileapi-mobileinno.so
+SHA1-Digest: IskHEIEkcI1oq5r0AGARP55CUaE=
+
+Name: lib/armeabi/libiomx.23.so
+SHA1-Digest: JzRqxy+ijIO+U1xdVMpi0WGQkh8=
+
+Name: assets/BANK_DLB.png
+SHA1-Digest: 6YprU+WSPZvQQP71vsi7LVt6a38=
+
+Name: lib/armeabi/libduktape-bridge.so
+SHA1-Digest: LvnoJc+dxDXglNyPjFIjF5rTnEQ=
+
+Name: assets/BANK_SDB.png
+SHA1-Digest: ALfSZRl4JV9g4zIhw46Lh9QhU+M=
+
+Name: assets/emotions/emotion_small_69.webp
+SHA1-Digest: nP1o+7HgBp4Z5odYrREWgCJR1L0=
+
+Name: assets/puk.dat
+SHA1-Digest: IPgvJL9liOZQo2QSHbgfu2a3Vnc=
+
+Name: assets/KOUBEI@goods_detail_recommend@42
+SHA1-Digest: gM8/eJIbjnwaBM7fnb1NAMy4DlM=
+
+Name: assets/iconfont/com.alipay.android.phone.wallet.advertisement/sp
+ eaker.ttf
+SHA1-Digest: nhIHBZKxeqvl49vdBc4fc/Wyq4g=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2ocommon.so
+SHA1-Digest: BoR8sKpda+vrmG5I6taT/69ngr8=
+
+Name: assets/KOUBEI@home_city_activity@20
+SHA1-Digest: L4n2hV5I8P1V5Y25eZ1i+18N5x8=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialcommonsdk.so
+SHA1-Digest: 28d1gjxKxOLEIGg54b6wyKGn7yI=
+
+Name: assets/WALLET-BILL@BLDetailCommon
+SHA1-Digest: ZlqLCxoh1m0pmhjNMCvWu2ftS+s=
+
+Name: assets/tts/amr/tts_ten_million.amr
+SHA1-Digest: IL5WSG+0Tz50xSUFsj52m0YTN5A=
+
+Name: assets/KOUBEI@detail_recommend_goods_1@16
+SHA1-Digest: AxOANuXxcGlAFQt73NnkNTo5f+8=
+
+Name: lib/armeabi/libandroid-phone-wallet-o2opurchase.so
+SHA1-Digest: 42MPR9xkXUBgXqZiHB8gqV60dE4=
+
+Name: assets/emotions/emotion_small_06.webp
+SHA1-Digest: CGvqxWAy8l/oV8COFfmhgzWL5c4=
+
+Name: assets/bank_mark/icon/SXCB.png
+SHA1-Digest: ONCN/ZnDtNnve90/Q5qm0Tf7b0g=
+
+Name: assets/OVERSEAS@intl_home_tab_featured_merchant_item
+SHA1-Digest: qGfe2bg0CeotEB2gGmlQcYXmg4k=
+
+Name: res/drawable-xxhdpi-v4/chat.png
+SHA1-Digest: VmbhF7QRFA7QcxoISz0R1hFuTMQ=
+
+Name: assets/moon
+SHA1-Digest: 4gPyroeONqcZRcV5Y3eWJzc/dpI=
+
+Name: assets/KOUBEI@lc_question_detail_header@15
+SHA1-Digest: KfFkpNkRTlDJnIppQdlcFCGsxG4=
+
+Name: assets/BANK_URMQCCB.png
+SHA1-Digest: 9JRyr+MD08RQIfxiF4VRQMz/oCU=
+
+Name: assets/amc.js
+SHA1-Digest: jdY37VyPz4QPROeBBxAI1bO7ipU=
+
+Name: classes3.dex
+SHA1-Digest: FIiRtXNFIiIrK73scwenHqeU3DQ=
+
+Name: assets/unicode_zi_4.txt
+SHA1-Digest: p9icZPfXe+vQIoMp3AE9SIsHppM=
+
+Name: assets/bank_mark/icon/SCBBANK.png
+SHA1-Digest: 5QDLF+rukoISHRP0nocn70DELzA=
+
+Name: assets/tts/amr/tts_dot.amr
+SHA1-Digest: kcmSmwch8pKhT2Y/uT9vGiStDE8=
+
+Name: assets/tts/tts_ten_thousand.mp3
+SHA1-Digest: 7653uPGqbtpZzSMGx2qF6bLvnFk=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialcontactsdk.so
+SHA1-Digest: EQYLusfeyERpYVqNNWk74/p82U4=
+
+Name: res/anim/scan_fade_in.xml
+SHA1-Digest: a+lWPv/6C6scAU3lLrcavSxA1ko=
+
+Name: assets/KOUBEI@lc_comment@0
+SHA1-Digest: GB3iPE+o8l/pnITUS1fUNW15+o0=
+
+Name: assets/bank_mark/icon/CEBBANK.png
+SHA1-Digest: +zS6P/UrWbR/kMS9GCnR4n27WEE=
+
+Name: assets/MOBILEIC@fast-privacy
+SHA1-Digest: 2a2e4+pJ4yNV7lXK5gnUOBrU3H0=
+
+Name: assets/KOUBEI@home_headline_answer@19
+SHA1-Digest: EJvsD3qjVihO2Itm40W4zzYCNnM=
+
+Name: assets/apps_preInstall/10000033.amr
+SHA1-Digest: 50k+H8cOo/lIHKd3KxHSb+a9gaM=
+
+Name: lib/armeabi/libxnn.so
+SHA1-Digest: C+FMLeOgc+mW80hs94b1TiNgHVw=
+
+Name: res/drawable/alipay_text_color_selector.xml
+SHA1-Digest: GcIKYV1t8ViA0UFLoTYj4tX9wrI=
+
+Name: res/layout/notice_dialog_pop.xml
+SHA1-Digest: TdlOoRWbKxgHvyRKfbNFeveL4mY=
+
+Name: res/anim/dialog_exit.xml
+SHA1-Digest: h50kqBwkWJldOvgqEGpkB8M/yHg=
+
+Name: assets/QUICKPAY@open-account-auth-flex
+SHA1-Digest: M7DFUKJ4HrNQgPgQKNsEwjZ+ykU=
+
+Name: res/anim/h5_fading_out.xml
+SHA1-Digest: d/9J7fvV23iRAw/ZdRuDFFTXubU=
+
+Name: assets/WALLET-BILL@BLDetailHeader
+SHA1-Digest: bz1YIxE/A6I9fHdMbvtcgwWoZ6M=
+
+Name: assets/apps_preinstall_config/my_appid.json
+SHA1-Digest: 8u4m1yrSl8Db6GWffa0rMJOKG0c=
+
+Name: assets/BANK_CEB.png
+SHA1-Digest: e9wP0+8b3zp7yWvUbhCEsZPRsD4=
+
+Name: lib/armeabi/libandroid-phone-wallet-accountauthbiz.so
+SHA1-Digest: ss4lNIMwYN9b33cAFxpa2EOmWxg=
+
+Name: assets/tts/amr/tts_1.amr
+SHA1-Digest: SzFgvn4gKsyAwyn02xj8TeYy2Es=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialpayee.so
+SHA1-Digest: GyXK+IjNP9W2S+a/F9XK6OXtTio=
+
+Name: assets/KOUBEI@home_may_like_folded@33
+SHA1-Digest: LlFTVESuIVIzdgwwYVJ9u1MIRrg=
+
+Name: assets/KOUBEI@lc_search_merchant_item@5
+SHA1-Digest: x394XpfBUd6V/l74apWNWU5tpRU=
+
+Name: assets/OVERSEAS@intl_home_hot_sight_v2
+SHA1-Digest: AX8QL46J4asM4nIGFi4h1PBc1h4=
+
+Name: assets/WALLET-SEARCH@PublicPlatform
+SHA1-Digest: EFrQueeMsAd3KHVjxZU0t//6ex8=
+
+Name: assets/QUICKPAY@cashier-result-flex
+SHA1-Digest: t53oRlPRTD/lGpmSDj6+IJjR6lQ=
+
+Name: assets/emotions/emotion_small_26.webp
+SHA1-Digest: cwkb3x3kRH8a5AKhI/ojUsbgY6k=
+
+Name: assets/account_preinstall.json
+SHA1-Digest: 57mObly2iuTpS5milUQBXDTeg6o=
+
+Name: assets/unicode_zi_5.txt
+SHA1-Digest: +eHsMJMGs2VnSw38NfJlPyXchu0=
+
+Name: assets/FA.bin
+SHA1-Digest: 7b9XgMpQfKVu9cf7os5xSiu2NA4=
+
+Name: assets/KOUBEI@search_list@100
+SHA1-Digest: 2vl3lLsq9E2sPr3rtKl9f2nohz4=
+
+Name: res/drawable-xxhdpi-v4/share_friends.png
+SHA1-Digest: 2EttnWpqzOsVTjItHirCSwVYMJs=
+
+Name: assets/emotions/emotion_small_36.webp
+SHA1-Digest: v5yPFYzPBxmuhNiDo9ieCdimKrg=
+
+Name: assets/emotions/emotion_small_89.webp
+SHA1-Digest: 7JRH8i/av4qj/c9UgNexJ1Nf5WU=
+
+Name: assets/iconfont/iconfont.ttf
+SHA1-Digest: OfQmNjQbkp/TC3QA7m9omDHYec4=
+
+Name: assets/material/icons/ijDrs3cOTHytkgyqv5iFzwAAACMAAQED
+SHA1-Digest: SNqzz6DIatJ9Mka+q87+DPqHOmY=
+
+Name: assets/KOUBEI@goods_detail_more@4
+SHA1-Digest: boGUQJQ5zvKQ0cZKA2jDhgTMgM0=
+
+Name: assets/OVERSEAS@intl_shop_detail_report_error
+SHA1-Digest: Pb45rDHdx7j/NBRtyH1FQb7R6jE=
+
+Name: assets/QUICKPAY@cashier-ebank-pay-flex
+SHA1-Digest: Wd7fd58FXqGnPlEsj9v6iDmBpek=
+
+Name: lib/armeabi/libandroid-phone-wallet-socialfeedsmob.so
+SHA1-Digest: m/C91q/8c733MEpt3g2Z5pedw7Q=
+
+Name: assets/KOUBEI@collect_list_item@17
+SHA1-Digest: CPif4/daQLL3Uospx01EenE1VRk=
+
+Name: assets/lottie/antui_loading.json
+SHA1-Digest: CW/C3g9L0ixbIcpklV36iWghBvw=
+
+Name: lib/armeabi/libandroid-phone-businesscommon-tablauncher.so
+SHA1-Digest: 3R2cq25rLHC3ru0gW4Pj9h5D7ic=
+
+Name: assets/BANK_BOHAIB.png
+SHA1-Digest: 1x9o/sO1DO9DsUyl8Gea/NqN5VY=
+
+Name: lib/armeabi/libandroid-phone-mobilecommon-mapbiz.so
+SHA1-Digest: r8ez+5X5ZYnkwCyfdaytnP92i4k=
+
+Name: res/xml/nfc_aid_list.xml
+SHA1-Digest: vDYUshfo21SFCv51liOtC5ywH58=
+
+Name: assets/QUICKPAY@pcreditpay-signretrieval-flex
+SHA1-Digest: NjU7XhACMMqaEVENPIG5jrrOtFQ=
+
+Name: lib/armeabi/libandroid-phone-wallet-onsitepay.so
+SHA1-Digest: K/0XfdXjNcU5+RMXYXtUVjSD2fI=
+
+Name: lib/armeabi/libandroid-phone-wallet-contactsapp.so
+SHA1-Digest: scaW9edMqAQQaCmWGTDTRL2Q5Iw=
+
+Name: assets/KOUBEI@lc_theme_detail_header@18
+SHA1-Digest: MCrsH/9Sg1aAXSaTbb94caiyhg0=
+
+Name: lib/armeabi/libstlport_shared.so
+SHA1-Digest: jrL9OJ1GRPc1FGcYiXEI4EFp42I=
+
+Name: assets/OVERSEAS@intl_home_featured_circle
+SHA1-Digest: h1QdCjM2vqyvjDYSqgydRH8W9sQ=
+
+Name: assets/bank_mark/icon/SJBANK.png
+SHA1-Digest: 2IWiPZPG72G6+FTK5QyUGNtlgYc=
+
+Name: lib/armeabi/libandroid-phone-wallet-openplatform.so
+SHA1-Digest: Jz1QuR0JoCWKsy1UUIuJLKNkqzw=
+
+Name: lib/armeabi/libandroid-phone-wallet-pushservice.so
+SHA1-Digest: EGX3YjeOa0vN8+zQHPx7/wzG8ik=
+
+Name: assets/BANK_default.png
+SHA1-Digest: c4lGmjQHGjziq5yWd77WgqW26gg=
+
+Name: assets/USE_MOBILETRANSFER.png
+SHA1-Digest: HhDIpCAe8nOsXhnZNslKQ55VBD4=
+
+Name: res/drawable-xxhdpi-v4/notify_scan_light.png
+SHA1-Digest: kSOhDBBfq50a/Qxylq/Z1rqJY4w=
+
+Name: assets/QUICKPAY@medicare-pre-consult-flex
+SHA1-Digest: cju0Pib1nZANcHc5FOtnD1IX5R8=
+
+Name: assets/emotions/emotion_small_99.webp
+SHA1-Digest: oZwjRByZjJbWU8mDDaw2NS3xe6Y=
+
+Name: assets/shaders/depth.frag
+SHA1-Digest: cxr8013eY2fcPEzbO6q0tF2s8Y0=
+
